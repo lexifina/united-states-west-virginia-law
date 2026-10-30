@@ -1,0 +1,8 @@
+{
+  "path": "us/wv",
+  "code": "US-WV",
+  "name": "United States (West Virginia)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-west-virginia-law",
+  "build": "built"
+}

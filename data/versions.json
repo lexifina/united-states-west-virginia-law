@@ -1,0 +1,943 @@
+{
+ "country": "US-WV",
+ "acts": [
+  {
+   "slug": "chapter-61-article-0001",
+   "short": "W. Va. Code 61-1",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 1. CRIMES AGAINST THE GOVERNMENT.",
+   "url": "https://code.wvlegislature.gov/61-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/61-1/",
+     "sha256": "a54ae1b412acc733f87131bb0647bf62b45a2090f76183573fba477c3513df9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0002",
+   "short": "W. Va. Code 61-2",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 2. CRIMES AGAINST THE PERSON.",
+   "url": "https://code.wvlegislature.gov/61-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 51,
+     "source_url": "https://code.wvlegislature.gov/61-2/",
+     "sha256": "ab79f2bccf2ab005fefd096d8dd4dd22edf9849c8dcd8942c791403506e6479b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003",
+   "short": "W. Va. Code 61-3",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3. CRIMES AGAINST PROPERTY.",
+   "url": "https://code.wvlegislature.gov/61-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 92,
+     "source_url": "https://code.wvlegislature.gov/61-3/",
+     "sha256": "ecb9645f90db0e34c71b91523a8cdadae33cb7049bcd01756f31856d04cab71e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003a",
+   "short": "W. Va. Code 61-3A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3A. SHOPLIFTING.",
+   "url": "https://code.wvlegislature.gov/61-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/61-3A/",
+     "sha256": "2927c45f70adcefd185f6bf9b7c588876315114a838d1cf9d5c3886c5a1f6411"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003b",
+   "short": "W. Va. Code 61-3B",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3B. TRESPASS.",
+   "url": "https://code.wvlegislature.gov/61-3B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/61-3B/",
+     "sha256": "ef102958634d9785bdab26abaad85628fcbb1dc25dfb50f950f3b54e3fb68b94"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003c",
+   "short": "W. Va. Code 61-3C",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3C. WEST VIRGINIA COMPUTER CRIME AND ABUSE ACT.",
+   "url": "https://code.wvlegislature.gov/61-3C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 25,
+     "source_url": "https://code.wvlegislature.gov/61-3C/",
+     "sha256": "eb5305d8936817f5826a9c700716de6c03b68644f49d26595d547cad4ec9cf22"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003d",
+   "short": "W. Va. Code 61-3D",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3D. THEFT OF CABLE TELEVISION SERVICES.",
+   "url": "https://code.wvlegislature.gov/61-3D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/61-3D/",
+     "sha256": "0704a62911ee5294e8731e815855ad0c2d1720e4a94ca400563a874a1f1e864a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0003e",
+   "short": "W. Va. Code 61-3E",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 3E. OFFENSES INVOLVING EXPLOSIVES.",
+   "url": "https://code.wvlegislature.gov/61-3E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/61-3E/",
+     "sha256": "b8dd1f64171483158c3c2519d734495d98784bdf1e4df56e7ec03830fd6bccb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0004",
+   "short": "W. Va. Code 61-4",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 4. FORGERY AND CRIMES AGAINST THE CURRENCY.",
+   "url": "https://code.wvlegislature.gov/61-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/61-4/",
+     "sha256": "b3ae2ecd615ecfe30fc9c22675f38f2e55812f750405272c3c2abc6cc2c09803"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0004a",
+   "short": "W. Va. Code 61-4A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 4A. CRIMES INVOLVING GIFT CARDS.",
+   "url": "https://code.wvlegislature.gov/61-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/61-4A/",
+     "sha256": "b7a34dbdcd4a7a247f82465f6572dd74273bde5c514362cad26f2dba2488f4ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0005",
+   "short": "W. Va. Code 61-5",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 5. CRIMES AGAINST PUBLIC JUSTICE.",
+   "url": "https://code.wvlegislature.gov/61-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 36,
+     "source_url": "https://code.wvlegislature.gov/61-5/",
+     "sha256": "907b9e8f87110a67f9267d8b39fa4be9a8a2d1855ba5b76134fac3d0474a710c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0005a",
+   "short": "W. Va. Code 61-5A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 5A. BRIBERY AND CORRUPT PRACTICES.",
+   "url": "https://code.wvlegislature.gov/61-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/61-5A/",
+     "sha256": "8222b2897e7b7a6fba3ddbb3ddda05d2b77d8caf71834a0cc5dfab38a147f56a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0006",
+   "short": "W. Va. Code 61-6",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 6. CRIMES AGAINST THE PEACE.",
+   "url": "https://code.wvlegislature.gov/61-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 28,
+     "source_url": "https://code.wvlegislature.gov/61-6/",
+     "sha256": "cec275f9f78b19437b73974f2e98161e5fe9d85d1633877d117b89e3cab9a4dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0007",
+   "short": "W. Va. Code 61-7",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 7. DANGEROUS WEAPONS.",
+   "url": "https://code.wvlegislature.gov/61-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/61-7/",
+     "sha256": "d1cb2ba6f80494e102b8c81ff9886e16086e4c7640b5bc3d7949ba58addfcd3f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0007a",
+   "short": "W. Va. Code 61-7A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 7A. STATE MENTAL HEALTH REGISTRY; REPORTING OF PERSONS PROSCRIBED FROM FIREARM POSSESSION DUE TO MENTAL CONDITION TO THE NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM; LEGISLATIVE FINDINGS; DEFINITIONS; REPORTING REQUIREMENTS; REINSTATEMENT OF RIGHTS PROCEDURES.",
+   "url": "https://code.wvlegislature.gov/61-7A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/61-7A/",
+     "sha256": "c8fa6f6b29202cf8b41b5c850e4039149d05a18057eea133159c340248340403"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0007b",
+   "short": "W. Va. Code 61-7B",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 7B. THE WEST VIRGINIA SECOND AMENDMENT PRESERVATION AND ANTI-FEDERAL COMMANDEERING ACT.",
+   "url": "https://code.wvlegislature.gov/61-7B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/61-7B/",
+     "sha256": "f9d384351e92db6333666e715bacc49bf6d93315e130232383ba9089f32f4ad1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0007c",
+   "short": "W. Va. Code 61-7C",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 7C. WEST VIRGINIA FIREARMS MARKETING CLARIFICATION ACT.",
+   "url": "https://code.wvlegislature.gov/61-7C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/61-7C/",
+     "sha256": "f23759c3893cb2842724366353f9fe158e773c5137b6b3fc4d9f5297ab0ae5c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008",
+   "short": "W. Va. Code 61-8",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8. CRIMES AGAINST CHASTITY, MORALITY AND DECENCY.",
+   "url": "https://code.wvlegislature.gov/61-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 38,
+     "source_url": "https://code.wvlegislature.gov/61-8/",
+     "sha256": "a08e4df6cdb5c43917eabae8690de126f967fa1004ce7234aebff21caad18a78"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008a",
+   "short": "W. Va. Code 61-8A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8A. PREPARATION, DISTRIBUTION OR EXHIBITION OF OBSCENE MATTER TO MINORS.",
+   "url": "https://code.wvlegislature.gov/61-8A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/61-8A/",
+     "sha256": "0f9db0152a952c7ef2a1ed9c6ddb4260c8d1c6c7e1601df7456054287a7ad026"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008b",
+   "short": "W. Va. Code 61-8B",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8B. SEXUAL OFFENSES.",
+   "url": "https://code.wvlegislature.gov/61-8B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/61-8B/",
+     "sha256": "62c65771e175e2a0adcfe43646b2de09d06a2a8d3a18cff117a4b3d38f0018f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008c",
+   "short": "W. Va. Code 61-8C",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8C. FILMING OF SEXUALLY EXPLICIT CONDUCT OF MINORS.",
+   "url": "https://code.wvlegislature.gov/61-8C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/61-8C/",
+     "sha256": "37ed56c37079a79f7dab90abaee2f98191601c3264f10adede6efe2d35d3137e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008d",
+   "short": "W. Va. Code 61-8D",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8D. CHILD ABUSE.",
+   "url": "https://code.wvlegislature.gov/61-8D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/61-8D/",
+     "sha256": "92c42809b5f2457d1590a737f0f085b14e20553ac07e7ca1d137db7dc068e9c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008e",
+   "short": "W. Va. Code 61-8E",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8E. DISPLAY OF VIDEO RATINGS OR LACK THEREOF.",
+   "url": "https://code.wvlegislature.gov/61-8E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/61-8E/",
+     "sha256": "8697d1e321209af9aefc3ec3063d533f934f3936f33f2e62c482c8b5a6264552"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0008f",
+   "short": "W. Va. Code 61-8F",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 8F. SPECIAL PROTECTIONS FOR DISABLED CHILDREN ACT OF 2022.",
+   "url": "https://code.wvlegislature.gov/61-8F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/61-8F/",
+     "sha256": "35077dd23267c8c6cdcab2f9e4024e34a491608add0dceff66ae036bb1fcd42f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0009",
+   "short": "W. Va. Code 61-9",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 9. EQUITABLE REMEDIES IN AID OF CHASTITY, MORALITY AND DECENCY.",
+   "url": "https://code.wvlegislature.gov/61-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/61-9/",
+     "sha256": "1afd73cc18c0ebcc8efd9fb3b0454fc387f1a1f05d31c69da809f0679324da11"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0010",
+   "short": "W. Va. Code 61-10",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 10. CRIMES AGAINST PUBLIC POLICY.",
+   "url": "https://code.wvlegislature.gov/61-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 36,
+     "source_url": "https://code.wvlegislature.gov/61-10/",
+     "sha256": "1f96533268e39535fbf5f22f4acbe7931f677b0515c0b15be794d4374b047b04"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0011",
+   "short": "W. Va. Code 61-11",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 11. GENERAL PROVISIONS CONCERNING CRIMES.",
+   "url": "https://code.wvlegislature.gov/61-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/61-11/",
+     "sha256": "6db429c24b98ffc09b0d9d0dc43f6530f1debec6f07cfe4e2a6e551c69585160"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0011a",
+   "short": "W. Va. Code 61-11A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 11A. VICTIM PROTECTION ACT OF 1984.",
+   "url": "https://code.wvlegislature.gov/61-11A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/61-11A/",
+     "sha256": "91a69a4a76caa86c8a2f6b248120cb488f41b93a44b39c0eb046b4e9595031e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0011b",
+   "short": "W. Va. Code 61-11B",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 11B. CRIMINAL OFFENSE REDUCTION.",
+   "url": "https://code.wvlegislature.gov/61-11B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/61-11B/",
+     "sha256": "ad59a6cd99a4a9114e682cc369a91e7c156ecf2754860c717e2719cc299cff31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0012",
+   "short": "W. Va. Code 61-12",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 12. POSTMORTEM EXAMINATIONS.",
+   "url": "https://code.wvlegislature.gov/61-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/61-12/",
+     "sha256": "2797111d8f4d29f5a5bcc12ad47601231ae78fd9a910e62cdd7ebde8562476ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0012a",
+   "short": "W. Va. Code 61-12A",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 12A. FATALITY AND MORTALITY REVIEW TEAM.",
+   "url": "https://code.wvlegislature.gov/61-12A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/61-12A/",
+     "sha256": "e2330677d071b44fe2585453d70b0ec54bcaf69dbe899c96d7770f62a8a50b42"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0012b",
+   "short": "W. Va. Code 61-12B",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 12B. CRITICAL INCIDENT REVIEW TEAM.",
+   "url": "https://code.wvlegislature.gov/61-12B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/61-12B/",
+     "sha256": "a30335bf0f03ab46da49f4c85b5f3f5b99bb6da61d7548ebf814a201fe11acf5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0013",
+   "short": "W. Va. Code 61-13",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 13. ANTI-ORGANIZED CRIMINAL ENTERPRISE ACT.",
+   "url": "https://code.wvlegislature.gov/61-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/61-13/",
+     "sha256": "49622c1ff5d509972a62ae86fd783765298c748f7cd233d323a6fc55abab8501"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0014",
+   "short": "W. Va. Code 61-14",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 14. HUMAN TRAFFICKING AND HUMAN SMUGGLING.",
+   "url": "https://code.wvlegislature.gov/61-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/61-14/",
+     "sha256": "6b22ee7fff0c611ea1a9eede7e9c576e196b68655cd960d640d8cd11c4645869"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0015",
+   "short": "W. Va. Code 61-15",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 15. MONEY LAUNDERING.",
+   "url": "https://code.wvlegislature.gov/61-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/61-15/",
+     "sha256": "d9e7fff58e78579d487ec62b10687943268b5331a5da73cbea675d303ef864e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-61-article-0016",
+   "short": "W. Va. Code 61-16",
+   "title": "West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 16. USE OF UNMANNED AIRCRAFT SYSTEMS.",
+   "url": "https://code.wvlegislature.gov/61-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/61-16/",
+     "sha256": "a0b02af4037633fdd9b9b7f52a7c5c1ef5123d40480788e690530d34c23e2af3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0001",
+   "short": "W. Va. Code 31D-1",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31D-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/31D-1/",
+     "sha256": "44f5ced0de89bc62a77a0dfc21d664b6ee727e946ef5b20a091956e2f58c11b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0002",
+   "short": "W. Va. Code 31D-2",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 2. INCORPORATION.",
+   "url": "https://code.wvlegislature.gov/31D-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/31D-2/",
+     "sha256": "4f657710a7f61045424b563e7c7eecfa0e458230b0026f04abeb9125ac70fdb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0003",
+   "short": "W. Va. Code 31D-3",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 3. PURPOSES AND POWERS.",
+   "url": "https://code.wvlegislature.gov/31D-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/31D-3/",
+     "sha256": "3a83ce95d3b3ea713a5ad2bc8da05e10445b1ac4210833f7297f72f45d3a5404"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0004",
+   "short": "W. Va. Code 31D-4",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 4. NAME.",
+   "url": "https://code.wvlegislature.gov/31D-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/31D-4/",
+     "sha256": "07c2cbf4711d8b59437c448fab13a02b96da0f2bcda207b2924919d077d292f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0005",
+   "short": "W. Va. Code 31D-5",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 5. OFFICE AND AGENT.",
+   "url": "https://code.wvlegislature.gov/31D-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/31D-5/",
+     "sha256": "5a05403ece616f9f3c90d94b9dea97a14977c31fcba251089166eb083faeb282"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0006",
+   "short": "W. Va. Code 31D-6",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 6. SHARES AND DISTRIBUTIONS.",
+   "url": "https://code.wvlegislature.gov/31D-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/31D-6/",
+     "sha256": "a293bb76a060130c1b09bbdddfb7565c3c59068429c367fba8d6906d484a516c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0007",
+   "short": "W. Va. Code 31D-7",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 7. SHAREHOLDERS.",
+   "url": "https://code.wvlegislature.gov/31D-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/31D-7/",
+     "sha256": "b5acb33122a89de24ed2444b0991916884444da0cc78d4dfaf50a3f60e86541a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0008",
+   "short": "W. Va. Code 31D-8",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 8. DIRECTORS AND OFFICERS.",
+   "url": "https://code.wvlegislature.gov/31D-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 38,
+     "source_url": "https://code.wvlegislature.gov/31D-8/",
+     "sha256": "a9ef311d105643c38be37363eb003f3317aa5d60e4afb9f2029e0519c4b6010c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0010",
+   "short": "W. Va. Code 31D-10",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 10. AMENDMENT OF ARTICLES OF INCORPORATION AND BYLAWS.",
+   "url": "https://code.wvlegislature.gov/31D-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/31D-10/",
+     "sha256": "1d160923f7bd49c3d3b721b811f0d439d9704904352891ee1003205fe1bb53b9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0011",
+   "short": "W. Va. Code 31D-11",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 11. MERGERS AND SHARE EXCHANGES.",
+   "url": "https://code.wvlegislature.gov/31D-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/31D-11/",
+     "sha256": "462872fbf9657274aeb9d186fa1f6331dc899c4beda95f3df2fc90eb89c4618e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0012",
+   "short": "W. Va. Code 31D-12",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 12. DISPOSITION OF ASSETS.",
+   "url": "https://code.wvlegislature.gov/31D-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/31D-12/",
+     "sha256": "b92c75d558f21faa51f95b1c10e88872f7994d03df093a9d84513d75c9d511c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0013",
+   "short": "W. Va. Code 31D-13",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 13. APPRAISAL RIGHTS.",
+   "url": "https://code.wvlegislature.gov/31D-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/31D-13/",
+     "sha256": "ddee06025b5f887781eff2dbb459ad51d6e7fb7b140ef073c0b961ec8abd332b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0014",
+   "short": "W. Va. Code 31D-14",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 14. DISSOLUTION.",
+   "url": "https://code.wvlegislature.gov/31D-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/31D-14/",
+     "sha256": "6405f521e7dc19f3e131950f9580a672178d99da3f5a54e88407e843010c408f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0015",
+   "short": "W. Va. Code 31D-15",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 15. FOREIGN CORPORATIONS.",
+   "url": "https://code.wvlegislature.gov/31D-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/31D-15/",
+     "sha256": "33e0d9cf8a22dddacbe20ab117c16e9bbf245465f5422be1b0a0805a884931b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0016",
+   "short": "W. Va. Code 31D-16",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 16. RECORDS AND REPORTS.",
+   "url": "https://code.wvlegislature.gov/31D-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/31D-16/",
+     "sha256": "9d02e34eca5c4fcef2eb25d2b4e7bdf471360f0e273cd8b0fb619e07a428206a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d-article-0017",
+   "short": "W. Va. Code 31D-17",
+   "title": "West Virginia Code, CHAPTER 31D. WEST VIRGINIA BUSINESS CORPORATION ACT. ARTICLE 17. TRANSITION PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31D-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/31D-17/",
+     "sha256": "81212b1f8d2f1f25d7c21904d4da27e92a4694d60f6fb48b5b4ceedc7718b2b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0001",
+   "short": "W. Va. Code 36-1",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 1. CREATION OF ESTATES GENERALLY.",
+   "url": "https://code.wvlegislature.gov/36-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/36-1/",
+     "sha256": "fdbfef2b86fcc5636a70222d544cb01418ebcbda35571a8b580492c893c73914"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0001a",
+   "short": "W. Va. Code 36-1A",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 1A. UNIFORM STATUTORY RULE AGAINST PERPETUITIES.",
+   "url": "https://code.wvlegislature.gov/36-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/36-1A/",
+     "sha256": "22aa1022aa214e452c0cb2fab9ab0b0838b42a5bf94c8a9718528f7519f9eb0f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0002",
+   "short": "W. Va. Code 36-2",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 2. DISPOSITION OF ESTATES SUBJECT TO FUTURE INTERESTS.",
+   "url": "https://code.wvlegislature.gov/36-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/36-2/",
+     "sha256": "dc9a3759b17cdb02fe27c817d55239675bb94b0838a9e24f9866dc6b7e23c1c0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0003",
+   "short": "W. Va. Code 36-3",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 3. FORM AND EFFECT OF DEEDS AND CONTRACTS.",
+   "url": "https://code.wvlegislature.gov/36-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/36-3/",
+     "sha256": "466cd1be5453692d564abe2742dadf013c0737c68191c2c9a0846cb968f13b18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0004",
+   "short": "W. Va. Code 36-4",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 4. COVENANTS.",
+   "url": "https://code.wvlegislature.gov/36-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/36-4/",
+     "sha256": "c8f9e7c57b2013ec4384f252364a0d3eb788c8e7b1812adfe6c775a8f9ca3a60"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0005",
+   "short": "W. Va. Code 36-5",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 5. RELEASE OR DISCLAIMER OF POWERS OF APPOINTMENT.",
+   "url": "https://code.wvlegislature.gov/36-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/36-5/",
+     "sha256": "9cf7f6c866d9eb20c1e9dfb15b99fd691a3d72c565a8becfc1d3f4326669eb81"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0006",
+   "short": "W. Va. Code 36-6",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 6. UNIFORM PRINCIPAL AND INCOME ACT.",
+   "url": "https://code.wvlegislature.gov/36-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/36-6/",
+     "sha256": "584039505f8cb8e7e9102f9bd31785904dbf0e9b8341acf3c68b2a91fcddad34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0007",
+   "short": "W. Va. Code 36-7",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 7. UNIFORM TRANSFERS TO MINORS ACT.",
+   "url": "https://code.wvlegislature.gov/36-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/36-7/",
+     "sha256": "dac3c1aaf46b86a5dbee68ec72f05c95ddebf325223d97e569e2c88aa0aea883"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0008",
+   "short": "W. Va. Code 36-8",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 8. UNIFORM UNCLAIMED PROPERTY ACT.",
+   "url": "https://code.wvlegislature.gov/36-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 34,
+     "source_url": "https://code.wvlegislature.gov/36-8/",
+     "sha256": "b5051fd5d29459bfbb2bd23c70bd0fbdfd58fc93505b9555c765b3eae23567f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0008a",
+   "short": "W. Va. Code 36-8A",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 8A. UNCLAIMED STOLEN PROPERTY HELD BY LAW-ENFORCEMENT AGENCIES.",
+   "url": "https://code.wvlegislature.gov/36-8A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/36-8A/",
+     "sha256": "1e9c1c6de1e6e38cd1e11d5322c609a53c42e9360cb818b5c23c1b8a93e39d28"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0009",
+   "short": "W. Va. Code 36-9",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 9. WEST VIRGINIA REAL ESTATE TIME-SHARING ACT.",
+   "url": "https://code.wvlegislature.gov/36-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/36-9/",
+     "sha256": "d8a376a7bd1a0f86f651275db5b420bce26a1616fb39ffea1405e0f0d86a33f1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0010",
+   "short": "W. Va. Code 36-10",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 10. UNIFORM TRANSFER ON DEATH SECURITY REGISTRATION ACT.",
+   "url": "https://code.wvlegislature.gov/36-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/36-10/",
+     "sha256": "59ec2fa9eee23236353bf7976c46a6a1976c333f2cd29fa923cba64458546de8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0011",
+   "short": "W. Va. Code 36-11",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 11. UNIFORM UNINCORPORATED NONPROFIT ASSOCIATION ACT.",
+   "url": "https://code.wvlegislature.gov/36-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/36-11/",
+     "sha256": "2d7911386e981b37b6f28a7a01991536b8026af048b62d7d683f0bc9dc38ae35"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0012",
+   "short": "W. Va. Code 36-12",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 12. UNIFORM REAL PROPERTY TRANSFER ON DEATH ACT.",
+   "url": "https://code.wvlegislature.gov/36-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/36-12/",
+     "sha256": "ddfca12a5ee05e11c0928edc5702993c6325e27f77cc39213eb1559d44306cb0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36-article-0013",
+   "short": "W. Va. Code 36-13",
+   "title": "West Virginia Code, CHAPTER 36. ESTATES AND PROPERTY. ARTICLE 13. DECENTRALIZED UNINCORPORATED NONPROFIT ASSOCIATION ACT.",
+   "url": "https://code.wvlegislature.gov/36-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/36-13/",
+     "sha256": "767fb7b3ab94eda47334412bb9141902fce141e83b2515a8ac02f30e79b6a22c"
+    }
+   ]
+  }
+ ]
+}

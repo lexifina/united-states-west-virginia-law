@@ -1,0 +1,11 @@
+# West Virginia Code, CHAPTER 61. CRIMES AND THEIR PUNISHMENT. ARTICLE 7A. STATE MENTAL HEALTH REGISTRY; REPORTING OF PERSONS PROSCRIBED FROM FIREARM POSSESSION DUE TO MENTAL CONDITION TO THE NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM; LEGISLATIVE FINDINGS; DEFINITIONS; REPORTING REQUIREMENTS; REINSTATEMENT OF RIGHTS PROCEDURES.
+
+W. Va. Code 61-7A · 1 versions, from 2026-10-13 (latest in force: 2026-10-13) · <https://code.wvlegislature.gov/61-7A/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 61-7A-1 | [sec-0061-0007a-0001.md](sec-0061-0007a-0001.md) | 0 |  |
+| § 61-7A-2 | [sec-0061-0007a-0002.md](sec-0061-0007a-0002.md) | 0 |  |
+| § 61-7A-3 | [sec-0061-0007a-0003.md](sec-0061-0007a-0003.md) | 0 |  |
+| § 61-7A-4 | [sec-0061-0007a-0004.md](sec-0061-0007a-0004.md) | 0 |  |
+| § 61-7A-5 | [sec-0061-0007a-0005.md](sec-0061-0007a-0005.md) | 0 |  |
