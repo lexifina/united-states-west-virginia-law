@@ -4984,6 +4984,3898 @@
      "sha256": "5aeb4ec8cb18d080e3a600194c5bdb6ba3ebc723a742afc251345914164a07fd"
     }
    ]
+  },
+  {
+   "slug": "chapter-16-article-0001",
+   "short": "W. Va. Code 16-1",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 1. STATE PUBLIC HEALTH SYSTEM.",
+   "url": "https://code.wvlegislature.gov/16-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 34,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-1/",
+     "sha256": "2c4cf3a8b6b64526d8e21a2b9e79dcfed67dd2519bf2b25d1af9078cd94424ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0001a",
+   "short": "W. Va. Code 16-1A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 1A. UNIFORM CREDENTIALING FOR HEALTH CARE PRACTITIONERS.",
+   "url": "https://code.wvlegislature.gov/16-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-1A/",
+     "sha256": "67da76f17f590892c02d02d5125124d0805f0981d5c507e51366777e4a90e4e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0001b",
+   "short": "W. Va. Code 16-1B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 1B. SKILLED NURSING FACILITIES FOR VETERANS OF THE UNITED STATES ARMED FORCES.",
+   "url": "https://code.wvlegislature.gov/16-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-1B/",
+     "sha256": "47ebe31e134002d7af303689117301773780f2b59abb5cb2478186608d8164ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0001c",
+   "short": "W. Va. Code 16-1C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 1C. HEALTH CARE PROVIDER TRANSPARENCY ACT.",
+   "url": "https://code.wvlegislature.gov/16-1C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-1C/",
+     "sha256": "60b254865cd5697f80c0a9144d87dac58b523a2c46353e9d636602308c943c00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002",
+   "short": "W. Va. Code 16-2",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2. LOCAL BOARDS OF HEALTH.",
+   "url": "https://code.wvlegislature.gov/16-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2/",
+     "sha256": "94b6cf22b6c939efeded0d3b43b1b1f319e62ef701e0fecb7e9b0db928cc9e44"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002a",
+   "short": "W. Va. Code 16-2A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2A. ALTERNATIVE METHOD OF ORGANIZING LOCAL HEALTH AGENCIES.",
+   "url": "https://code.wvlegislature.gov/16-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2A/",
+     "sha256": "b2b6a65ccee2ca439af330db92eee4a48bc18349963b0ddbb22fc40044625fbe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002b",
+   "short": "W. Va. Code 16-2B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2B. FAMILY PLANNING AND CHILD SPACING.",
+   "url": "https://code.wvlegislature.gov/16-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2B/",
+     "sha256": "f1a924ecffc174ab65552c08256d9522ef275d827d99dfd95f7cf54c7093cdb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002c",
+   "short": "W. Va. Code 16-2C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2C. HOME HEALTH SERVICES.",
+   "url": "https://code.wvlegislature.gov/16-2C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2C/",
+     "sha256": "a6b108efaa947da27e75a99ae546bdb8ee1130bf19b16a62f96a9d1149f07c6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002d",
+   "short": "W. Va. Code 16-2D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2D. CERTIFICATE OF NEED.",
+   "url": "https://code.wvlegislature.gov/16-2D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 30,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2D/",
+     "sha256": "6c7d6ba58219c57c962641d37ecfbc083b1ab407a214e109b854ff216c2f235f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002e",
+   "short": "W. Va. Code 16-2E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2E. BIRTHING CENTERS.",
+   "url": "https://code.wvlegislature.gov/16-2E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2E/",
+     "sha256": "1e6fa24e86cc0ae10be16bc04041782f0d9475c9bb8e555c1ed12f17430e6198"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002f",
+   "short": "W. Va. Code 16-2F",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2F. PARENTAL NOTIFICATION OF ABORTIONS PERFORMED ON UNEMANCIPATED MINORS.",
+   "url": "https://code.wvlegislature.gov/16-2F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2F/",
+     "sha256": "9147f98abe27acd0723709334ef76dd85c130a84652b70809f8d881e1a533c8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002g",
+   "short": "W. Va. Code 16-2G",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2G. SPECIAL SUPPLEMENTARY FOOD PROGRAM FOR WOMEN, INFANTS AND CHILDREN (WIC).",
+   "url": "https://code.wvlegislature.gov/16-2G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2G/",
+     "sha256": "6ca06f0a3a8ce8e5c0de063989939bef90d3926157cb6a45922bece206cc2982"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002h",
+   "short": "W. Va. Code 16-2H",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2H. PRIMARY CARE SUPPORT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-2H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2H/",
+     "sha256": "5ecadd30725d8796b1af6ff3a2c951f4824b832d8809adfed7b3dabda58a1733"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002i",
+   "short": "W. Va. Code 16-2I",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2I. WOMEN'S RIGHT TO KNOW ACT.",
+   "url": "https://code.wvlegislature.gov/16-2I/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2I/",
+     "sha256": "5d2f961909d21e2eb58e040915cc8d50c4c9f6bb9c96db799efc29292dccd80d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002j",
+   "short": "W. Va. Code 16-2J",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2J. PREVENTIVE CARE PILOT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-2J/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2J/",
+     "sha256": "366bda5fe6ef1ef2f9b6c131b3de1a3b926fad4017f3f0bb4b38b45ed925f11f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002k",
+   "short": "W. Va. Code 16-2K",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2K. PROGRAMS OF ALL-INCLUSIVE CARE FOR THE ELDERLY, \"PACE\".",
+   "url": "https://code.wvlegislature.gov/16-2K/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2K/",
+     "sha256": "b9fe4f2338f4707ae6ecac69b6a3571a017563b3f34aa20ba3f2eccb401ecac0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002l",
+   "short": "W. Va. Code 16-2L",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2L. PROVIDER SPONSORED NETWORKS.",
+   "url": "https://code.wvlegislature.gov/16-2L/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2L/",
+     "sha256": "2f75107d8143405ca0ee475a7904204e4269237dac9db0528aae37083ff9c3f7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002m",
+   "short": "W. Va. Code 16-2M",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2M. THE PAIN-CAPABLE UNBORN CHILD PROTECTION ACT.",
+   "url": "https://code.wvlegislature.gov/16-2M/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2M/",
+     "sha256": "b1b41bb27164e3f534bb514bd3862de909f3d2cf87e80eddfab5ad546ed164b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002n",
+   "short": "W. Va. Code 16-2N",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2N. NEONATAL ABSTINENCE CENTERS.",
+   "url": "https://code.wvlegislature.gov/16-2N/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2N/",
+     "sha256": "d0a531803c0e8d58744cabe3b87ce70d6d9d745fbb69513193ee13252a195a47"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002o",
+   "short": "W. Va. Code 16-2O",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2O. UNBORN CHILD PROTECTION FROM DISMEMBERMENT ABORTION ACT.",
+   "url": "https://code.wvlegislature.gov/16-2O/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2O/",
+     "sha256": "fbb1d4dae05a4ccb4492d881fe440bec054d7d8309d760d32a53369360e83cda"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002p",
+   "short": "W. Va. Code 16-2P",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2P. BORN-ALIVE ABORTION SURVIVORS PROTECTION ACT.",
+   "url": "https://code.wvlegislature.gov/16-2P/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2P/",
+     "sha256": "bc316e9c222d979023d21d39248d217f3e05956b5d0ddd35758649a5f9a87607"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002q",
+   "short": "W. Va. Code 16-2Q",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2Q. UNBORN CHILD WITH A DISABILITY PROTECTION AND EDUCATION ACT.",
+   "url": "https://code.wvlegislature.gov/16-2Q/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2Q/",
+     "sha256": "bc6e88cb3e8c77e09d0b1041330f060c8fe44d5034dbaf9d414ffd759513c684"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0002r",
+   "short": "W. Va. Code 16-2R",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2R. UNBORN CHILD PROTECTION ACT.",
+   "url": "https://code.wvlegislature.gov/16-2R/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-2R/",
+     "sha256": "25f9818603d4bc7001d3180bab1d5eb61d14b001b54743366c1afde1dd027e66"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0003",
+   "short": "W. Va. Code 16-3",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3. PREVENTION AND CONTROL OF COMMUNICABLE AND OTHER INFECTIOUS DISEASES.",
+   "url": "https://code.wvlegislature.gov/16-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-3/",
+     "sha256": "63f65eec5629b6b81e5a0fed253c573910968de7550f11e29b9ad2e9f1bd7f9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0003a",
+   "short": "W. Va. Code 16-3A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3A. REPOSITORY OF INFORMATION ON MEDICAL TREATMENT FOR CERTAIN HAZARDOUS MATERIALS; REQUEST FOR INFORMATION; PENALTIES; ENFORCEMENT.",
+   "url": "https://code.wvlegislature.gov/16-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-3A/",
+     "sha256": "7cb91e1cf083d0be7a8799fec9d2cd01fa4b160b93245ccb4c9fe74e080dae9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0003b",
+   "short": "W. Va. Code 16-3B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3B. PERTUSSIS.",
+   "url": "https://code.wvlegislature.gov/16-3B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-3B/",
+     "sha256": "b74a70e5aa5ea6fa1fcd3b332a4b936c736e84a67dd8187bd6b716b9c089c48d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0003c",
+   "short": "W. Va. Code 16-3C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3C. AIDS-RELATED MEDICAL TESTING AND RECORDS CONFIDENTIALITY ACT.",
+   "url": "https://code.wvlegislature.gov/16-3C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-3C/",
+     "sha256": "27b2e2ca39a4528923902fec88508fb05484f3205bdefe7eb165c3df62e4562c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0003d",
+   "short": "W. Va. Code 16-3D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3D. TUBERCULOSIS TESTING, CONTROL, TREATMENT AND COMMITMENT.",
+   "url": "https://code.wvlegislature.gov/16-3D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-3D/",
+     "sha256": "30ff5ecc49dc67f6f42f4c138984222c18371ca470a34eb91d41a2d4e561cc82"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004",
+   "short": "W. Va. Code 16-4",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4. SEXUALLY TRANSMITTED DISEASES.",
+   "url": "https://code.wvlegislature.gov/16-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 30,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4/",
+     "sha256": "b9637ec4c0af8203dd4982e4be327c720c64baf786e256bf89672585c89fd259"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004a",
+   "short": "W. Va. Code 16-4A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4A. PRENATAL EXAMINATION.",
+   "url": "https://code.wvlegislature.gov/16-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4A/",
+     "sha256": "e27154f4a9e61b3f1437987380c08ab152ad97f20e0a5d003b537211b043e6f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004b",
+   "short": "W. Va. Code 16-4B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4B. AUTOPSIES ON BODIES OF DECEASED PERSONS.",
+   "url": "https://code.wvlegislature.gov/16-4B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4B/",
+     "sha256": "c3383cfc5d04924905f0c3e66be87bc61fcc79a637a23f9f7768c12175c95a4f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004c",
+   "short": "W. Va. Code 16-4C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4C. EMERGENCY MEDICAL SERVICES ACT.",
+   "url": "https://code.wvlegislature.gov/16-4C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4C/",
+     "sha256": "03c5a945531fe0b9ff1e88971847b23360ead56b9e720ce077574d7df1ec5cc1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004d",
+   "short": "W. Va. Code 16-4D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4D. AUTOMATED EXTERNAL DEFIBRILLATORS.",
+   "url": "https://code.wvlegislature.gov/16-4D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4D/",
+     "sha256": "6c8a2b98d332152ed8d3aab2dcaaee03c73457b17d594ea194a0e2916183b810"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004e",
+   "short": "W. Va. Code 16-4E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4E. UNIFORM MATERNAL SCREENING ACT.",
+   "url": "https://code.wvlegislature.gov/16-4E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4E/",
+     "sha256": "88ed2d4e0701798447d5d6fd25ad966b72e58566fbeb8f5007167611a954497c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0004f",
+   "short": "W. Va. Code 16-4F",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 4F. EXPEDITED PARTNER THERAPY.",
+   "url": "https://code.wvlegislature.gov/16-4F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-4F/",
+     "sha256": "8585e142f537b7a1d42f4fec6f1d6eda04846d19ab1faa1396e95896779667ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005",
+   "short": "W. Va. Code 16-5",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5. VITAL STATISTICS.",
+   "url": "https://code.wvlegislature.gov/16-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 44,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5/",
+     "sha256": "c8f14aa3261f42af4aae1aa12181feb94c2296700cd753c04f8d1e58ed41c4d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005a",
+   "short": "W. Va. Code 16-5A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5A. CANCER CONTROL.",
+   "url": "https://code.wvlegislature.gov/16-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5A/",
+     "sha256": "0497f5caaeea929be7524b62f293b988a3ab050e40afa49f82b8463a4709e90d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005b",
+   "short": "W. Va. Code 16-5B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5B. HOSPITALS AND SIMILAR INSTITUTIONS.",
+   "url": "https://code.wvlegislature.gov/16-5B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5B/",
+     "sha256": "8a70b17457274c536ba5dd46e833122cfed98d5aedcfbc00c64c5c9e52491f4a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005c",
+   "short": "W. Va. Code 16-5C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5C. NURSING HOMES.",
+   "url": "https://code.wvlegislature.gov/16-5C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 25,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5C/",
+     "sha256": "612f5b7e329ac2d38146140ab9755bc008503f6d194a199ae1352ef1b87a1af7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005d",
+   "short": "W. Va. Code 16-5D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5D. ASSISTED LIVING RESIDENCES.",
+   "url": "https://code.wvlegislature.gov/16-5D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5D/",
+     "sha256": "0d7ef303f394fdbdd75cc30014e7f6b507f4eb1c20f7cc0af00100663cdb516f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005e",
+   "short": "W. Va. Code 16-5E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5E. REGISTRATION AND INSPECTION OF SERVICE PROVIDERS IN LEGALLY UNLICENSED HEALTH CARE HOMES.",
+   "url": "https://code.wvlegislature.gov/16-5E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5E/",
+     "sha256": "221e9242ca048a23af3cc82fc75060deb561cf860a5d70a55210aab8cd851086"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005f",
+   "short": "W. Va. Code 16-5F",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5F. HEALTH CARE FINANCIAL DISCLOSURE.",
+   "url": "https://code.wvlegislature.gov/16-5F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5F/",
+     "sha256": "eb09add4f26d73a25548c4116b642f252c5c29fc0e64f42a90d45a2dd216d646"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005g",
+   "short": "W. Va. Code 16-5G",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5G. OPEN HOSPITAL PROCEEDINGS.",
+   "url": "https://code.wvlegislature.gov/16-5G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5G/",
+     "sha256": "b22190dbd2b50ca83bedacd23336861b4d9fc956ed8349dec9f4d6e6167698ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005h",
+   "short": "W. Va. Code 16-5H",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5H. CHRONIC PAIN CLINIC LICENSING ACT.",
+   "url": "https://code.wvlegislature.gov/16-5H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5H/",
+     "sha256": "7a8d32d5a2929364755782aa4c8b3b2e95c124d01819474b1f355818ea18d638"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005i",
+   "short": "W. Va. Code 16-5I",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5I. HOSPICE LICENSURE ACT.",
+   "url": "https://code.wvlegislature.gov/16-5I/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5I/",
+     "sha256": "ce06d52d5fabd5968199555919372af985643dc0e10780eb2af9ba1ae181328b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005j",
+   "short": "W. Va. Code 16-5J",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5J. CLINICAL LABORATORIES QUALITY ASSURANCE ACT.",
+   "url": "https://code.wvlegislature.gov/16-5J/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5J/",
+     "sha256": "f97c93ba0cf643b7a21faeaa5cf5b7669dfec3d5f7bfe4a0911b52a336655917"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005k",
+   "short": "W. Va. Code 16-5K",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5K. EARLY INTERVENTION SERVICES FOR CHILDREN WITH DEVELOPMENTAL DELAYS.",
+   "url": "https://code.wvlegislature.gov/16-5K/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5K/",
+     "sha256": "9564105c46316c841c11b8a54dcd2744f1be0537a414596f5444b4fdb84acf15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005l",
+   "short": "W. Va. Code 16-5L",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5L. LONG-TERM CARE OMBUDSMAN PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-5L/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5L/",
+     "sha256": "ea03bf0ed4348663e2ad10cf251445223fa9b4521c2ee210cd154f915fb55c1a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005m",
+   "short": "W. Va. Code 16-5M",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5M. OSTEOPOROSIS PREVENTION EDUCATION ACT.",
+   "url": "https://code.wvlegislature.gov/16-5M/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5M/",
+     "sha256": "5bb6add7235b71db2c4aa1f9e75d606a5f80b24d9dad75437a7db6790df794fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005n",
+   "short": "W. Va. Code 16-5N",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5N. RESIDENTIAL CARE COMMUNITIES.",
+   "url": "https://code.wvlegislature.gov/16-5N/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5N/",
+     "sha256": "61ca2fd6cf653321d591ba2ad13209d181c34773904a4a2bbf7ce1adf8f67593"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005o",
+   "short": "W. Va. Code 16-5O",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5O. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL.",
+   "url": "https://code.wvlegislature.gov/16-5O/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5O/",
+     "sha256": "30c8a2225a7f6d047ae28ef66986c29c457aed45ea55f91ce644dd362f5e15a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005p",
+   "short": "W. Va. Code 16-5P",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5P. SENIOR SERVICES.",
+   "url": "https://code.wvlegislature.gov/16-5P/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5P/",
+     "sha256": "02e840e20d7ae68b0562e11f2bcedcee0595077dc7559b77dd58151b52c885df"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005q",
+   "short": "W. Va. Code 16-5Q",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5Q. THE JAMES \"TIGER\" MORTON CATASTROPHIC ILLNESS FUND.",
+   "url": "https://code.wvlegislature.gov/16-5Q/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5Q/",
+     "sha256": "eaf1b3505530c84268e527ba92783f68ccf8ded8b11d72d440fc5afdf15ef81c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005r",
+   "short": "W. Va. Code 16-5R",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5R. THE ALZHEIMER'S SPECIAL CARE STANDARDS ACT.",
+   "url": "https://code.wvlegislature.gov/16-5R/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5R/",
+     "sha256": "b39bf20b88d11bf122f3157bfa69a9c879bc00b1a037c5a6594905ec4d848877"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005s",
+   "short": "W. Va. Code 16-5S",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5S. OLDER WEST VIRGINIANS ACT.",
+   "url": "https://code.wvlegislature.gov/16-5S/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5S/",
+     "sha256": "f233d3be18aa91d83d96c4d0af5cd9b5bb792b4704d9ec8b628af665d2168770"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005t",
+   "short": "W. Va. Code 16-5T",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5T. OFFICE OF DRUG CONTROL POLICY.",
+   "url": "https://code.wvlegislature.gov/16-5T/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5T/",
+     "sha256": "c7a1c9d76b05519198b72954f3d3dd30d5e16e36bdc4fdecce8d37b0e2e84c96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005u",
+   "short": "W. Va. Code 16-5U",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5U. ARTHRITIS PREVENTION EDUCATION ACT.",
+   "url": "https://code.wvlegislature.gov/16-5U/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5U/",
+     "sha256": "d95abbf8bb336bc52c95f0e4f8098cd533f19ce060f269ec390bdd1faf5fcda2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005v",
+   "short": "W. Va. Code 16-5V",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5V. EMERGENCY MEDICAL SERVICES RETIREMENT SYSTEM ACT.",
+   "url": "https://code.wvlegislature.gov/16-5V/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 44,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5V/",
+     "sha256": "f41c1993c5428a21ef175da88b0936e0cae2a4e8943375cc1cd9a0175e24058c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005w",
+   "short": "W. Va. Code 16-5W",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5W. REGULATION OF BEHAVIORAL HEALTH.",
+   "url": "https://code.wvlegislature.gov/16-5W/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5W/",
+     "sha256": "ef94262f49f8e2609a6fd43539e428c4d58d43822d467135d4ad1de7776b1798"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005x",
+   "short": "W. Va. Code 16-5X",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5X. CAREGIVER ADVISE, RECORD AND ENABLE ACT.",
+   "url": "https://code.wvlegislature.gov/16-5X/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5X/",
+     "sha256": "ee674014c043b36066a69c3d5bb8ee762eabcd033a76090dedfb990d3dbfb238"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005y",
+   "short": "W. Va. Code 16-5Y",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5Y. MEDICATION-ASSISTED TREATMENT PROGRAM LICENSING ACT.",
+   "url": "https://code.wvlegislature.gov/16-5Y/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5Y/",
+     "sha256": "10b62a51d70051005b5b85cac4402b53f287318a88cc7da1445b851a1d8b5c3c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005z",
+   "short": "W. Va. Code 16-5Z",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5Z. COALITION FOR DIABETES MANAGEMENT.",
+   "url": "https://code.wvlegislature.gov/16-5Z/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5Z/",
+     "sha256": "3c0cecf4ae8c84f696bb1f88eb2158be552cef660291a1acf6915dca38907068"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005aa",
+   "short": "W. Va. Code 16-5AA",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5AA. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL IN NURSING HOMES.",
+   "url": "https://code.wvlegislature.gov/16-5AA/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5AA/",
+     "sha256": "b0f9eb2ca806f0bc9372acb6da09a40c225a89d06027cae8517b9477e7caf067"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005bb",
+   "short": "W. Va. Code 16-5BB",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5BB. SCREENING PROTOCOLS FOR ADVERSE CHILDHOOD EXPERIENCES.",
+   "url": "https://code.wvlegislature.gov/16-5BB/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5BB/",
+     "sha256": "364cf2f3261902ffa88f2128cbf83dfdc42eb50aaf978bca206de314e4916ab5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005cc",
+   "short": "W. Va. Code 16-5CC",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5CC. WEST VIRGINIA ADVISORY COUNCIL ON RARE DISEASES.",
+   "url": "https://code.wvlegislature.gov/16-5CC/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5CC/",
+     "sha256": "0cf990c31d89395792751ae02909e987c4b78cdc0223dde2c905c7286c3619dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0005dd",
+   "short": "W. Va. Code 16-5DD",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5DD. COLLECTION OF DATA RELATING TO PARKINSON'S DISEASE.",
+   "url": "https://code.wvlegislature.gov/16-5DD/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-5DD/",
+     "sha256": "8c61a02899e2e3346f8553eba10e5a79d99534f08796d1810575e6bc16d6618b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0006",
+   "short": "W. Va. Code 16-6",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 6. HOTELS AND RESTAURANTS.",
+   "url": "https://code.wvlegislature.gov/16-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-6/",
+     "sha256": "6ebddeb0d54339a8e6224edc811b5c43e1974de7020b6eed8351e409e12c1a5b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0007",
+   "short": "W. Va. Code 16-7",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 7. PURE FOOD AND DRUGS.",
+   "url": "https://code.wvlegislature.gov/16-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-7/",
+     "sha256": "1e3d12afcb1ebba3e408fac52a19699f34c4175363c4592de88e639f3c123e45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0008",
+   "short": "W. Va. Code 16-8",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 8. ELECTROLOGISTS.",
+   "url": "https://code.wvlegislature.gov/16-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-8/",
+     "sha256": "3d7371aea52dba9ee1b221a7c4292870a81ee3a1812bfba60d39922cc709c265"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0008a",
+   "short": "W. Va. Code 16-8A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 8A. NARCOTIC DRUGS.",
+   "url": "https://code.wvlegislature.gov/16-8A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-8A/",
+     "sha256": "73bd7f873e93cbda4fbe97a642a2ff57b47428a965098c92f8f039ecebcb204d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0008b",
+   "short": "W. Va. Code 16-8B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 8B. DANGEROUS DRUGS ACT.",
+   "url": "https://code.wvlegislature.gov/16-8B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-8B/",
+     "sha256": "5fe7ffa4293ff8ea9d1bf95e6256f635d464460874ed6a458f4c8af455d425ed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009",
+   "short": "W. Va. Code 16-9",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9. OFFENSES GENERALLY.",
+   "url": "https://code.wvlegislature.gov/16-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9/",
+     "sha256": "8e6dad97e31be40482d00f43130c8ceb55a72c142b7b8c30bbf0eeccf00b6b3f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009a",
+   "short": "W. Va. Code 16-9A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9A. TOBACCO USAGE RESTRICTIONS.",
+   "url": "https://code.wvlegislature.gov/16-9A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9A/",
+     "sha256": "2d986be3703fc3cb24380ab40396cba7e193bff274e073ba38393f31404236b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009b",
+   "short": "W. Va. Code 16-9B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9B. IMPLEMENTING TOBACCO MASTER SETTLEMENT AGREEMENT.",
+   "url": "https://code.wvlegislature.gov/16-9B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9B/",
+     "sha256": "413c1f27ac6a21c7c69c7f35174907a683ed8f637461faf6aeafd7ce425ad9ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009c",
+   "short": "W. Va. Code 16-9C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9C. STATE TOBACCO GROWERS' SETTLEMENT BOARD.",
+   "url": "https://code.wvlegislature.gov/16-9C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9C/",
+     "sha256": "71acd581bd7a88f45f58ad0f5ade2299e06ec3cba12578ac0e1ce8b99cc3db91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009d",
+   "short": "W. Va. Code 16-9D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9D. ENFORCEMENT OF STATUTES IMPLEMENTING TOBACCO MASTER SETTLEMENT AGREEMENT.",
+   "url": "https://code.wvlegislature.gov/16-9D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9D/",
+     "sha256": "6845a041f17fec36cb3bd9d88728a3ef56521b09c9a12d73d9409f2b40614ece"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009e",
+   "short": "W. Va. Code 16-9E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9E. DELIVERY SALES OF TOBACCO PRODUCTS.",
+   "url": "https://code.wvlegislature.gov/16-9E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9E/",
+     "sha256": "2782d65652c328ed631435766e8e171b5b17236576c351497b30a852c164b1b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009f",
+   "short": "W. Va. Code 16-9F",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9F. COUNTERFEIT CIGARETTES.",
+   "url": "https://code.wvlegislature.gov/16-9F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9F/",
+     "sha256": "72ae31873fde16177a7352353308c0fcc91754814b8fefd33c2ef9ca6f014b2b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009g",
+   "short": "W. Va. Code 16-9G",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9G. TOBACCO CESSATION INITIATIVE.",
+   "url": "https://code.wvlegislature.gov/16-9G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9G/",
+     "sha256": "c0de6d2022ae3640e46ee2cf47d723113e4afc665b30a97643282de37d9a7988"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0009h",
+   "short": "W. Va. Code 16-9H",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 9H. VAPE SAFETY ACT.",
+   "url": "https://code.wvlegislature.gov/16-9H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-9H/",
+     "sha256": "68b21e1900d409a94916ae83d841f13db82ad9caefd5f1e8863891173fafd400"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0010",
+   "short": "W. Va. Code 16-10",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 10. UNIFORM DETERMINATION OF DEATH ACT.",
+   "url": "https://code.wvlegislature.gov/16-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-10/",
+     "sha256": "f752bdc6dd2a8a9a4344888739fa141847a5560330949bf8b56c4665c2746917"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0011",
+   "short": "W. Va. Code 16-11",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 11. SEXUAL STERILIZATION.",
+   "url": "https://code.wvlegislature.gov/16-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-11/",
+     "sha256": "82a582322f4c28ec83490560adda3792b697c2819c7237745940e613519b06bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0012",
+   "short": "W. Va. Code 16-12",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 12. SANITARY DISTRICTS FOR SEWAGE DISPOSAL.",
+   "url": "https://code.wvlegislature.gov/16-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-12/",
+     "sha256": "302a593f15a2d857515eb3b3c43c7f32a8f0fd33bb518f850197c0c6e3db58c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013",
+   "short": "W. Va. Code 16-13",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13. SEWAGE WORKS AND STORMWATER WORKS.",
+   "url": "https://code.wvlegislature.gov/16-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 34,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13/",
+     "sha256": "c8b46a5d23437a9d73193437a550382b521196b78710b8d2e7ac0969f2193fdc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013a",
+   "short": "W. Va. Code 16-13A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13A. PUBLIC SERVICE DISTRICTS.",
+   "url": "https://code.wvlegislature.gov/16-13A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13A/",
+     "sha256": "ab41e895931425213e1d68191d6355ace28b4243af72a92a8c2e8bf1248b197c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013b",
+   "short": "W. Va. Code 16-13B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13B. COMMUNITY IMPROVEMENT ACT.",
+   "url": "https://code.wvlegislature.gov/16-13B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13B/",
+     "sha256": "dca5d6ee7b2938064ff102b8a915a845dcd04471ae23b387858624a72df9e080"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013c",
+   "short": "W. Va. Code 16-13C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13C. DRINKING WATER TREATMENT REVOLVING FUND ACT.",
+   "url": "https://code.wvlegislature.gov/16-13C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13C/",
+     "sha256": "8424fc53acb02a16b19db4828a1f1cef678e674f41be82aa3ebd4732f7c2b888"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013d",
+   "short": "W. Va. Code 16-13D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13D. REGIONAL WATER AND WASTEWATER AND STORMWATER AUTHORITY ACT.",
+   "url": "https://code.wvlegislature.gov/16-13D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13D/",
+     "sha256": "02d615e4bce554a81028d2344f4ea9cb10dda65d26ee12a143c63359cade4a34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0013e",
+   "short": "W. Va. Code 16-13E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 13E. COMMUNITY ENHANCEMENT ACT.",
+   "url": "https://code.wvlegislature.gov/16-13E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-13E/",
+     "sha256": "e743a95007d76cc164ab7117f409169c47d0e3d3b5dbaf77e8a121862a047dad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0014",
+   "short": "W. Va. Code 16-14",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 14. WEST VIRGINIA ALS CARE SERVICES.",
+   "url": "https://code.wvlegislature.gov/16-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-14/",
+     "sha256": "b805b4e067358470bd6543f03a8ac5ce97e67335df59b543779f076600c64893"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0015",
+   "short": "W. Va. Code 16-15",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 15. STATE HOUSING LAW.",
+   "url": "https://code.wvlegislature.gov/16-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 30,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-15/",
+     "sha256": "16245bf337647f846770b70b00f9e4fbbb5565bed47b370df4cf42627b230c0d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0016",
+   "short": "W. Va. Code 16-16",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 16. HOUSING COOPERATION LAW.",
+   "url": "https://code.wvlegislature.gov/16-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-16/",
+     "sha256": "da69cd5a1d7a82d893f62ed1990f8d670e45aec06d90da3514cfa73560067eaa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0017",
+   "short": "W. Va. Code 16-17",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 17. NATIONAL DEFENSE HOUSING.",
+   "url": "https://code.wvlegislature.gov/16-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-17/",
+     "sha256": "1b0af770b5f82f87160a52f508e8bea15e5b1bb3f4799c67cb3559f6bf2caa3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0018",
+   "short": "W. Va. Code 16-18",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 18. SLUM CLEARANCE.",
+   "url": "https://code.wvlegislature.gov/16-18/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-18/",
+     "sha256": "3f6d52c49c905b590143a0cc4d5751c6753ca05825e60be680d33d4acfb53d4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0019",
+   "short": "W. Va. Code 16-19",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 19. ANATOMICAL GIFT ACT.",
+   "url": "https://code.wvlegislature.gov/16-19/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-19/",
+     "sha256": "1a3933e4f0916dd265a5d7c393e0ddaadbc1b5133a3ca680eee65b3a31e4d3f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0020",
+   "short": "W. Va. Code 16-20",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 20. AIR POLLUTION CONTROL.",
+   "url": "https://code.wvlegislature.gov/16-20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-20/",
+     "sha256": "9f9af601f0221fa771a87aedbd1e2bde72505ff69dcd3aba867095a4b9c288d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0021",
+   "short": "W. Va. Code 16-21",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 21. BLOOD DONATIONS.",
+   "url": "https://code.wvlegislature.gov/16-21/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-21/",
+     "sha256": "3f527665b635417be3e1436eba2b6b0a115ebd18abb1b405ce96eee8b724c008"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0022",
+   "short": "W. Va. Code 16-22",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 22. DETECTION AND CONTROL OF PHENYLKETONURIA, GALACTOSEMIA, HYPOTHYROIDISM, AND CERTAIN OTHER DISEASES IN NEWBORN CHILDREN.",
+   "url": "https://code.wvlegislature.gov/16-22/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-22/",
+     "sha256": "77473ca650dfd0be0d49d2ce7d6acf287690c3ef6401418bdc0ff64ec2ece54d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0022a",
+   "short": "W. Va. Code 16-22A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 22A. TESTING OF NEWBORN INFANTS FOR HEARING IMPAIRMENTS.",
+   "url": "https://code.wvlegislature.gov/16-22A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-22A/",
+     "sha256": "9e75262a52d31a0cfa0b58ed87cbe7b9ffe39ea8e4769935c759ae3eed6e5ebd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0022b",
+   "short": "W. Va. Code 16-22B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 22B. BIRTH SCORE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-22B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-22B/",
+     "sha256": "231ac68e9f2d9d9dfd1ccec3642639a49e7ced27fa5895ec0ceeb45f4eab5863"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0023",
+   "short": "W. Va. Code 16-23",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 23. TRANSFUSION OF BLOOD; TRANSPLANTING HUMAN ORGANS OR TISSUE.",
+   "url": "https://code.wvlegislature.gov/16-23/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-23/",
+     "sha256": "578bb79bb1b8aa6f087a407565ae60143ba6c2731fd63220726c495b8a0f659f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0024",
+   "short": "W. Va. Code 16-24",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 24. STATE HEMOPHILIA PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-24/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-24/",
+     "sha256": "77e92cc3cc704ff76ab54034defeae60855550e852c39f768ccf5ca6e2584ee0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0025",
+   "short": "W. Va. Code 16-25",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 25. DETECTION OF TUBERCULOSIS, HIGH BLOOD PRESSURE AND DIABETES.",
+   "url": "https://code.wvlegislature.gov/16-25/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-25/",
+     "sha256": "393212f74154ceaa88ee444d46a4eadecbe5e6a8919d5028d39f1c1afc588fc5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0026",
+   "short": "W. Va. Code 16-26",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 26. WEST VIRGINIA SOLID WASTE MANAGEMENT BOARD.",
+   "url": "https://code.wvlegislature.gov/16-26/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-26/",
+     "sha256": "645ae14403975036511473983a789cf8418d3aa969053079f9961060e2d33ad6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0027",
+   "short": "W. Va. Code 16-27",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 27. STORAGE AND DISPOSAL OF RADIOACTIVE WASTE MATERIALS.",
+   "url": "https://code.wvlegislature.gov/16-27/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-27/",
+     "sha256": "9398c1fd825b2ed1fc0878814e5e78c841afe75d17e9dc9e8c073ff3ef290228"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0027a",
+   "short": "W. Va. Code 16-27A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 27A. BAN ON CONSTRUCTION OF NUCLEAR POWER PLANTS.",
+   "url": "https://code.wvlegislature.gov/16-27A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-27A/",
+     "sha256": "d7ab44f8d589cf4085f18918348ee1d7d2a9de2f2a8089d885d8866fb9a0ae8f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0027b",
+   "short": "W. Va. Code 16-27B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 27B. RADIATION CONTROL ACT.",
+   "url": "https://code.wvlegislature.gov/16-27B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-27B/",
+     "sha256": "6ecc80e3783c17e2a9f2c72fde09c02c6bedaabc883a916e10fc4a4e6edee895"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0028",
+   "short": "W. Va. Code 16-28",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 28. ASSISTANCE TO KOREAN AND VIETNAM VETERANS EXPOSED TO CERTAIN CHEMICAL DEFOLIANTS OR HERBICIDES OR OTHER CAUSATIVE AGENTS, INCLUDING AGENT ORANGE.",
+   "url": "https://code.wvlegislature.gov/16-28/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-28/",
+     "sha256": "1987611a2fac7f981a99e550c1bd6d5a797f88a6d04a5a5b3b57d464d874baa3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029",
+   "short": "W. Va. Code 16-29",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29. HEALTH CARE RECORDS.",
+   "url": "https://code.wvlegislature.gov/16-29/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29/",
+     "sha256": "659601e926bcdeebd85c2cf085e6eaef957ed531c646ffdff2d0cc81ac74fcb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029a",
+   "short": "W. Va. Code 16-29A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29A. WEST VIRGINIA HOSPITAL FINANCE AUTHORITY ACT.",
+   "url": "https://code.wvlegislature.gov/16-29A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 26,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29A/",
+     "sha256": "d9165e1d496a29758bf8be155aa57abb385f6722444c7300b7de3dccb1c86c7a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029b",
+   "short": "W. Va. Code 16-29B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29B. HEALTH CARE AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/16-29B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 35,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29B/",
+     "sha256": "0f7401b9f4c2629554320b5b45fe523e33f41a53bbe4ba6de3ff2fd2cfda983f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029c",
+   "short": "W. Va. Code 16-29C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29C. INDIGENT CARE.",
+   "url": "https://code.wvlegislature.gov/16-29C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29C/",
+     "sha256": "7c24c39b227629ff6cd49104511cdee24e8de3599286f0b6ec7615d1ab5216b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029d",
+   "short": "W. Va. Code 16-29D",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29D. STATE HEALTH CARE.",
+   "url": "https://code.wvlegislature.gov/16-29D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29D/",
+     "sha256": "7aab41badc33683df36af67e330bc13e48afb2ed0ade390f74da69f04db2c0e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029e",
+   "short": "W. Va. Code 16-29E",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29E. LEGISLATIVE OVERSIGHT COMMISSION ON HEALTH AND HUMAN RESOURCES ACCOUNTABILITY.",
+   "url": "https://code.wvlegislature.gov/16-29E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29E/",
+     "sha256": "061f7c1e7716b7e097ecf7fd1085befa98a300e129cda1c6257df5b963d573c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029f",
+   "short": "W. Va. Code 16-29F",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29F. UNINSURED AND UNDERINSURED PILOT PROGRAMS.",
+   "url": "https://code.wvlegislature.gov/16-29F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29F/",
+     "sha256": "23dc3c3d65a52308398f475ebfb03a088611c621a33c0b50308f3cb2102fcd1d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029g",
+   "short": "W. Va. Code 16-29G",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29G. WEST VIRGINIA HEALTH INFORMATION NETWORK.",
+   "url": "https://code.wvlegislature.gov/16-29G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29G/",
+     "sha256": "bd6865c91d1a4b415d030529e1a32f685a171017b79a45daaa5b7bca5996201a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029h",
+   "short": "W. Va. Code 16-29H",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29H. INTERAGENCY HEALTH COUNCIL.",
+   "url": "https://code.wvlegislature.gov/16-29H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29H/",
+     "sha256": "1e5d180710cd11b8ecbd14d6e3c6b70e23a7f3388dbd84ddf0c047f6b5f669e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0029i",
+   "short": "W. Va. Code 16-29I",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 29I. WEST VIRGINIA HEALTH CARE AUTHORITY REVOLVING LOAN AND GRANT FUND.",
+   "url": "https://code.wvlegislature.gov/16-29I/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-29I/",
+     "sha256": "d27fb3c1c144714c38028dc130a12c05de3838faafbb76ccd5c8e248db595ef0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0030",
+   "short": "W. Va. Code 16-30",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 30. WEST VIRGINIA HEALTH CARE DECISIONS ACT.",
+   "url": "https://code.wvlegislature.gov/16-30/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 25,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-30/",
+     "sha256": "5cb846246459109f0709c932b1b5042c3f9f1b6e73491bcfd6e448d27b270dd8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0030a",
+   "short": "W. Va. Code 16-30A",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 30A. MEDICAL POWER OF ATTORNEY.",
+   "url": "https://code.wvlegislature.gov/16-30A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-30A/",
+     "sha256": "e52c29f30098d769ad82b1e388c1d0c4f940280dd264de79894dd0c57f488e39"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0030b",
+   "short": "W. Va. Code 16-30B",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 30B. HEALTH CARE SURROGATE ACT.",
+   "url": "https://code.wvlegislature.gov/16-30B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-30B/",
+     "sha256": "a7283466fd5cad2e4c87ecda5add7854a56b0a44125c918641dfa0344e765d4c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0030c",
+   "short": "W. Va. Code 16-30C",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 30C. DO NOT RESUSCITATE ACT.",
+   "url": "https://code.wvlegislature.gov/16-30C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-30C/",
+     "sha256": "cb6678bc46463058bf6630e2dd66a9cff51d1940f01961c1b3ffb2f6cfdeb7f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0031",
+   "short": "W. Va. Code 16-31",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 31. NEIGHBORHOOD ACCESS ROAD PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16-31/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-31/",
+     "sha256": "ab81cf5b24e6aab028e5fc7cafe185ea70d8a5b05ebe1b11e4952d86de9c557a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0032",
+   "short": "W. Va. Code 16-32",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 32. ASBESTOS ABATEMENT.",
+   "url": "https://code.wvlegislature.gov/16-32/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-32/",
+     "sha256": "4975d82ddba1d49a92066d5267354433afc9961329836b43845cc03baaa8f058"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0033",
+   "short": "W. Va. Code 16-33",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 33. BREAST AND CERVICAL CANCER PREVENTION AND CONTROL ACT.",
+   "url": "https://code.wvlegislature.gov/16-33/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-33/",
+     "sha256": "e5b7e415acd84cea31e1aa69eaf064351289bdb5936eb5bef072235c2db0a900"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0034",
+   "short": "W. Va. Code 16-34",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 34. LICENSURE OF RADON MITIGATORS, TESTERS, CONTRACTORS AND LABORATORIES.",
+   "url": "https://code.wvlegislature.gov/16-34/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-34/",
+     "sha256": "96e750006fa4a7e396b77606a813dac799bb242ae8a8df5f54537bf4e7a3612a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0035",
+   "short": "W. Va. Code 16-35",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 35. LEAD ABATEMENT.",
+   "url": "https://code.wvlegislature.gov/16-35/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-35/",
+     "sha256": "9cc9de953bc71b3434427d6a58e788892764a710ccdff6ba5caf19a74a7eeedd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0036",
+   "short": "W. Va. Code 16-36",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 36. NEEDLESTICK INJURY PREVENTION.",
+   "url": "https://code.wvlegislature.gov/16-36/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-36/",
+     "sha256": "900c9154d83ea84b4a8ff3c9761928d82deff74ca93a575ec0edceb9cb20bfb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0037",
+   "short": "W. Va. Code 16-37",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 37. BODY PIERCING STUDIO BUSINESS.",
+   "url": "https://code.wvlegislature.gov/16-37/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-37/",
+     "sha256": "7e4fe83cf57a3d938e31230201f52af92eea8fe59c286e4f59b54bc075afa6be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0038",
+   "short": "W. Va. Code 16-38",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 38. TATTOO STUDIO BUSINESS.",
+   "url": "https://code.wvlegislature.gov/16-38/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-38/",
+     "sha256": "a11199701467c6e8c8ee44fbd3ec647e342223df9001cfd9247b0a8249873246"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0039",
+   "short": "W. Va. Code 16-39",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 39. PATIENT SAFETY ACT.",
+   "url": "https://code.wvlegislature.gov/16-39/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-39/",
+     "sha256": "1dceaa3a0707fb66a335e6aa00471a55cd458cf2b70c27e791d224460cc9df88"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0040",
+   "short": "W. Va. Code 16-40",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 40. STATEWIDE BIRTH DEFECTS INFORMATION SYSTEM.",
+   "url": "https://code.wvlegislature.gov/16-40/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-40/",
+     "sha256": "43065eaee325922f47dfb78501a60e52ac8c60a4ec5e4b2dc610664ca7f7bca2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0041",
+   "short": "W. Va. Code 16-41",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 41. ORAL HEALTH IMPROVEMENT ACT.",
+   "url": "https://code.wvlegislature.gov/16-41/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-41/",
+     "sha256": "dd77bd9a2c38f4045a7ff97e403812f7ce45eaddadab5d856e99dcca503cf3cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0042",
+   "short": "W. Va. Code 16-42",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 42. CORE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEM.",
+   "url": "https://code.wvlegislature.gov/16-42/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-42/",
+     "sha256": "3c23b3e14139e534d6ce6502648ffa68a1d06a3be684cdc6faa1759b2b3e09f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0043",
+   "short": "W. Va. Code 16-43",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 43. ENGINE COOLANT AND ANTIFREEZE.",
+   "url": "https://code.wvlegislature.gov/16-43/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-43/",
+     "sha256": "f1e5936d96d25e0ce9fb716bdc7af83dbd750eac97c4f270be4b5518398aefed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0044",
+   "short": "W. Va. Code 16-44",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 44. THE PULSE OXIMETRY NEWBORN TESTING ACT.",
+   "url": "https://code.wvlegislature.gov/16-44/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-44/",
+     "sha256": "7cfe0acbf713da22f122c8f600f2df21a2362fd842142027d8164e7ad9c7eb45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0045",
+   "short": "W. Va. Code 16-45",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 45. TANNING FACILITIES.",
+   "url": "https://code.wvlegislature.gov/16-45/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-45/",
+     "sha256": "b0779f4ecea64f13652bb5caa98a66f1a11310cb15f55c629c23ee68a7284e15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0046",
+   "short": "W. Va. Code 16-46",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 46. ACCESS TO OPIOID ANTAGONISTS ACT.",
+   "url": "https://code.wvlegislature.gov/16-46/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-46/",
+     "sha256": "dfb831931618290580fafe73197aa370c26af55d99d0f72e40b4425e1c54eeaa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0047",
+   "short": "W. Va. Code 16-47",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 47. ALCOHOL AND DRUG OVERDOSE PREVENTION AND CLEMENCY ACT.",
+   "url": "https://code.wvlegislature.gov/16-47/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-47/",
+     "sha256": "8480fd6f1c998de8b95e44f31f351ae676c22bce98434960c99fda0eb06b17c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0048",
+   "short": "W. Va. Code 16-48",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 48. WEST VIRGINIA ABLE ACT.",
+   "url": "https://code.wvlegislature.gov/16-48/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-48/",
+     "sha256": "af2dfc45181aadb91437baffc137ee1577f79c7a3e4273e6a66876d8916de08b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0049",
+   "short": "W. Va. Code 16-49",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 49. WEST VIRGINIA CLEARANCE FOR ACCESS: REGISTRY AND EMPLOYMENT SCREENING ACT.",
+   "url": "https://code.wvlegislature.gov/16-49/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-49/",
+     "sha256": "1db083a7e00503b92c02254651d5c3070e73c881e19c032036b434f07e33b742"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0050",
+   "short": "W. Va. Code 16-50",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 50. EPINEPHRINE AUTO-INJECTOR AVAILABILITY AND USE.",
+   "url": "https://code.wvlegislature.gov/16-50/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-50/",
+     "sha256": "f9a51b543158fbf2fc7621d348e7dff71b267466ddce6dfe3f2849efe9f08ebb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0051",
+   "short": "W. Va. Code 16-51",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 51. RIGHT TO TRY ACT.",
+   "url": "https://code.wvlegislature.gov/16-51/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-51/",
+     "sha256": "01029244d84ecd2b00990d3b47f08c791f982ad1bc17e0d9d72272f9b780019d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0052",
+   "short": "W. Va. Code 16-52",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 52. COALITION FOR RESPONSIBLE PAIN MANAGEMENT.",
+   "url": "https://code.wvlegislature.gov/16-52/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-52/",
+     "sha256": "8538d61047062786700cccee8253d4f966e7610b8be2b839b04ad7fe1deefcbc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0053",
+   "short": "W. Va. Code 16-53",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 53. ESTABLISHING ADDITIONAL SUBSTANCE ABUSE TREATMENT FACILITIES.",
+   "url": "https://code.wvlegislature.gov/16-53/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-53/",
+     "sha256": "803a9700a896aa656ee70297d4411a065d207b9771d6e2d0373272b691685645"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0054",
+   "short": "W. Va. Code 16-54",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 54",
+   "url": "https://code.wvlegislature.gov/16-54/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-54/",
+     "sha256": "43e4654bf347e70e90a11385fbd4a48233f56732826bd5b27f5e188e28122b32"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0055",
+   "short": "W. Va. Code 16-55",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 55",
+   "url": "https://code.wvlegislature.gov/16-55/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-55/",
+     "sha256": "de6d93f99cb22a7c37a64d38f770200e3690bcd121a4691e40ddd3fc19f67043"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0056",
+   "short": "W. Va. Code 16-56",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 56. TOBACCO CESSATION THERAPY ACCESS ACT.",
+   "url": "https://code.wvlegislature.gov/16-56/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-56/",
+     "sha256": "580e91447fc58a1c32573c341ceb1e1ff786eee214210e882c4e95c733e50416"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0057",
+   "short": "W. Va. Code 16-57",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 57. SUDDEN CARDIAC ARREST PREVENTION ACT.",
+   "url": "https://code.wvlegislature.gov/16-57/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-57/",
+     "sha256": "1c58755d2415a0c332d009d9ca74235014f911b76c9f7510580842c7926a5e22"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0058",
+   "short": "W. Va. Code 16-58",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 58. FAMILY PLANNING ACCESS ACT.",
+   "url": "https://code.wvlegislature.gov/16-58/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-58/",
+     "sha256": "8f9a7b00cad4363fc9071a564312222e4d3cd6ed29e3106f472f03abd88c8091"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0059",
+   "short": "W. Va. Code 16-59",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 59. CERTIFICATION OF RECOVERY RESIDENCES.",
+   "url": "https://code.wvlegislature.gov/16-59/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-59/",
+     "sha256": "01b9b15975ae450199ddf20d84a5ad8d353e11c56cf4de03ecf6df5d01dc8568"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0060",
+   "short": "W. Va. Code 16-60",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 60. RECOGNITION OF EMERGENCY MEDICAL SERVICES PERSONNEL LICENSURE INTERSTATE COMPACT.",
+   "url": "https://code.wvlegislature.gov/16-60/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-60/",
+     "sha256": "a2ec15189860411deec1e0c73f07dfc4611e191543c5db0ca70933e06d3d77b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0061",
+   "short": "W. Va. Code 16-61",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 61. PALLIATIVE CARE.",
+   "url": "https://code.wvlegislature.gov/16-61/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-61/",
+     "sha256": "3f4332ef45c9411bdbb1393969af7d8d461a84353db50d077b0e144b7bf77d75"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0062",
+   "short": "W. Va. Code 16-62",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 62. THE PATIENT BROKERING ACT.",
+   "url": "https://code.wvlegislature.gov/16-62/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-62/",
+     "sha256": "999217ad92a9583a17b338c92c02119144c2a083e50abe1b27553b2c370cf9f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0063",
+   "short": "W. Va. Code 16-63",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 63. STATEWIDE UNIFORMITY FOR AUXILIARY CONTAINER REGULATIONS.",
+   "url": "https://code.wvlegislature.gov/16-63/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-63/",
+     "sha256": "b91cfd663b66519c5eb94dc6eae5274135619099331b30a7e65f56e10f0e8127"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0064",
+   "short": "W. Va. Code 16-64",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 64. SYRINGE SERVICES PROGRAMS.",
+   "url": "https://code.wvlegislature.gov/16-64/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-64/",
+     "sha256": "8eb52f6226438ddd610d7ff60bb738098e175004fae9e6b3d3fa3bce139cc8b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0065",
+   "short": "W. Va. Code 16-65",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 65. NONDISCRIMINATION RELATING TO ACCESS TO ORGAN TRANSPLANTATION.",
+   "url": "https://code.wvlegislature.gov/16-65/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-65/",
+     "sha256": "3226d6ecec983befc99fef248b98ea26c9b4a509beb3ec53c6238144a5f80bba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0066",
+   "short": "W. Va. Code 16-66",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 66. SUPPORT FOR MOTHERS AND BABIES ACT.",
+   "url": "https://code.wvlegislature.gov/16-66/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-66/",
+     "sha256": "708b859e4245e42b2fbcecb3bb8585a95dac7267b282bcee90cf95885788c14d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0067",
+   "short": "W. Va. Code 16-67",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 67. MAKE WEST VIRGINIA HEALTHY ACT OF 2026.",
+   "url": "https://code.wvlegislature.gov/16-67/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-67/",
+     "sha256": "09215ca1b72919920384f296c5fcbbd457027dedeca394b6e68cd68f8730e35e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16-article-0068",
+   "short": "W. Va. Code 16-68",
+   "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 68. LICENSURE AND CERTIFICATION OF ALCOHOL AND DRUG COUNSELORS.",
+   "url": "https://code.wvlegislature.gov/16-68/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/16-68/",
+     "sha256": "32193bec99d63584174da8666e7290668d2244f2edf0f0a5067de5751d9ea0cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0001",
+   "short": "W. Va. Code 16A-1",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 1. SHORT TITLE.",
+   "url": "https://code.wvlegislature.gov/16A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-1/",
+     "sha256": "8fc4e1fc86ff4ddc8185cedac400d6417f9cab47dbb219cf55c27c6dd7e1cf67"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0002",
+   "short": "W. Va. Code 16A-2",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 2. DEFINITIONS.",
+   "url": "https://code.wvlegislature.gov/16A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-2/",
+     "sha256": "111d9ccd9189d800398e756df92ad43a4f6d7a0fa617aee8e6bbb4e91e7cfb14"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0003",
+   "short": "W. Va. Code 16A-3",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 3. MEDICAL CANNABIS PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-3/",
+     "sha256": "96c3e25ba2148176521fa28f126cf868f014b06f1966b7c2bd2b7baaa18c0a8c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0004",
+   "short": "W. Va. Code 16A-4",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 4. PRACTITIONERS.",
+   "url": "https://code.wvlegislature.gov/16A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-4/",
+     "sha256": "ba35708f20381dff9bf9523bc6e0df32c35acedeb4735ab85b6518ab125c778c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0005",
+   "short": "W. Va. Code 16A-5",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 5. PATIENTS.",
+   "url": "https://code.wvlegislature.gov/16A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-5/",
+     "sha256": "97f915ff9250e9d77951257571e5a8b16c9cb0992f082b61cee9dee2dc211046"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0006",
+   "short": "W. Va. Code 16A-6",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 6. MEDICAL CANNABIS ORGANIZATIONS.",
+   "url": "https://code.wvlegislature.gov/16A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-6/",
+     "sha256": "b74ece9be46f2c012fc51dd398506f3f500bfe4fa7ed805c56341389fd21b2da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0007",
+   "short": "W. Va. Code 16A-7",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 7. MEDICAL CANNABIS CONTROLS.",
+   "url": "https://code.wvlegislature.gov/16A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-7/",
+     "sha256": "a5cd302a6fe590cc3d8d113f0a3c056ca519c9a5cff223f493fb2ac4be8e0d4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0008",
+   "short": "W. Va. Code 16A-8",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 8. DISPENSARIES.",
+   "url": "https://code.wvlegislature.gov/16A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-8/",
+     "sha256": "1ab0df0bd943237e0870626c1d851e7dc048ed21ef48b461e9d4aa2ec2dca4ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0009",
+   "short": "W. Va. Code 16A-9",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 9. TAX ON MEDICAL CANNABIS.",
+   "url": "https://code.wvlegislature.gov/16A-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-9/",
+     "sha256": "bd6e6bd4c731b2cc577ee9b29590c942946e7dc67bc9639466379d8467d8056d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0010",
+   "short": "W. Va. Code 16A-10",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 10. ADMINISTRATION.",
+   "url": "https://code.wvlegislature.gov/16A-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-10/",
+     "sha256": "bfdbd8f63b97ef377100e6e2ff0202d1dea4b9b1e32c8a3b9ccf643a550bbd41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0011",
+   "short": "W. Va. Code 16A-11",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 11. MEDICAL CANNABIS ADVISORY BOARD.",
+   "url": "https://code.wvlegislature.gov/16A-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-11/",
+     "sha256": "0b4258b810f59d299a1ac106143d1a9d303cd45b873e7a4c2ed232802f6d03ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0012",
+   "short": "W. Va. Code 16A-12",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 12. OFFENSES RELATED TO MEDICAL CANNABIS.",
+   "url": "https://code.wvlegislature.gov/16A-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-12/",
+     "sha256": "2d26eddfdc667ca4abaf7a77bad7246b126d90c129d6bbbf9951cdc920acd815"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0013",
+   "short": "W. Va. Code 16A-13",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 13. RESEARCH PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16A-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-13/",
+     "sha256": "6db36cd3663c24126083d3bcd7c817ab6e427c77e0279be0681a28c9e1375fe4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0014",
+   "short": "W. Va. Code 16A-14",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 14. ACADEMIC CLINICAL RESEARCH CENTERS.",
+   "url": "https://code.wvlegislature.gov/16A-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-14/",
+     "sha256": "42b7ffd7a2c3e9f925a305a3a13c1163105a607b08a628015c6cca3a3d9a1a80"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0015",
+   "short": "W. Va. Code 16A-15",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 15. MISCELLANEOUS PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/16A-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-15/",
+     "sha256": "95c3c1714bd8d0afc894a116e24d04c107262af9d1783a28c6c91706046a07ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16a-article-0016",
+   "short": "W. Va. Code 16A-16",
+   "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 16. EFFECTIVE DATE.",
+   "url": "https://code.wvlegislature.gov/16A-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16A-16/",
+     "sha256": "e891af48cda3b5dd6f81d36a59559898d61d69d3ed2598ee8904bfa7415b8927"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0001",
+   "short": "W. Va. Code 16B-1",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 1. OFFICE OF THE INSPECTOR GENERAL, LEGISLATIVE FINDINGS.",
+   "url": "https://code.wvlegislature.gov/16B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-1/",
+     "sha256": "a0bf80d1acd5571cebc3d742e87110e15a0d0f29d51a1f6fa02ca316228ee359"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0002",
+   "short": "W. Va. Code 16B-2",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 2. OFFICE OF THE INSPECTOR GENERAL, DUTIES, AND POWERS.",
+   "url": "https://code.wvlegislature.gov/16B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-2/",
+     "sha256": "e5a0dee7b668f836ff95fbd1e75b090a6a21add439a00d38c821fe8610016eee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0003",
+   "short": "W. Va. Code 16B-3",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 3. HOSPITALS AND SIMILAR INSTITUTIONS.",
+   "url": "https://code.wvlegislature.gov/16B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-3/",
+     "sha256": "0198cd6c12e8788dea432326b439c30bcdbd592898f3fedb3b12d52c7adab9d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0004",
+   "short": "W. Va. Code 16B-4",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 4. NURSING HOMES.",
+   "url": "https://code.wvlegislature.gov/16B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-4/",
+     "sha256": "b4b3e81f7ecbc0883d2d956a236bfd89118f7b843caec089e06d8959a7882120"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0005",
+   "short": "W. Va. Code 16B-5",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 5. ASSISTED LIVING RESIDENCES.",
+   "url": "https://code.wvlegislature.gov/16B-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-5/",
+     "sha256": "8e3664a32d50334f849b6cad76c58e6ddc402b22c1b7216d30efc13ee54212b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0006",
+   "short": "W. Va. Code 16B-6",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 6. REGISTRATION AND INSPECTION OF SERVICE PROVIDERS IN LEGALLY UNLICENSED HEALTH CARE HOMES.",
+   "url": "https://code.wvlegislature.gov/16B-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-6/",
+     "sha256": "bb331aa4f6c58a63a0c900418064994195f0b05111fb13ad3bf939b020fe15c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0007",
+   "short": "W. Va. Code 16B-7",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 7. CHRONIC PAIN CLINIC LICENSING ACT.",
+   "url": "https://code.wvlegislature.gov/16B-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-7/",
+     "sha256": "ec2aca78c94ab658ff917bd087f48b3481299477da333b98386bdba6cc2b0c3a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0008",
+   "short": "W. Va. Code 16B-8",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 8. HOSPICE LICENSURE ACT.",
+   "url": "https://code.wvlegislature.gov/16B-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-8/",
+     "sha256": "27dc60b2b24ca81b61809557db06f7aad998f82284b1910665d7671152ff5cad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0009",
+   "short": "W. Va. Code 16B-9",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 9. RESIDENTIAL CARE COMMUNITIES.",
+   "url": "https://code.wvlegislature.gov/16B-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-9/",
+     "sha256": "53f0ea331ac561438e689141b98c2dbae279128c00d51ae954c9fa6339f1042b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0010",
+   "short": "W. Va. Code 16B-10",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 10. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL.",
+   "url": "https://code.wvlegislature.gov/16B-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-10/",
+     "sha256": "2aaaa187e465032adfe7c16f685cf4645512d560d7d4cd2e6dfc3fb71e64997a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0011",
+   "short": "W. Va. Code 16B-11",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 11. THE ALZHEIMER'S SPECIAL CARE STANDARDS ACT.",
+   "url": "https://code.wvlegislature.gov/16B-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-11/",
+     "sha256": "d6b47addc7afa81301912811d3a2c894297f9e989e97898ee21b7fedbebb5511"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0012",
+   "short": "W. Va. Code 16B-12",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 12. REGULATION OF BEHAVIORAL HEALTH.",
+   "url": "https://code.wvlegislature.gov/16B-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-12/",
+     "sha256": "a6275eae5721c84ba503916e69796132a4a207b81c925032cfd49ff7537e938f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0013",
+   "short": "W. Va. Code 16B-13",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 13. MEDICATION-ASSISTED TREATMENT PROGRAM LICENSING ACT.",
+   "url": "https://code.wvlegislature.gov/16B-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-13/",
+     "sha256": "38cca874f04632bc90ab4bfc926ce922aff2635be14ef5e0a96d4c9db712b757"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0014",
+   "short": "W. Va. Code 16B-14",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 14. MEDICATION ADMINISTERD BY UNLICENSED PERSONNEL IN NURSING HOMES.",
+   "url": "https://code.wvlegislature.gov/16B-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-14/",
+     "sha256": "a3849bbdda3fe78221e36fbd01a7359ab1f0861e664a5d9c6919f39b4e2c956b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0015",
+   "short": "W. Va. Code 16B-15",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 15. WEST VIRGINIA CLEARANCE FOR ACCESS: REGISTRY AND EMPLOYMENT SCREENING ACT.",
+   "url": "https://code.wvlegislature.gov/16B-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-15/",
+     "sha256": "40c13ba50d38d6072f9c4586003c6484c52873151b36eea4efbb6925edf40d54"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0016",
+   "short": "W. Va. Code 16B-16",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 16. FOSTER CARE OMBUDSMAN PROGRAM.",
+   "url": "https://code.wvlegislature.gov/16B-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-16/",
+     "sha256": "48424b9d67d4a9191987412c69b068370d7b8c3c360c20950aac47068846698d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0017",
+   "short": "W. Va. Code 16B-17",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 17. HUMAN RIGHTS COMMISSION.",
+   "url": "https://code.wvlegislature.gov/16B-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-17/",
+     "sha256": "defe4f693c1834a56836ca33bb0e68842a925b73d3b42e10d71b4e5c6d9868c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0018",
+   "short": "W. Va. Code 16B-18",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 18. WEST VIRGINIA FAIR HOUSING ACT.",
+   "url": "https://code.wvlegislature.gov/16B-18/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-18/",
+     "sha256": "e933de5b232a15fbaa15421ebab991fe13693f3e1f40d2ef4a9e70e20aa142b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0019",
+   "short": "W. Va. Code 16B-19",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 19. PREGNANCY WORKERS' FAIRNESS ACT.",
+   "url": "https://code.wvlegislature.gov/16B-19/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-19/",
+     "sha256": "9326bc73dbfa65e3b250f5da4d8a79b1d2ffbfaa5117097611cf3493201fa7d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0020",
+   "short": "W. Va. Code 16B-20",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 20. BIRTHING CENTERS.",
+   "url": "https://code.wvlegislature.gov/16B-20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-20/",
+     "sha256": "3044e67c8260194a49c9b9173061e148f63fd0ec0e28e7a39fbda8215f711f0a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16b-article-0021",
+   "short": "W. Va. Code 16B-21",
+   "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 21. NEONATAL ABSTINENCE SYNDRONE CENTER.",
+   "url": "https://code.wvlegislature.gov/16B-21/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/16B-21/",
+     "sha256": "54d1a4bc16a2495e6304dc152a6753ed671e1261d30fe492eec6ff3928f7672b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0001",
+   "short": "W. Va. Code 17A-1",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 1. WORDS AND PHRASES DEFINED.",
+   "url": "https://code.wvlegislature.gov/17A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-1/",
+     "sha256": "2cfa85d55f5b184d58c735e80ae042ff93f6290395318fec71eab577a12ed88e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0002",
+   "short": "W. Va. Code 17A-2",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 2. DIVISION OF MOTOR VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 30,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-2/",
+     "sha256": "a46528bc41ad743c2e99869ebf7bb31e454079a6be0281fbfbdc3cc78b9c61c0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0002a",
+   "short": "W. Va. Code 17A-2A",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 2A. UNIFORM MOTOR VEHICLE RECORDS DISCLOSURE ACT.",
+   "url": "https://code.wvlegislature.gov/17A-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-2A/",
+     "sha256": "29158bf20f82497d3ff1e8c15e0806d46b5b288ac1d345a387573bd4e3edc5c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0002b",
+   "short": "W. Va. Code 17A-2B",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 2B. CONSOLIDATION OF THE REGULATION OF THE MOTOR CARRIER INDUSTRY.",
+   "url": "https://code.wvlegislature.gov/17A-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-2B/",
+     "sha256": "eaac387f4bd6caead01f7b8744c17a153ab6bbf3f36ae7a573e30b8b03019d9f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0003",
+   "short": "W. Va. Code 17A-3",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 3. ORIGINAL AND RENEWAL OF REGISTRATION; ISSUANCE OF CERTIFICATES OF TITLE.",
+   "url": "https://code.wvlegislature.gov/17A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 44,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-3/",
+     "sha256": "7eb7f3973aa442326a520e1a47eea0a626cea396e19139b20bcd0430b47ac7df"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0003a",
+   "short": "W. Va. Code 17A-3A",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 3A. VEHICLE COMPLIANCE WITH FEDERAL CLEAN AIR STANDARDS AND VEHICLE SAFETY.",
+   "url": "https://code.wvlegislature.gov/17A-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-3A/",
+     "sha256": "f20f584e455aa845225af59cc908231082cdfc6acde1386be8d588186520cf14"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0004",
+   "short": "W. Va. Code 17A-4",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 4. TRANSFERS OF TITLE OR INTEREST.",
+   "url": "https://code.wvlegislature.gov/17A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-4/",
+     "sha256": "cba18d05fabbe05a5dd62e1dfb9b8926fe140ed4d861667df8cafedbd1ae962a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0004a",
+   "short": "W. Va. Code 17A-4A",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 4A. LIENS AND ENCUMBRANCES ON VEHICLES TO BE SHOWN ON CERTIFICATE OF TITLE; NOTICE TO CREDITORS AND PURCHASERS.",
+   "url": "https://code.wvlegislature.gov/17A-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-4A/",
+     "sha256": "a51a12a7a68c51b6412b1f914849992b406c7f68c7e83a0d163b5625c75752a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0005",
+   "short": "W. Va. Code 17A-5",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 5. PERMITS TO NONRESIDENT OWNERS.",
+   "url": "https://code.wvlegislature.gov/17A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-5/",
+     "sha256": "33006a64e7c5880af44da206b0edec461b8b0e509bf1a46b166e1fd3d50e49d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006",
+   "short": "W. Va. Code 17A-6",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6. LICENSING OF DEALERS AND WRECKERS OR DISMANTLERS; SPECIAL PLATES; TEMPORARY PLATES OR MARKERS.",
+   "url": "https://code.wvlegislature.gov/17A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 39,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6/",
+     "sha256": "16fd1a99cb717fb5668b759d079f1fc56cd5e666e5e714d336ec631c65dae684"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006a",
+   "short": "W. Va. Code 17A-6A",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6A. MOTOR VEHICLE DEALERS, DISTRIBUTORS, WHOLESALERS AND MANUFACTURERS.",
+   "url": "https://code.wvlegislature.gov/17A-6A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6A/",
+     "sha256": "41d5d11345fda0ee31fe5210ac3a3a5b049b1abc7dc3769efa8c730af80c0d36"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006b",
+   "short": "W. Va. Code 17A-6B",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6B. LICENSE SERVICES.",
+   "url": "https://code.wvlegislature.gov/17A-6B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6B/",
+     "sha256": "784d1eea8309b68f8915a07dd3471bf9e3d63ae06de2841cfe5d725eb000ae96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006c",
+   "short": "W. Va. Code 17A-6C",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6C. AUTOMOBILE AUCTION BUSINESSES.",
+   "url": "https://code.wvlegislature.gov/17A-6C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6C/",
+     "sha256": "270f96102edbc44bec97b5aebe9dc0c7f479a557244c7e1669b19aa4e1139d79"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006d",
+   "short": "W. Va. Code 17A-6D",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6D. DAILY PASSENGER RENTAL CAR BUSINESS.",
+   "url": "https://code.wvlegislature.gov/17A-6D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6D/",
+     "sha256": "c7d4172c28264e198457e59190452af5b7e1943cc6fcfc5b3f3b559593fc455d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006e",
+   "short": "W. Va. Code 17A-6E",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6E. MOTOR VEHICLE SALESPERSON LICENSE.",
+   "url": "https://code.wvlegislature.gov/17A-6E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6E/",
+     "sha256": "32b4f299659d8d40d0f617d71ee48957f4cbcea058a3f9141ecd2227c14325db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0006f",
+   "short": "W. Va. Code 17A-6F",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 6F. PEER-TO-PEER CAR SHARING PROGRAMS",
+   "url": "https://code.wvlegislature.gov/17A-6F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-6F/",
+     "sha256": "0114407845ae61904029c646af7280177bd3e6000d4a3fc2d5d77e3deb87a6c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0007",
+   "short": "W. Va. Code 17A-7",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 7. SPECIAL STICKERS.",
+   "url": "https://code.wvlegislature.gov/17A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-7/",
+     "sha256": "9e8cb763a284e379c65e6a0173096b3cc40b9072c737fb9bc96bf2b2921d514c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0008",
+   "short": "W. Va. Code 17A-8",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 8. SPECIAL ANTITHEFT LAWS.",
+   "url": "https://code.wvlegislature.gov/17A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-8/",
+     "sha256": "dda43e6598bdc39e822b2505ca575bc3c6363feeedaaa25f06eb2632fa4134cd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0009",
+   "short": "W. Va. Code 17A-9",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 9. OFFENSES AGAINST REGISTRATION LAWS AND SUSPENSION OR REVOCATION OF REGISTRATION.",
+   "url": "https://code.wvlegislature.gov/17A-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-9/",
+     "sha256": "0970d7d0d5e83772344620f3c72c292ff2ec252f1e2565e506c4c9e9961b1f89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0010",
+   "short": "W. Va. Code 17A-10",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 10. FEES FOR REGISTRATION, LICENSING, ETC.",
+   "url": "https://code.wvlegislature.gov/17A-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-10/",
+     "sha256": "8caaa4d9fbe97cb7cd81f6a221a404cf35993bf744e65c8cef0dcb61857bef5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0011",
+   "short": "W. Va. Code 17A-11",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 11. PENALTIES.",
+   "url": "https://code.wvlegislature.gov/17A-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-11/",
+     "sha256": "7bc6202014d819767f1b3a0e120203aa41b1366ec38644542e0500320be54897"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0012",
+   "short": "W. Va. Code 17A-12",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 12. SEVERABILITY AND EFFECT OF CHAPTER.",
+   "url": "https://code.wvlegislature.gov/17A-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-12/",
+     "sha256": "5031f539474059f823d3c5de58489123e0bf1441249ea0384886694ff0a82e68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a-article-0013",
+   "short": "W. Va. Code 17A-13",
+   "title": "West Virginia Code, CHAPTER 17A. MOTOR VEHICLE ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE, AND ANTITHEFT PROVISIONS. ARTICLE 13. STREET-LEGAL SPECIAL PURPOSE VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17A-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17A-13/",
+     "sha256": "c6b29699167a0958e165826749d886e84c10632e179b49b00132bae818688284"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0001",
+   "short": "W. Va. Code 17B-1",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 1. WORDS AND PHRASES DEFINED.",
+   "url": "https://code.wvlegislature.gov/17B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-1/",
+     "sha256": "10af89f9076185b625bc75cdf915a4d4e5e4e8a20f431cb453d806f3cd9d7020"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0001a",
+   "short": "W. Va. Code 17B-1A",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 1A. DRIVER LICENSE COMPACT.",
+   "url": "https://code.wvlegislature.gov/17B-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-1A/",
+     "sha256": "90ab57d74dad5e67429606991ab8023112d3218ebd9b41c991a2b0e602768401"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0001b",
+   "short": "W. Va. Code 17B-1B",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 1B. DRIVERS' OR CHAUFFEURS' LICENSE IDENTIFICATION OF ANATOMICAL ORGAN DONORS.",
+   "url": "https://code.wvlegislature.gov/17B-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-1B/",
+     "sha256": "9c7d55d4909eb7b395496910dfa214737050964fa9facb0af1832191893809f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0001c",
+   "short": "W. Va. Code 17B-1C",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 1C. NONRESIDENT VIOLATOR COMPACT.",
+   "url": "https://code.wvlegislature.gov/17B-1C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-1C/",
+     "sha256": "41116aafbc756f526e306a1fcd9c19b6b8a26fef2e6dbdc38912cb9696ad1558"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0001d",
+   "short": "W. Va. Code 17B-1D",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 1D. MOTORCYCLE SAFETY EDUCATION.",
+   "url": "https://code.wvlegislature.gov/17B-1D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-1D/",
+     "sha256": "913c07b156cdf81ea9efd189cd0fc19eef6889df9e1086eee64a3d3bd40e1159"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0002",
+   "short": "W. Va. Code 17B-2",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 2. ISSUANCE OF LICENSE, EXPIRATION AND RENEWAL.",
+   "url": "https://code.wvlegislature.gov/17B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 26,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-2/",
+     "sha256": "15d8021c9df7f1755d316ad3577cd3d9b494808118ec889cdc2781702e214fb1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0002a",
+   "short": "W. Va. Code 17B-2A",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 2A. REQUIREMENT OF COMPLIANCE WITH SELECTIVE SERVICE REGISTRATION.",
+   "url": "https://code.wvlegislature.gov/17B-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-2A/",
+     "sha256": "d7d5cd7207c703a71a3df30deed827b64b124d2a25798f1396ea33a0ce70ac69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0002b",
+   "short": "W. Va. Code 17B-2B",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 2B. LICENSE TO OPERATE A MOTOR VEHICLE WITH BIOPTIC TELESCOPIC DEVICE.",
+   "url": "https://code.wvlegislature.gov/17B-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-2B/",
+     "sha256": "c9bb8573d1eb4c5bcc4c887aedba5f1266c803e81de0198613fc38b81d222dde"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0003",
+   "short": "W. Va. Code 17B-3",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 3. CANCELLATION, SUSPENSION OR REVOCATION OF LICENSES.",
+   "url": "https://code.wvlegislature.gov/17B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-3/",
+     "sha256": "213bcf9eb7deacb05a48febdc6862ec438e19f1b9ff83046f86b268d28462451"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0004",
+   "short": "W. Va. Code 17B-4",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 4. VIOLATION OF LICENSE PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/17B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-4/",
+     "sha256": "c22ecf810509cbe6eaebf916843edb681e9bbca7024fa6110f150934513e17a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0005",
+   "short": "W. Va. Code 17B-5",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 5. PENALTIES.",
+   "url": "https://code.wvlegislature.gov/17B-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-5/",
+     "sha256": "3d36c332f131fa2497154dd69467742ae438ff4127b0d2eb4eb50798436c2ca9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0006",
+   "short": "W. Va. Code 17B-6",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 6. EFFECT OF CHAPTER.",
+   "url": "https://code.wvlegislature.gov/17B-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-6/",
+     "sha256": "a50ffec06e6f958d4fd3da22c7001a527a1d314f93d885e593a216bff0bfa07a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b-article-0007",
+   "short": "W. Va. Code 17B-7",
+   "title": "West Virginia Code, CHAPTER 17B. MOTOR VEHICLE DRIVER'S LICENSES. ARTICLE 7. SECOND CHANCE DRIVER'S LICENSE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/17B-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/17B-7/",
+     "sha256": "741da3fa477e53135de95952466770fedd9d8a045b3c135e4967d006671f4bc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0001",
+   "short": "W. Va. Code 17C-1",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 1. WORDS AND PHRASES DEFINED.",
+   "url": "https://code.wvlegislature.gov/17C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 71,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-1/",
+     "sha256": "b34225af5dcadf9c30e647dfd8bcb549e14afdebbf2d10586db95ee70cc070d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0002",
+   "short": "W. Va. Code 17C-2",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 2. OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS.",
+   "url": "https://code.wvlegislature.gov/17C-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-2/",
+     "sha256": "2956c44f30996ed31be1012a9a992c01ed5279d164bb053ec4cf92cad4ff86bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0003",
+   "short": "W. Va. Code 17C-3",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 3. TRAFFIC SIGNS, SIGNALS AND MARKINGS.",
+   "url": "https://code.wvlegislature.gov/17C-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-3/",
+     "sha256": "5e3987ad9c0763b36428cf9ae48c049863451a31ade6371d46c1e4bb1b2633b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0004",
+   "short": "W. Va. Code 17C-4",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 4. CRASHES.",
+   "url": "https://code.wvlegislature.gov/17C-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-4/",
+     "sha256": "da02ca54038b7c9cb30514559644d44e474db1c93a546b71d5107895bc629db6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0005",
+   "short": "W. Va. Code 17C-5",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 5. SERIOUS TRAFFIC OFFENSES.",
+   "url": "https://code.wvlegislature.gov/17C-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-5/",
+     "sha256": "2ed074a166b4c1553f7a7ab8b176e53e60d59e334d6c462f39f9564630b543b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0005a",
+   "short": "W. Va. Code 17C-5A",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 5A. ADMINISTRATIVE PROCEDURES FOR SUSPENSION AND REVOCATION OF LICENSES FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL, CONTROLLED SUBSTANCES OR DRUGS.",
+   "url": "https://code.wvlegislature.gov/17C-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-5A/",
+     "sha256": "ed634370fea4f4c02e95ae7548a0bcb7408bfce4b506d6cab88ac89217aa31f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0005b",
+   "short": "W. Va. Code 17C-5B",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 5B. DRUG AND ALCOHOL TESTING FOLLOWING FATAL MOTOR VEHICLE CRASHES.",
+   "url": "https://code.wvlegislature.gov/17C-5B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-5B/",
+     "sha256": "b6f580948e4860a04f7f7265c587fb991a844b061be829e78ec58b814d883cf0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0005c",
+   "short": "W. Va. Code 17C-5C",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 5C. OFFICE OF ADMINISTRATIVE HEARINGS.",
+   "url": "https://code.wvlegislature.gov/17C-5C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-5C/",
+     "sha256": "4157791365c1e4d9b8e0b96064f7045ac846fd786aaa15bcfea61951d20e11f1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0005d",
+   "short": "W. Va. Code 17C-5D",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 5D. OPEN CONTAINER LAWS.",
+   "url": "https://code.wvlegislature.gov/17C-5D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-5D/",
+     "sha256": "a775773973e38804026f88fe2561fc18702ae9146bd487c377e0a827204e7f3f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0006",
+   "short": "W. Va. Code 17C-6",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 6. SPEED RESTRICTIONS.",
+   "url": "https://code.wvlegislature.gov/17C-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-6/",
+     "sha256": "7e669bf2efb3e5d93a54aa1338a2ec312f608c36747283acb2aa04ed25f97d6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0007",
+   "short": "W. Va. Code 17C-7",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 7. DRIVING ON RIGHT SIDE OF ROADWAY, OVERTAKING AND PASSING, ETC.",
+   "url": "https://code.wvlegislature.gov/17C-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-7/",
+     "sha256": "14e4b103d1b774ce514f4e14702bc120009455fb565d8cd2b0d5ced50806ed11"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0008",
+   "short": "W. Va. Code 17C-8",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 8. TURNING AND STARTING AND SIGNALS ON STOPPING AND TURNING.",
+   "url": "https://code.wvlegislature.gov/17C-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-8/",
+     "sha256": "15c83964bda1e511feaa89f01e7397fed55127ea8044c87ad6b859c8fbaccfcc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0009",
+   "short": "W. Va. Code 17C-9",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 9. RIGHT-OF-WAY.",
+   "url": "https://code.wvlegislature.gov/17C-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-9/",
+     "sha256": "26862d53831c0a94d1e9c6caac85ca5f3699a8a17a9e640f51cf3629608fe673"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0010",
+   "short": "W. Va. Code 17C-10",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 10. PEDESTRIANS' RIGHTS AND DUTIES.",
+   "url": "https://code.wvlegislature.gov/17C-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-10/",
+     "sha256": "25d4cb9992b496a2f43699b69056d23b6c87043e174be9f95eb349bef90022e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0010a",
+   "short": "W. Va. Code 17C-10A",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 10A. OPERATION OF ELECTRIC PERSONAL ASSISTIVE MOBILITY DEVICES.",
+   "url": "https://code.wvlegislature.gov/17C-10A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-10A/",
+     "sha256": "3dff653b05ad7d6d4640e7b3b0374df27295840248d6c756a9ca46008172ff00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0011",
+   "short": "W. Va. Code 17C-11",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 11. OPERATION OF BICYCLES AND PLAY VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17C-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-11/",
+     "sha256": "377554bfecf7e97599eff65728df284de9c9e647374918fc5c486491908962a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0011a",
+   "short": "W. Va. Code 17C-11A",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 11A. CHILD BICYCLE SAFETY ACT.",
+   "url": "https://code.wvlegislature.gov/17C-11A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-11A/",
+     "sha256": "f77e8ce5802150eb37e94f739b1d9c23fa37a9740ced4ab88b8dc46805312ecc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0012",
+   "short": "W. Va. Code 17C-12",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 12. SPECIAL STOPS REQUIRED.",
+   "url": "https://code.wvlegislature.gov/17C-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-12/",
+     "sha256": "ad754e7262244a8419fac81926f8494cf34e2fb3c9b0520a2274760109507138"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0013",
+   "short": "W. Va. Code 17C-13",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 13. STOPPING, STANDING AND PARKING.",
+   "url": "https://code.wvlegislature.gov/17C-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-13/",
+     "sha256": "53586d7a073ed9661be9a7996cd04a40c77371fb0d771055a31311161300b403"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0013a",
+   "short": "W. Va. Code 17C-13A",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 13A. DIESEL-POWERED MOTOR VEHICLE IDLING ACT.",
+   "url": "https://code.wvlegislature.gov/17C-13A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-13A/",
+     "sha256": "af60a774fc6dc0b4e83fd8e30d506f3553639a3b8e7566f8392408094e8ab5a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0014",
+   "short": "W. Va. Code 17C-14",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 14. MISCELLANEOUS RULES.",
+   "url": "https://code.wvlegislature.gov/17C-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-14/",
+     "sha256": "c8fc4d37c32c37939d4466ac148b735619378bdfbbe8bd9dc0b99e05623983d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0015",
+   "short": "W. Va. Code 17C-15",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 15. EQUIPMENT.",
+   "url": "https://code.wvlegislature.gov/17C-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 52,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-15/",
+     "sha256": "66d7ee0eac63c733a138ae57104fc958cf9ad26e5f7e45b36bf9803774c302eb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0016",
+   "short": "W. Va. Code 17C-16",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 16. INSPECTION OF VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17C-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-16/",
+     "sha256": "90880db205999ae97578d269ae204415d16b310ef835c7ba9dfe9aff0f056f3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0017",
+   "short": "W. Va. Code 17C-17",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 17. SIZE, WEIGHT AND LOAD.",
+   "url": "https://code.wvlegislature.gov/17C-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-17/",
+     "sha256": "7d1b59610519463f6c98925823630a8ff957d0b0cf01f152bc49b66cedd8f6dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0017a",
+   "short": "W. Va. Code 17C-17A",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 17A. REGULATION OF THE COMMERCIAL TRANSPORTATION OF COAL.",
+   "url": "https://code.wvlegislature.gov/17C-17A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-17A/",
+     "sha256": "5b5442f168076be01076f2ace1a0a626a7af196eda240d2443c9f965865941a3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0017b",
+   "short": "W. Va. Code 17C-17B",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 17B. TRANSFER OF CERTAIN JURISDICTION AND EMPLOYEES TO PUBLIC SERVICE COMMISSION.",
+   "url": "https://code.wvlegislature.gov/17C-17B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-17B/",
+     "sha256": "a8ae1d1a1eb947106ee80ca09bfd1f7cb283fde4ac0ccfd8ebf37e5e9f018ee1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0018",
+   "short": "W. Va. Code 17C-18",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 18. PENALTIES.",
+   "url": "https://code.wvlegislature.gov/17C-18/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-18/",
+     "sha256": "b0ee41bfa44f6b18b519b8e438f5770e7043a8e792d7d7ff7ead509c1c3f3bb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0019",
+   "short": "W. Va. Code 17C-19",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 19. PARTIES, PROCEDURE UPON ARREST AND REPORTS IN CRIMINAL CASES.",
+   "url": "https://code.wvlegislature.gov/17C-19/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-19/",
+     "sha256": "c5586a5054bcbaf4a1ae5e8991583b3f42bd997fa95ae412eb43bfbd070f8592"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0020",
+   "short": "W. Va. Code 17C-20",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 20. WEST VIRGINIA TURNPIKE COMMISSION.",
+   "url": "https://code.wvlegislature.gov/17C-20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-20/",
+     "sha256": "93e76fb20b0a5804ea9aa9a4fcddf60486422e7dc565f818e10621538b6f9db8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0021",
+   "short": "W. Va. Code 17C-21",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 21. EFFECT OF CHAPTER.",
+   "url": "https://code.wvlegislature.gov/17C-21/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-21/",
+     "sha256": "9fdaf7aebf1efcabb727f99b2d7bd66731afef1b04cb6bbe22dad03889167c7c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0022",
+   "short": "W. Va. Code 17C-22",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 22. RIDESHARING.",
+   "url": "https://code.wvlegislature.gov/17C-22/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-22/",
+     "sha256": "f432b3d36a5e215f7e7b53a3ec6eea53a82e563bc438cb01ea047edef3f78a9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0023",
+   "short": "W. Va. Code 17C-23",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 23. FUNERAL PROCESSIONS.",
+   "url": "https://code.wvlegislature.gov/17C-23/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-23/",
+     "sha256": "dd0704b2ecea8943442a336627abaa89af359529c7a361ebba002fef034f7dfb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0024",
+   "short": "W. Va. Code 17C-24",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 24. AUTONOMOUS VEHICLES AND DEVICES.",
+   "url": "https://code.wvlegislature.gov/17C-24/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-24/",
+     "sha256": "fbe0d108af56b803748fb551797dbe1f9ce4646d6103e098f6835c131cde6e89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c-article-0025",
+   "short": "W. Va. Code 17C-25",
+   "title": "West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 25. AVIATION RELATED OFFENSES.",
+   "url": "https://code.wvlegislature.gov/17C-25/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/17C-25/",
+     "sha256": "0c6cc3486a3ba249ab355bcb1fa8a45b8bbf9d5fcc41c4bb3f8910b96acac023"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0001",
+   "short": "W. Va. Code 17D-1",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 1. WORDS AND PHRASES DEFINED.",
+   "url": "https://code.wvlegislature.gov/17D-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-1/",
+     "sha256": "0ce98b726d9b84a751f1bcec231d80e633d6a4709682c9cbf6b1f9c78c904f6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0002",
+   "short": "W. Va. Code 17D-2",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 2. ADMINISTRATION OF LAW.",
+   "url": "https://code.wvlegislature.gov/17D-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-2/",
+     "sha256": "f8596f02f060b93ff26b7d630dc1dd121fb5d11e1309d9106920520b5b330be3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0002a",
+   "short": "W. Va. Code 17D-2A",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 2A. SECURITY UPON MOTOR VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17D-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-2A/",
+     "sha256": "fb81e5ee3535766af6214a52aa24a387fd0fd0f3d16be91a58a2626f3d53b6aa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0003",
+   "short": "W. Va. Code 17D-3",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 3. SECURITY FOLLOWING ACCIDENT.",
+   "url": "https://code.wvlegislature.gov/17D-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-3/",
+     "sha256": "e9288b55e0a94dc964256f3613511193a819b5e6ed417d4e59ea8882f52f2365"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0004",
+   "short": "W. Va. Code 17D-4",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 4. PROOF OF FINANCIAL RESPONSIBILITY FOR THE FUTURE.",
+   "url": "https://code.wvlegislature.gov/17D-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-4/",
+     "sha256": "0f394a63fe0e0a51ff758c6dfbe4f2a6a54abf634fc3f5fdbcbf025134ccfb69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0005",
+   "short": "W. Va. Code 17D-5",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 5. VIOLATION OF PROVISIONS OF CHAPTER; PENALTIES.",
+   "url": "https://code.wvlegislature.gov/17D-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-5/",
+     "sha256": "0ef540e6291dad48d9aefc0bf276ec041150841affe091000079d911fdf67023"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d-article-0006",
+   "short": "W. Va. Code 17D-6",
+   "title": "West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 6. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/17D-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/17D-6/",
+     "sha256": "76a53c6a09328525e3f85d2b71296774e6126d6b5bee9972ece80d14d984bc96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17e-article-0001",
+   "short": "W. Va. Code 17E-1",
+   "title": "West Virginia Code, CHAPTER 17E. UNIFORM COMMERCIAL DRIVER'S LICENSE ACT. ARTICLE 1. COMMERCIAL DRIVER'S LICENSE.",
+   "url": "https://code.wvlegislature.gov/17E-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/17E-1/",
+     "sha256": "e148f78ed1bfcc616a6e723635f9425e118eade752ca95a22511a2a3745270ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17f-article-0001",
+   "short": "W. Va. Code 17F-1",
+   "title": "West Virginia Code, CHAPTER 17F. ALL-TERRAIN VEHICLES. ARTICLE 1. REGULATION OF ALL-TERRAIN VEHICLES.",
+   "url": "https://code.wvlegislature.gov/17F-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/17F-1/",
+     "sha256": "d0354e4c0ccdde7da709b0f4e4cfd78090835c438eb757315893f58dc59d01e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17g-article-0001",
+   "short": "W. Va. Code 17G-1",
+   "title": "West Virginia Code, CHAPTER 17G. RACIAL PROFILING DATA COLLECTION ACT. ARTICLE 1. RACIAL PROFILING DATA COLLECTION.",
+   "url": "https://code.wvlegislature.gov/17G-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17G-1/",
+     "sha256": "485794c659b3df1930806c3ac3722ff84d0af0be6fd3c5f249d1ecdf70832210"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17g-article-0002",
+   "short": "W. Va. Code 17G-2",
+   "title": "West Virginia Code, CHAPTER 17G. RACIAL PROFILING DATA COLLECTION ACT. ARTICLE 2. ANALYSIS OF TRAFFIC STOPS STUDY AND ANNUAL REPORT BY DIRECTOR OF THE GOVERNOR'S COMMITTEE ON CRIME, DELINQUENCY AND CORRECTION.",
+   "url": "https://code.wvlegislature.gov/17G-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/17G-2/",
+     "sha256": "cb827b5b837883b0bab30876b5dc4a2aca3db65d1cc61f83c4c1c8dde77c9b45"
+    }
+   ]
   }
  ]
 }

@@ -37,6 +37,16 @@ The law of West Virginia as a git history: one file per provision, with `git bla
 | `chapter-13-article-*/` | West Virginia Code, Chapter 13: Public Bonded Indebtedness, one folder per article | 1 | 12 articles, 174 sections, text as of 2026-10-13 |
 | `chapter-14-article-*/` | West Virginia Code, Chapter 14: Claims Due and Against the State, one folder per article | 1 | 6 articles, 123 sections, text as of 2026-10-13 |
 | `chapter-15a-article-*/` | West Virginia Code, Chapter 15A: Department of Homeland Security, one folder per article | 1 | 14 articles, 142 sections, text as of 2026-10-13 |
+| `chapter-16-article-*/` | West Virginia Code, Chapter 16: Public Health, one folder per article | 1 | 160 articles, 1558 sections, text as of 2026-10-13 |
+| `chapter-16a-article-*/` | West Virginia Code, Chapter 16A: Medical Cannabis Act, one folder per article | 1 | 16 articles, 87 sections, text as of 2026-10-13 |
+| `chapter-16b-article-*/` | West Virginia Code, Chapter 16B: Inspector General, one folder per article | 1 | 21 articles, 226 sections, text as of 2026-10-13 |
+| `chapter-17a-article-*/` | West Virginia Code, Chapter 17A: Motor Vehicle Administration, Registration, Certificate of Title, and Antitheft Provisions, one folder per article | 1 | 23 articles, 314 sections, text as of 2026-10-13 |
+| `chapter-17b-article-*/` | West Virginia Code, Chapter 17B: Motor Vehicle Driver'S Licenses, one folder per article | 1 | 13 articles, 96 sections, text as of 2026-10-13 |
+| `chapter-17c-article-*/` | West Virginia Code, Chapter 17C: Traffic Regulations and Laws of the Road, one folder per article | 1 | 34 articles, 407 sections, text as of 2026-10-13 |
+| `chapter-17d-article-*/` | West Virginia Code, Chapter 17D: Motor Vehicle Safety Responsibility Law, one folder per article | 1 | 7 articles, 58 sections, text as of 2026-10-13 |
+| `chapter-17e-article-*/` | West Virginia Code, Chapter 17E: Uniform Commercial Driver'S License Act, one folder per article | 1 | 1 articles, 27 sections, text as of 2026-10-13 |
+| `chapter-17f-article-*/` | West Virginia Code, Chapter 17F: All-Terrain Vehicles, one folder per article | 1 | 1 articles, 9 sections, text as of 2026-10-13 |
+| `chapter-17g-article-*/` | West Virginia Code, Chapter 17G: Racial Profiling Data Collection Act, one folder per article | 1 | 2 articles, 6 sections, text as of 2026-10-13 |
 | `chapter-31d-article-*/` | West Virginia Code, Chapter 31D: West Virginia Business Corporation Act, one folder per article | 1 | 16 articles, 190 sections, text as of 2026-10-13 |
 | `chapter-36-article-*/` | West Virginia Code, Chapter 36: Estates and Property, one folder per article | 1 | 15 articles, 275 sections, text as of 2026-10-13 |
 | `chapter-61-article-*/` | West Virginia Code, Chapter 61: Crimes and Their Punishment, one folder per article | 1 | 36 articles, 590 sections, text as of 2026-10-13 |
