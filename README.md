@@ -102,7 +102,31 @@ The law of West Virginia as a git history: one file per provision, with `git bla
 | `chapter-41-article-*/` | West Virginia Code, Chapter 41: Wills, one folder per article | 1 | 5 articles, 46 sections, text as of 2026-10-13 |
 | `chapter-42-article-*/` | West Virginia Code, Chapter 42: Descent and Distribution, one folder per article | 1 | 6 articles, 61 sections, text as of 2026-10-13 |
 | `chapter-43-article-*/` | West Virginia Code, Chapter 43: Dower and Valuation of Life Estates, one folder per article | 1 | 2 articles, 25 sections, text as of 2026-10-13 |
+| `chapter-44-article-*/` | West Virginia Code, Chapter 44: Administration of Estates and Trusts, one folder per article | 1 | 24 articles, 345 sections, text as of 2026-10-13 |
+| `chapter-44a-article-*/` | West Virginia Code, Chapter 44A: West Virginia Guardianship and Conservatorship Act, one folder per article | 1 | 5 articles, 67 sections, text as of 2026-10-13 |
+| `chapter-44b-article-*/` | West Virginia Code, Chapter 44B: Uniform Principal and Income Act, one folder per article | 1 | 6 articles, 38 sections, text as of 2026-10-13 |
+| `chapter-44c-article-*/` | West Virginia Code, Chapter 44C: Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act, one folder per article | 1 | 5 articles, 22 sections, text as of 2026-10-13 |
+| `chapter-45-article-*/` | West Virginia Code, Chapter 45: Suretyship and Guaranty, one folder per article | 1 | 1 articles, 8 sections, text as of 2026-10-13 |
+| `chapter-46a-article-*/` | West Virginia Code, Chapter 46A: West Virginia Consumer Credit and Protection Act, one folder per article | 1 | 23 articles, 270 sections, text as of 2026-10-13 |
+| `chapter-47-article-*/` | West Virginia Code, Chapter 47: Regulation of Trade, one folder per article | 1 | 40 articles, 602 sections, text as of 2026-10-13 |
+| `chapter-47a-article-*/` | West Virginia Code, Chapter 47A: West Virginia Lending and Credit Rate Board, one folder per article | 1 | 1 articles, 4 sections, text as of 2026-10-13 |
+| `chapter-47b-article-*/` | West Virginia Code, Chapter 47B: Uniform Partnership Act, one folder per article | 1 | 11 articles, 62 sections, text as of 2026-10-13 |
+| `chapter-49a-article-*/` | West Virginia Code, Chapter 49A: Child Online Protection and Liability, one folder per article | 1 | 1 articles, 6 sections, text as of 2026-10-13 |
+| `chapter-50-article-*/` | West Virginia Code, Chapter 50: Magistrate Courts, one folder per article | 1 | 6 articles, 76 sections, text as of 2026-10-13 |
+| `chapter-51-article-*/` | West Virginia Code, Chapter 51: Courts and Their Officers, one folder per article | 1 | 14 articles, 237 sections, text as of 2026-10-13 |
+| `chapter-52-article-*/` | West Virginia Code, Chapter 52: Juries, one folder per article | 1 | 3 articles, 45 sections, text as of 2026-10-13 |
+| `chapter-53-article-*/` | West Virginia Code, Chapter 53: Extraordinary Remedies, one folder per article | 1 | 9 articles, 91 sections, text as of 2026-10-13 |
+| `chapter-54-article-*/` | West Virginia Code, Chapter 54: Eminent Domain, one folder per article | 1 | 3 articles, 49 sections, text as of 2026-10-13 |
+| `chapter-55-article-*/` | West Virginia Code, Chapter 55: Actions, Suits and Arbitration; Judicial Sale, one folder per article | 1 | 37 articles, 384 sections, text as of 2026-10-13 |
+| `chapter-56-article-*/` | West Virginia Code, Chapter 56: Pleading and Practice, one folder per article | 1 | 12 articles, 225 sections, text as of 2026-10-13 |
+| `chapter-57-article-*/` | West Virginia Code, Chapter 57: Evidence and Witnesses, one folder per article | 1 | 5 articles, 62 sections, text as of 2026-10-13 |
+| `chapter-58-article-*/` | West Virginia Code, Chapter 58: Appeal and Error, one folder per article | 1 | 5 articles, 69 sections, text as of 2026-10-13 |
+| `chapter-59-article-*/` | West Virginia Code, Chapter 59: Fees, Allowances and Costs; Newspapers; Legal Advertisements, one folder per article | 1 | 3 articles, 72 sections, text as of 2026-10-13 |
+| `chapter-60a-article-*/` | West Virginia Code, Chapter 60A: Uniform Controlled Substances Act, one folder per article | 1 | 11 articles, 116 sections, text as of 2026-10-13 |
+| `chapter-60b-article-*/` | West Virginia Code, Chapter 60B: Donated Drug Repository Program, one folder per article | 1 | 1 articles, 8 sections, text as of 2026-10-13 |
 | `chapter-61-article-*/` | West Virginia Code, Chapter 61: Crimes and Their Punishment, one folder per article | 1 | 36 articles, 590 sections, text as of 2026-10-13 |
+| `chapter-62-article-*/` | West Virginia Code, Chapter 62: Criminal Procedure, one folder per article | 1 | 34 articles, 361 sections, text as of 2026-10-13 |
+| `chapter-63-article-*/` | West Virginia Code, Chapter 63: Repeal of Statutes, one folder per article | 1 | 1 articles, 5 sections, text as of 2026-10-13 |
 
 **Source.** The [West Virginia Code](https://code.wvlegislature.gov/) site of the West Virginia Legislature. English. Chapters 61, 31D and 36 were read from the section pages; every other chapter from the Legislature's own article PDFs (`code.wvlegislature.gov/pdf/<chapter>-<article>/`), one request at a time and at most two a second. Only the section text is taken; the site's bill-history and signed-bill widgets are not copied.
 
