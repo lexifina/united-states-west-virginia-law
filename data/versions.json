@@ -12572,6 +12572,4024 @@
      "sha256": "98a191a8fc71704280252920cb93563ba6583a19498b7fe4b5bc967de0ae6370"
     }
    ]
+  },
+  {
+   "slug": "chapter-25-article-0001",
+   "short": "W. Va. Code 25-1",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 1. ORGANIZATION, INSTITUTIONS AND CORRECTIONS MANAGEMENT.",
+   "url": "https://code.wvlegislature.gov/25-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 47,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-1/",
+     "sha256": "71953728f3b8eedd1d307144659a12f3b905cdc530ebcd776842080c10c64330"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0001a",
+   "short": "W. Va. Code 25-1A",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 1A. WEST VIRGINIA PRISONER LITIGATION REFORM ACT.",
+   "url": "https://code.wvlegislature.gov/25-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-1A/",
+     "sha256": "c4d29ece024b20461066f27f060cb4452d434c4b99b1579d4cf5594a391198d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0001b",
+   "short": "W. Va. Code 25-1B",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 1B. WEST VIRGINIA CORRECTIONAL CENTER NURSERY ACT.",
+   "url": "https://code.wvlegislature.gov/25-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-1B/",
+     "sha256": "e455f719ede2b510088ebd755b8c17f5bd3d118dbacd46a1cff50b15c7311a3e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0002",
+   "short": "W. Va. Code 25-2",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 2. PUBLIC PRINTING AND STATIONERY; STATE PUBLICATIONS.",
+   "url": "https://code.wvlegislature.gov/25-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-2/",
+     "sha256": "ba4e93a4d6479dd7aa099da201a0b0cab198184eee4dfa048f717edd3ceafe0a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0003",
+   "short": "W. Va. Code 25-3",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 3. CLAIMS OF CITIZENS AGAINST UNITED STATES GOVERNMENT FOR ILLEGAL TAX PAYMENTS.",
+   "url": "https://code.wvlegislature.gov/25-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-3/",
+     "sha256": "bb363d59cb43630bd02a90c1dd5fa7af6dc462c3a3e3c8b1fecfcb163d2e9b7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0004",
+   "short": "W. Va. Code 25-4",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 4. CENTERS FOR HOUSING YOUNG ADULT OFFENDERS.",
+   "url": "https://code.wvlegislature.gov/25-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-4/",
+     "sha256": "54b0cdf8cd7d3af90e7ae0899228365b8edc286e00d2c61f229370ef4f303ae5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0005",
+   "short": "W. Va. Code 25-5",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 5. PRIVATE PRISONS.",
+   "url": "https://code.wvlegislature.gov/25-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-5/",
+     "sha256": "6179ca1a7df7894e2b23f49ed2d2d60759f2ff97b85ed44c3db71eedc6e62ea7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0006",
+   "short": "W. Va. Code 25-6",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 6. BOOT CAMP.",
+   "url": "https://code.wvlegislature.gov/25-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-6/",
+     "sha256": "ca61844b5728c9bce55db531ecb87c8641522af5d565dd39fc60afd0bba5df3c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25-article-0007",
+   "short": "W. Va. Code 25-7",
+   "title": "West Virginia Code, CHAPTER 25. DIVISION OF CORRECTIONS. ARTICLE 7. CORRECTIONAL INDUSTRIES ACT OF 2009.",
+   "url": "https://code.wvlegislature.gov/25-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/25-7/",
+     "sha256": "862ddf4a583ee60ad1474a1ac19d9211dbfb7375d3756230862556d3d590f23c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0001",
+   "short": "W. Va. Code 26-1",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 1. DEPARTMENT OF HEALTH FACILITIES.",
+   "url": "https://code.wvlegislature.gov/26-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-1/",
+     "sha256": "56b741eba928b01821e06da550076246ba58682913d66f1cc3d9c702e19d126e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0002",
+   "short": "W. Va. Code 26-2",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 2. COLORED CHILDREN'S HOME.",
+   "url": "https://code.wvlegislature.gov/26-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-2/",
+     "sha256": "89e040364e494acd223aee493fd22aa0824a70fcaba62bdfe84d3338df5c974c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0003",
+   "short": "W. Va. Code 26-3",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 3. HOME FOR AGED AND INFIRM MEN AND WOMEN.",
+   "url": "https://code.wvlegislature.gov/26-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-3/",
+     "sha256": "62b4dfcae2bec93dc100c42130c139548728f206f2013099e2133887b770d078"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0004",
+   "short": "W. Va. Code 26-4",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 4. HOME FOR AGED AND INFIRM COLORED MEN AND WOMEN.",
+   "url": "https://code.wvlegislature.gov/26-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-4/",
+     "sha256": "af9f452fdb3cb0944a7d2e75faf1413492581bdd1a556cf35bf049bd4ef7a09e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0005",
+   "short": "W. Va. Code 26-5",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 5. JACKIE WITHROW HOSPITAL.",
+   "url": "https://code.wvlegislature.gov/26-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-5/",
+     "sha256": "82391472c8044104370447ae15b884e220b55883534b33b6bcdd441c1f9f30ad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0005a",
+   "short": "W. Va. Code 26-5A",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 5A. TUBERCULOSIS CONTROL.",
+   "url": "https://code.wvlegislature.gov/26-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-5A/",
+     "sha256": "a9168478502dfdff9592e692d1bb6a053158c3ef8e6f815185fce347c721fb0f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0006",
+   "short": "W. Va. Code 26-6",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 6. DENMAR STATE HOSPITAL.",
+   "url": "https://code.wvlegislature.gov/26-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-6/",
+     "sha256": "fb1db769f5fa7e09979225aef25a123ca923d481e7c02fa49c4bbfbe851df0fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0007",
+   "short": "W. Va. Code 26-7",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 7. BERKELEY SPRINGS SANITARIUM.",
+   "url": "https://code.wvlegislature.gov/26-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-7/",
+     "sha256": "0fdad610499f4db7047837b2194d8ea89ae72c800fd94534069a4e6fe5c2186d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0008",
+   "short": "W. Va. Code 26-8",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 8. EMERGENCY HOSPITALS.",
+   "url": "https://code.wvlegislature.gov/26-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-8/",
+     "sha256": "576155567f59368c6c33fa5bfa8b9f75351940267e91c2e528e2d81fd00dbf1c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0009",
+   "short": "W. Va. Code 26-9",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 9. HOPEMONT STATE HOSPITAL.",
+   "url": "https://code.wvlegislature.gov/26-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-9/",
+     "sha256": "d7fe6b714ad4830ae8298c98b250cb5888d8f460bfd2785d2e9807be18606b4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0010",
+   "short": "W. Va. Code 26-10",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 10. HOSPITALS, HOMES AND SANITARIA FEES.",
+   "url": "https://code.wvlegislature.gov/26-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-10/",
+     "sha256": "e27e31e834d452d01aaa7ade7eaa040599b2cd8d85ae29ea9e2f056669e53f11"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26-article-0011",
+   "short": "W. Va. Code 26-11",
+   "title": "West Virginia Code, CHAPTER 26. STATE HEALTH FACILITIES. ARTICLE 11. STATE EXTENDED CARE AND EMERGENCY FACILITIES.",
+   "url": "https://code.wvlegislature.gov/26-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/26-11/",
+     "sha256": "09d6159ff587b8de31cd7910c21e9bae692bf22412a10438a85119fcd3c79db6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0001",
+   "short": "W. Va. Code 27-1",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 1. WORDS AND PHRASES DEFINED.",
+   "url": "https://code.wvlegislature.gov/27-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-1/",
+     "sha256": "21dc2d8e8597f34a5603dd008807f6dbe8344ba4ac1809bc62c084698044b534"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0001a",
+   "short": "W. Va. Code 27-1A",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 1A. DEPARTMENT OF HEALTH.",
+   "url": "https://code.wvlegislature.gov/27-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-1A/",
+     "sha256": "f227064d763e126cdfc541f359706cc0f0c4b8b5fcf3e41dfb0d2326bc10397c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0002",
+   "short": "W. Va. Code 27-2",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 2. MENTAL HEALTH FACILITIES.",
+   "url": "https://code.wvlegislature.gov/27-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-2/",
+     "sha256": "019b3794f7e60405d1cfcf5bb3d917ece79189f7fd8265878495a5709fbdbbb0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0002a",
+   "short": "W. Va. Code 27-2A",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 2A. MENTAL HEALTH-INTELLECTUAL DISABILITY CENTERS.",
+   "url": "https://code.wvlegislature.gov/27-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-2A/",
+     "sha256": "3185facd87ed1cd94a30592a6bf826677ec0b788ca5a3f3cb249260d5f969764"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0003",
+   "short": "W. Va. Code 27-3",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 3. CONFIDENTIALITY.",
+   "url": "https://code.wvlegislature.gov/27-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-3/",
+     "sha256": "3478b2286a82832eea6e6754b8c82c78dfae2bc179a426a9bfbb9729f5cb7401"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0004",
+   "short": "W. Va. Code 27-4",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 4. VOLUNTARY HOSPITALIZATION.",
+   "url": "https://code.wvlegislature.gov/27-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-4/",
+     "sha256": "305ed06eef3964b7b830ece3c511475d43ff1413b7a1409d6f6d192669dee870"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0005",
+   "short": "W. Va. Code 27-5",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 5. INVOLUNTARY HOSPITALIZATION.",
+   "url": "https://code.wvlegislature.gov/27-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-5/",
+     "sha256": "e3368be29240d306f67b1e8deacc77b19166be11c22f789259d0de402ce030f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0006",
+   "short": "W. Va. Code 27-6",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 6. SUICIDE PREVENTION AND AWARENESS.",
+   "url": "https://code.wvlegislature.gov/27-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-6/",
+     "sha256": "ed41add37c9398700f5b0a3e989e14ab3f7a3e762d702feb941e09498b390c22"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0006a",
+   "short": "W. Va. Code 27-6A",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 6A. COMPETENCY AND CRIMINAL RESPONSIBILITY OF PERSONS CHARGED OR CONVICTED OF A CRIME.",
+   "url": "https://code.wvlegislature.gov/27-6A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-6A/",
+     "sha256": "950353026427b2d73a43051fdfede864f95fb0dce1a02a4124c7bb4d499e6324"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0007",
+   "short": "W. Va. Code 27-7",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 7. RELEASE, DISCHARGE AND READMISSION OF PATIENTS; ESCAPEES.",
+   "url": "https://code.wvlegislature.gov/27-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-7/",
+     "sha256": "01d7bb9ceb3dbe21edb13c3251c052d18cdd57c9dfd7cbc633179ebeec5a9684"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0008",
+   "short": "W. Va. Code 27-8",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 8. MAINTENANCE OF MENTALLY ILL OR MENTALLY RETARDED PATIENTS.",
+   "url": "https://code.wvlegislature.gov/27-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-8/",
+     "sha256": "7726d1c4163ae97d82cede937cb9d660da724de7910565ab4df24ae4e523d779"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0009",
+   "short": "W. Va. Code 27-9",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 9. LICENSING OF HOSPITALS.",
+   "url": "https://code.wvlegislature.gov/27-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-9/",
+     "sha256": "357f0ccaa4d5e8ab4047669cee3049a077e53461c9358480ef4dc7e94b39b674"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0010",
+   "short": "W. Va. Code 27-10",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 10. WEST VIRGINIA TRAINING SCHOOL.",
+   "url": "https://code.wvlegislature.gov/27-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-10/",
+     "sha256": "1be86618bed82cba1a6d5512112e13d244bf920233d4b6391c7fb454784c358b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0011",
+   "short": "W. Va. Code 27-11",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 11. COMMITTEE; DISPOSITION OF PROPERTY.",
+   "url": "https://code.wvlegislature.gov/27-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-11/",
+     "sha256": "6c7b7a7cc5f3f15e3c63044c593a8bf8a11473e0c4d121ca6c2cadecf7ec3c65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0012",
+   "short": "W. Va. Code 27-12",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 12. OFFENSES.",
+   "url": "https://code.wvlegislature.gov/27-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-12/",
+     "sha256": "92e96874b7f421a9bf2e6320064cafe89466a430f697d4a4a016f332c5a779cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0013",
+   "short": "W. Va. Code 27-13",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 13. LAWS REPEALED; SEVERABILITY.",
+   "url": "https://code.wvlegislature.gov/27-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-13/",
+     "sha256": "9b87e182b99a93237d0addc0829931269c9fe89aea57aeee3d2e7bf2742f0fde"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0014",
+   "short": "W. Va. Code 27-14",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 14. INTERSTATE COMPACT ON MENTAL HEALTH.",
+   "url": "https://code.wvlegislature.gov/27-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-14/",
+     "sha256": "f7563a8813cd8468df5aea11dfde2e84a19d4baed3afe51d960c2264d8e367ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0015",
+   "short": "W. Va. Code 27-15",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 15. INTERSTATE COMPACT ON THE MENTALLY DISORDERED OFFENDER.",
+   "url": "https://code.wvlegislature.gov/27-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-15/",
+     "sha256": "9a58cdc12f5a9d8eaeb131dd11c5e77cb072562d0d8904ac76d8acf602e2c31b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0016",
+   "short": "W. Va. Code 27-16",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 16. STERILIZATION OF MENTAL DEFECTIVES.",
+   "url": "https://code.wvlegislature.gov/27-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-16/",
+     "sha256": "9d3623c9ec05172114907d9ee78851ccab3e564f1dba2daf0ef6f3285d1fba5a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27-article-0017",
+   "short": "W. Va. Code 27-17",
+   "title": "West Virginia Code, CHAPTER 27. MENTALLY ILL PERSONS. ARTICLE 17. GROUP RESIDENTIAL FACILITIES.",
+   "url": "https://code.wvlegislature.gov/27-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/27-17/",
+     "sha256": "7ce4ed6e88d4bf03a11912425bdb14e1c3340c33fb24125b09d63cc33d085645"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0001",
+   "short": "W. Va. Code 28-1",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 1. COMMITMENT OF YOUTHFUL MALE OFFENDERS.",
+   "url": "https://code.wvlegislature.gov/28-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-1/",
+     "sha256": "c6e63c79f7aeb191758bb96003be9373b0b0f0098c738cb6fee521baa9cf3195"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0002",
+   "short": "W. Va. Code 28-2",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 2. INDUSTRIAL SCHOOL FOR COLORED BOYS.",
+   "url": "https://code.wvlegislature.gov/28-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-2/",
+     "sha256": "0b3daedd76766d08aee8ed1aa9857e4c812eea4ef1a60abcd35c53a64363aec9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0003",
+   "short": "W. Va. Code 28-3",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 3. INDUSTRIAL HOME FOR YOUTH.",
+   "url": "https://code.wvlegislature.gov/28-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-3/",
+     "sha256": "ae9fe26e061f186fb678a85eb7e35e12c040cded11af41990eaae4f6199cafb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0004",
+   "short": "W. Va. Code 28-4",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 4. INDUSTRIAL HOME FOR COLORED GIRLS.",
+   "url": "https://code.wvlegislature.gov/28-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-4/",
+     "sha256": "accd82024b3646efde0656660e63a29863c28fc7e5de631c79c50f2e84e42b9b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0005",
+   "short": "W. Va. Code 28-5",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 5. THE PENITENTIARY.",
+   "url": "https://code.wvlegislature.gov/28-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 43,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-5/",
+     "sha256": "82f8d0fad47e14c8eeefec666fdf5f486cacbcae4585c0eb58c3217926a4d179"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0005a",
+   "short": "W. Va. Code 28-5A",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 5A. HUTTONSVILLE CORRECTIONAL CENTER.",
+   "url": "https://code.wvlegislature.gov/28-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-5A/",
+     "sha256": "14b0183329fd07c3a08db0b73d1734d6508efa43e917aa6c1ff833d662c9c522"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0005b",
+   "short": "W. Va. Code 28-5B",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 5B. PRISON-MADE GOODS.",
+   "url": "https://code.wvlegislature.gov/28-5B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-5B/",
+     "sha256": "f893a7fa11ef33b481bdb295abfe862e3e833921ae3fb268d8888cbfd6d28bfe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0005c",
+   "short": "W. Va. Code 28-5C",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 5C. IMPRISONMENT OF FEMALE FELONS.",
+   "url": "https://code.wvlegislature.gov/28-5C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-5C/",
+     "sha256": "e7c7a62855b0803c3cbc0d6d2865c667d5613c9b23458abe87ec3327238282e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0006",
+   "short": "W. Va. Code 28-6",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 6. OUT-OF-STATE PAROLEE SUPERVISION.",
+   "url": "https://code.wvlegislature.gov/28-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-6/",
+     "sha256": "6ac798efe676544279ea16eb614e7e4419d081ae2290592ae0c78e39cb3efaa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28-article-0007",
+   "short": "W. Va. Code 28-7",
+   "title": "West Virginia Code, CHAPTER 28. STATE CORRECTIONAL AND PENAL INSTITUTIONS. ARTICLE 7. INTERSTATE COMPACT FOR THE SUPERVISION OF ADULT OFFENDERS.",
+   "url": "https://code.wvlegislature.gov/28-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/28-7/",
+     "sha256": "6f74f46be927468eb83ad4b83055b27e6566d2197f2267504397c5bd7fbbd07f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0001",
+   "short": "W. Va. Code 29A-1",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 1. DEFINITIONS AND APPLICATION OF CHAPTER.",
+   "url": "https://code.wvlegislature.gov/29A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-1/",
+     "sha256": "a3096343bbe2e7aaca61929e5998b77546d6374973c7197e8de826b812a0618c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0002",
+   "short": "W. Va. Code 29A-2",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 2. STATE REGISTER.",
+   "url": "https://code.wvlegislature.gov/29A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-2/",
+     "sha256": "6058c2846a6557e8eaf09e0db3c7e8c5a48535b4dea061aff492afb8481c020b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0003",
+   "short": "W. Va. Code 29A-3",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 3. RULE MAKING.",
+   "url": "https://code.wvlegislature.gov/29A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-3/",
+     "sha256": "ecc74614c0b324305aba19dbe7ef84904ca9b33945e51920bedd6bbdf40e94f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0003a",
+   "short": "W. Va. Code 29A-3A",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 3A. HIGHER EDUCATION RULE MAKING.",
+   "url": "https://code.wvlegislature.gov/29A-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-3A/",
+     "sha256": "d8e3f9e23da4f1ae13f48f0a856e8ed24b91f96a1be9760b3641110949780070"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0003b",
+   "short": "W. Va. Code 29A-3B",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 3B. STATE BOARD OF EDUCATION RULE MAKING.",
+   "url": "https://code.wvlegislature.gov/29A-3B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-3B/",
+     "sha256": "fe45b4a4d589e051bf3e14bdb465d0eb2dff8914da5fc88d08fda53322f67496"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0004",
+   "short": "W. Va. Code 29A-4",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 4. DECLARATORY RULINGS AND DECLARATORY JUDGMENTS.",
+   "url": "https://code.wvlegislature.gov/29A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-4/",
+     "sha256": "b9685626b69e7221fcdb960649d123ea6d06677662ca6e1a6aca998170c4898d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0005",
+   "short": "W. Va. Code 29A-5",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 5. CONTESTED CASES.",
+   "url": "https://code.wvlegislature.gov/29A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-5/",
+     "sha256": "e84f2dd8580b59bc30e268735b0548a20e2863b042466447149ae7f9d26cbc65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0006",
+   "short": "W. Va. Code 29A-6",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 6. APPEALS.",
+   "url": "https://code.wvlegislature.gov/29A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-6/",
+     "sha256": "6f0cb693e4e28d8e4b24559ac3916b88479739ca4786ee029eebf9b7180c6936"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29a-article-0007",
+   "short": "W. Va. Code 29A-7",
+   "title": "West Virginia Code, CHAPTER 29A. STATE ADMINISTRATIVE PROCEDURES ACT. ARTICLE 7. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/29A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/29A-7/",
+     "sha256": "c8f20bbce45260626fca145a5a705e996f08b5e878d7b7634153a044692bbe58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29b-article-0001",
+   "short": "W. Va. Code 29B-1",
+   "title": "West Virginia Code, CHAPTER 29B. FREEDOM OF INFORMATION. ARTICLE 1. PUBLIC RECORDS.",
+   "url": "https://code.wvlegislature.gov/29B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/29B-1/",
+     "sha256": "a5e70b04155b3cb96f82f42c1e57a85adb78fcbccf89880cede4d415fd4dbbbc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0001",
+   "short": "W. Va. Code 29C-1",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/29C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-1/",
+     "sha256": "d5b124b333173b84b260322cedb1e5f369b17af5826c2bea9d26991f4bb5d160"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0002",
+   "short": "W. Va. Code 29C-2",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 2. APPOINTMENT PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/29C-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-2/",
+     "sha256": "6ca1305a1babb154befb43e5839c3af14bb276d1a08f7c3689bb836a11447e57"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0003",
+   "short": "W. Va. Code 29C-3",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 3. POWERS.",
+   "url": "https://code.wvlegislature.gov/29C-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-3/",
+     "sha256": "74c9363807114d6a06052e29fbef308d46f98ecb3c445397f1be14ea690bcd5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0004",
+   "short": "W. Va. Code 29C-4",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 4. DUTIES.",
+   "url": "https://code.wvlegislature.gov/29C-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-4/",
+     "sha256": "614fb30bfe67627c65bacd6e977e5038b92eda768b2870de4c4e072061788126"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0005",
+   "short": "W. Va. Code 29C-5",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 5. FORMS AND PROCEDURES.",
+   "url": "https://code.wvlegislature.gov/29C-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-5/",
+     "sha256": "f23f6479ce4ee7068ecfbbd0b923a825f3e9c2377939b09f48efd81920c6a033"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0006",
+   "short": "W. Va. Code 29C-6",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 6. LIABILITY, FINES AND IMPRISONMENT.",
+   "url": "https://code.wvlegislature.gov/29C-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-6/",
+     "sha256": "dee3473f39af99d48b057686d04510a1fffec94e30e69f5fee914c41bedeabaa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0007",
+   "short": "W. Va. Code 29C-7",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 7. REVOCATION OF COMMISSION; ACTION FOR INJUNCTION; UNAUTHORIZED PRACTICE OF LAW.",
+   "url": "https://code.wvlegislature.gov/29C-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-7/",
+     "sha256": "561b373e511c65f5a02acf99a494ada9c22bd2f00980f55dbbbddd43701b9049"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0008",
+   "short": "W. Va. Code 29C-8",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 8. CERTIFICATE OF AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/29C-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-8/",
+     "sha256": "992f4fcf463ef5856e1d8c8eb73119002909fd1277bd67033a9f56fee496fe31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29c-article-0009",
+   "short": "W. Va. Code 29C-9",
+   "title": "West Virginia Code, CHAPTER 29C. UNIFORM NOTARY ACT. ARTICLE 9. CURATIVE PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/29C-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/29C-9/",
+     "sha256": "93d0e4b35312440a3b04bd4d270718d74ecfcec50621eb42e896ea0fc5ddd7af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0001",
+   "short": "W. Va. Code 31-1",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 1. BUSINESS AND NONPROFIT CORPORATIONS.",
+   "url": "https://code.wvlegislature.gov/31-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 160,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-1/",
+     "sha256": "5be07f9470d3669d065514e6decd3534aa5eb8cc52b11d35ea93e5a5d66cad6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0001a",
+   "short": "W. Va. Code 31-1A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 1A. LIMITED LIABILITY COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 69,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-1A/",
+     "sha256": "16aaf15790eda119d8ede5e6bbd601c370966af07c270a6a837e4bae429505bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0002",
+   "short": "W. Va. Code 31-2",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 2. RAILROAD COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-2/",
+     "sha256": "25838183b67bd7a2070d96663843fcf20f0e4ee68c2cd2d043dd004c86a75e1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0002a",
+   "short": "W. Va. Code 31-2A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 2A. RAILROAD CROSSING.",
+   "url": "https://code.wvlegislature.gov/31-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-2A/",
+     "sha256": "de2cc9208ca8d13e7c8b2d094a04565673b8f422bd2d84ade245bfa1df2607ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0002b",
+   "short": "W. Va. Code 31-2B",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 2B. ILLUMINATION EQUIPMENT FOR RAILROAD CABOOSES.",
+   "url": "https://code.wvlegislature.gov/31-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-2B/",
+     "sha256": "2d5b6dc95dbc7358657f3b18a441f18556ffe4825c3c3f6266b5454fcdbc8776"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0003",
+   "short": "W. Va. Code 31-3",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 3. BOOM COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-3/",
+     "sha256": "705091865d0fdcce92eb17ed64329a1ac2dda17b948506b79abc84df40b70b86"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004",
+   "short": "W. Va. Code 31-4",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4. BANKING INSTITUTIONS.",
+   "url": "https://code.wvlegislature.gov/31-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4/",
+     "sha256": "dea644a20d9be47e1e5736c3f1c8869294a09a86df193b763319afdf3886ceb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004a",
+   "short": "W. Va. Code 31-4A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4A. BANK COLLECTION CODE.",
+   "url": "https://code.wvlegislature.gov/31-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4A/",
+     "sha256": "5a96f4325466918d984021d1cdf07e18223e725fe6e0903fab158e034558e957"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004b",
+   "short": "W. Va. Code 31-4B",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4B. FEDERAL DEPOSIT INSURANCE CORPORATION.",
+   "url": "https://code.wvlegislature.gov/31-4B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4B/",
+     "sha256": "cf9b3e62761a194a61c3d34cf1b8e86c0886ce081a3f4f6d06fb93c2cf79d0e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004c",
+   "short": "W. Va. Code 31-4C",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4C. NOMINEE REGISTRATION OF FIDUCIARY SECURITIES.",
+   "url": "https://code.wvlegislature.gov/31-4C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4C/",
+     "sha256": "99b61c674c5eb1316ae3a46abc7d9df529a89469188f9b07694f514991012d94"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004d",
+   "short": "W. Va. Code 31-4D",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4D. UNIFORM ACT FOR SIMPLIFICATION OF FIDUCIARY SECURITY TRANSFERS.",
+   "url": "https://code.wvlegislature.gov/31-4D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4D/",
+     "sha256": "ccfabb8296d5efe4b286b0e5dc5c1cef71e99dd93dd9e8a60d39890e67d805ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0004e",
+   "short": "W. Va. Code 31-4E",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 4E. BANK SERVICE CORPORATIONS AND BANK SERVICES.",
+   "url": "https://code.wvlegislature.gov/31-4E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-4E/",
+     "sha256": "de8de85ad73c67a1143995466228dfc49647f7675ff398ea623845a0c17621a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0005",
+   "short": "W. Va. Code 31-5",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 5. INDEMNITY COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-5/",
+     "sha256": "42a9e2f8a66e7624b0ac5156bdad3901d96fa17c6a2a8e1ab241a6525d16c728"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0006",
+   "short": "W. Va. Code 31-6",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 6. BUILDING AND LOAN ASSOCIATIONS.",
+   "url": "https://code.wvlegislature.gov/31-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 44,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-6/",
+     "sha256": "9d0674262fc5b4883c0cb65b82ef543f0f26b624fa3ff3b4d45b7043ccf850d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0006a",
+   "short": "W. Va. Code 31-6A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 6A. FEDERAL SAVINGS AND LOAN INSURANCE CORPORATION.",
+   "url": "https://code.wvlegislature.gov/31-6A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-6A/",
+     "sha256": "d4fc9e058b05893f9666c41552b35f9e613eb674d8d56fcdc1ae23766ef7412c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0007",
+   "short": "W. Va. Code 31-7",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 7. INDUSTRIAL LOAN COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 29,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-7/",
+     "sha256": "307a46a24879ca5ae309b4a080a77f46ce2dd935810eea9613d62b4bc970da4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0008",
+   "short": "W. Va. Code 31-8",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 8. BUSINESS OPERATIONS AND SUPERVISION OF BANKING INSTITUTIONS, INDUSTRIAL LOAN COMPANIES AND BUILDING AND LOAN ASSOCIATIONS.",
+   "url": "https://code.wvlegislature.gov/31-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 46,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-8/",
+     "sha256": "e8e839befe9d2da9701c06cbc50191a25d401817600b3cd83ff14db5b26d44b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0009",
+   "short": "W. Va. Code 31-9",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 9. WATER POWER COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-9/",
+     "sha256": "4ac6e198c5b9966f66475e5af9146b972cf90eb58ec4171c21c983a1b902223c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0010",
+   "short": "W. Va. Code 31-10",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 10. CREDIT UNIONS.",
+   "url": "https://code.wvlegislature.gov/31-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 35,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-10/",
+     "sha256": "75813055bd63875d9ff1b63973454173b753a6274320a138a272f3abf112e609"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0011",
+   "short": "W. Va. Code 31-11",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 11. THE SAVINGS AND LOAN ASSOCIATION OF THE STATE OF WEST VIRGINIA.",
+   "url": "https://code.wvlegislature.gov/31-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-11/",
+     "sha256": "75127be6c75b35eb331a5bfa4ea12db76f789f501c62cdb896e89b0608124c90"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0012",
+   "short": "W. Va. Code 31-12",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 12. MEMBERSHIP IN FEDERAL SAVINGS AND LOAN ASSOCIATIONS.",
+   "url": "https://code.wvlegislature.gov/31-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-12/",
+     "sha256": "5333dbb1df59e0b87d739e9e823a6668f30952b260048be5f2f72a3a59193274"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0013",
+   "short": "W. Va. Code 31-13",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 13. HOSPITAL SERVICE CORPORATIONS AND MEDICAL SERVICE CORPORATIONS.",
+   "url": "https://code.wvlegislature.gov/31-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-13/",
+     "sha256": "3c688999e69f9969c26bd0e8458ef15f956891d59563722423f6b0b95444497c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0014",
+   "short": "W. Va. Code 31-14",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 14. WEST VIRGINIA BUSINESS DEVELOPMENT CORPORATIONS.",
+   "url": "https://code.wvlegislature.gov/31-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-14/",
+     "sha256": "c29b187a5162ca3089ab947aae2a1ed532a305e04900ee1ff9f6c414f90295b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0015",
+   "short": "W. Va. Code 31-15",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 15. WEST VIRGINIA ECONOMIC DEVELOPMENT AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/31-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 65,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-15/",
+     "sha256": "810af5baee92236c0f5e4e654bf1dddbf96c154a7222c55463c22942ca508286"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0015a",
+   "short": "W. Va. Code 31-15A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 15A. WEST VIRGINIA INFRASTRUCTURE AND JOBS DEVELOPMENT COUNCIL.",
+   "url": "https://code.wvlegislature.gov/31-15A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-15A/",
+     "sha256": "6c47240345dab9d2c7c56af30028f67382fae257888ba5af3cac16300612dd65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0015b",
+   "short": "W. Va. Code 31-15B",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 15B. INFRASTRUCTURE BONDS.",
+   "url": "https://code.wvlegislature.gov/31-15B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-15B/",
+     "sha256": "bf81a27458fead9ef665682ee626f85cfcfb6b60864706aebaeb23bd625d69cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0015c",
+   "short": "W. Va. Code 31-15C",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 15C. BROADBAND DEPLOYMENT.",
+   "url": "https://code.wvlegislature.gov/31-15C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-15C/",
+     "sha256": "d4adfd186e020c168dc4bd70a31701c1cbafadff168cce208cde1320ee17367e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0016",
+   "short": "W. Va. Code 31-16",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 16. WEST VIRGINIA STEEL FUTURES PROGRAM.",
+   "url": "https://code.wvlegislature.gov/31-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-16/",
+     "sha256": "979cf1210a2fd5b755afaf738b3fb8370a4e6196475a524aa95997705ef27522"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0017",
+   "short": "W. Va. Code 31-17",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 17. WEST VIRGINIA RESIDENTIAL MORTGAGE LENDER, BROKER AND SERVICER ACT.",
+   "url": "https://code.wvlegislature.gov/31-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-17/",
+     "sha256": "9e99f5d287ea36bcc553e908dfbfadf1046b5ba54d61dfc78614c38ac385c89e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0017a",
+   "short": "W. Va. Code 31-17A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 17A. WEST VIRGINIA SAFE MORTGAGE LICENSING ACT.",
+   "url": "https://code.wvlegislature.gov/31-17A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-17A/",
+     "sha256": "d5c26fecb1b65db49ec0164cbabec9e166f135887ff4f410126562293fe37ee3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018",
+   "short": "W. Va. Code 31-18",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18. WEST VIRGINIA HOUSING DEVELOPMENT FUND.",
+   "url": "https://code.wvlegislature.gov/31-18/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 35,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18/",
+     "sha256": "6587274fe30f6603653d7fe752577b35ea41210b3c1c63a2c6f38f9079243995"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018a",
+   "short": "W. Va. Code 31-18A",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18A. WEST VIRGINIA ENERGY CONSERVATION REVOLVING LOAN FUND.",
+   "url": "https://code.wvlegislature.gov/31-18A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18A/",
+     "sha256": "d6ab2b7fce80e40c27e8aa555c64fd988f6bf19f673f5cb251662b8ba16d3ad0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018b",
+   "short": "W. Va. Code 31-18B",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18B. MORTGAGE AND INDUSTRIAL DEVELOPMENT INVESTMENT POOL.",
+   "url": "https://code.wvlegislature.gov/31-18B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18B/",
+     "sha256": "1fae56bf22f0f6368a2ba1ec0fcefce463ef2bac48313475d58f1db2979be68e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018c",
+   "short": "W. Va. Code 31-18C",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18C. VETERANS' MORTGAGE FUND.",
+   "url": "https://code.wvlegislature.gov/31-18C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18C/",
+     "sha256": "376183506b91ff6a1820a542a7f23b9bc4981f5bc7f60a0e36adf28da32f81bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018d",
+   "short": "W. Va. Code 31-18D",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18D. WEST VIRGINIA AFFORDABLE HOUSING TRUST FUND.",
+   "url": "https://code.wvlegislature.gov/31-18D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18D/",
+     "sha256": "5c869b85d897d25cc070cdbfcd25d18a4a618993435863ef9fae891d5ebcd843"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018e",
+   "short": "W. Va. Code 31-18E",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18E. WEST VIRGINIA LAND REUSE AGENCY AUTHORIZATION ACT.",
+   "url": "https://code.wvlegislature.gov/31-18E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18E/",
+     "sha256": "bb51dcef88a30e7aa10fa335212f411444ffc5c97017ce4e4141ed61b80b7e89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0018f",
+   "short": "W. Va. Code 31-18F",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18F. THE WEST VIRGINIA VETERANS' HOME LOAN MORTGAGE PROGRAM OF 2024.",
+   "url": "https://code.wvlegislature.gov/31-18F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-18F/",
+     "sha256": "e1425977bef43f20f846d9ade663a9e417d8a8c3b5b6a70fb801a7e11c94d7ac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0019",
+   "short": "W. Va. Code 31-19",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 19. WEST VIRGINIA COMMUNITY INFRASTRUCTURE AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/31-19/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-19/",
+     "sha256": "a9d2562d292d6a3c98702148055b68c2af9f32435044311932660844306790f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0020",
+   "short": "W. Va. Code 31-20",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 20. WEST VIRGINIA REGIONAL JAIL AND CORRECTIONAL FACILITY AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/31-20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 47,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-20/",
+     "sha256": "2bf08ce69cac1fed71afef4a349f0dfeff05e9e0a6c23ed5b8922e9835f44262"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31-article-0021",
+   "short": "W. Va. Code 31-21",
+   "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 21. WEST VIRGINIA LAND STEWARDSHIP CORPORATION.",
+   "url": "https://code.wvlegislature.gov/31-21/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/31-21/",
+     "sha256": "9d562db6c4d337c66e6a6dff75d783ec47a700ac6ef07f8320b133a168207f19"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0001",
+   "short": "W. Va. Code 31B-1",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-1/",
+     "sha256": "7d9b74ebb287a5f761c52f806b0593be6955278a862441fb82e546bf15e97ef1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0002",
+   "short": "W. Va. Code 31B-2",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 2. ORGANIZATION.",
+   "url": "https://code.wvlegislature.gov/31B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-2/",
+     "sha256": "29c3da25cece9f9a602ce8fc41087a261c6100f9a4bf338c03331ce11215e04f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0003",
+   "short": "W. Va. Code 31B-3",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 3. RELATIONS OF MEMBERS AND MANAGERS TO PERSONS DEALING WITH LIMITED LIABILITY COMPANY.",
+   "url": "https://code.wvlegislature.gov/31B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-3/",
+     "sha256": "e59a76b58e6c0756d2581d4094661e238d98e41ffd938f75267c2dbb2b3c5ee4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0004",
+   "short": "W. Va. Code 31B-4",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 4. RELATIONS OF MEMBERS TO EACH OTHER AND TO LIMITED LIABILITY COMPANY.",
+   "url": "https://code.wvlegislature.gov/31B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-4/",
+     "sha256": "f703dd9e825deebef638b4573fdd2faf008f9c0fa02e83e2256312918c9747a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0005",
+   "short": "W. Va. Code 31B-5",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 5. TRANSFEREES AND CREDITORS OF MEMBER.",
+   "url": "https://code.wvlegislature.gov/31B-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-5/",
+     "sha256": "cb3b9f035abb6a75f85207c3fabea88e68ca2d359a8fb045c13e77263abd9eba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0006",
+   "short": "W. Va. Code 31B-6",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 6. MEMBER'S DISSOCIATION.",
+   "url": "https://code.wvlegislature.gov/31B-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-6/",
+     "sha256": "28be4578d3628230a4680777b658e6faae994e19f46887176b17a6473d463db4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0007",
+   "short": "W. Va. Code 31B-7",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 7. MEMBER'S DISSOCIATION WHEN BUSINESS NOT WOUND UP.",
+   "url": "https://code.wvlegislature.gov/31B-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-7/",
+     "sha256": "934892f5a5389bd66159ddf899ab0b1c4b42676348d7c99e71e3565001612045"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0008",
+   "short": "W. Va. Code 31B-8",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 8. WINDING UP COMPANY'S BUSINESS.",
+   "url": "https://code.wvlegislature.gov/31B-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-8/",
+     "sha256": "8b0b883dc10b3045302071783071fa557d352f9f5a0ea4db70d13b731f72824a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0009",
+   "short": "W. Va. Code 31B-9",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 9. CONVERSIONS AND MERGERS.",
+   "url": "https://code.wvlegislature.gov/31B-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-9/",
+     "sha256": "f38a0b38934d05236d3f696a18e743f5c2d4bceb06e976c26e02dc189ad39c8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0010",
+   "short": "W. Va. Code 31B-10",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 10. FOREIGN LIMITED LIABILITY COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31B-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-10/",
+     "sha256": "eaede3a202250c1e5a999cf143c7570d2ad0cf235e2392b733ea790927398e7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0011",
+   "short": "W. Va. Code 31B-11",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 11. DERIVATIVE ACTIONS.",
+   "url": "https://code.wvlegislature.gov/31B-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-11/",
+     "sha256": "ef8abdfe7034f47ae24a3016561467ebb501d5737ef3ad26313022be28059e09"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0012",
+   "short": "W. Va. Code 31B-12",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 12. MISCELLANEOUS PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31B-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-12/",
+     "sha256": "15838d86f414ec4059de652d5453bb0281f90df53e3e779f1cce4f62e9f142a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0013",
+   "short": "W. Va. Code 31B-13",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 13. PROFESSIONAL LIMITED LIABILITY COMPANIES.",
+   "url": "https://code.wvlegislature.gov/31B-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-13/",
+     "sha256": "3977a4310ad0aa3c6b04d8d9c79613d53bb4228826c70e216751ea61f6f72ab6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b-article-0014",
+   "short": "W. Va. Code 31B-14",
+   "title": "West Virginia Code, CHAPTER 31B. UNIFORM LIMITED LIABILITY COMPANY ACT. ARTICLE 14. UNIFORM PROTECTED SERIES ACT.",
+   "url": "https://code.wvlegislature.gov/31B-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 38,
+     "source_url": "https://code.wvlegislature.gov/pdf/31B-14/",
+     "sha256": "02a6b70d58b778523c854c2d3393bb9b71f24854d53b26daabadde26e9d7e214"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0001",
+   "short": "W. Va. Code 31C-1",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 1. SUPERVISION AND REGULATION.",
+   "url": "https://code.wvlegislature.gov/31C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-1/",
+     "sha256": "259e36397a53059c239fcc06fedcd0c05941fed975c9fb38ef8d9c55a49627b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0002",
+   "short": "W. Va. Code 31C-2",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 2. FORMATION OF CREDIT UNION.",
+   "url": "https://code.wvlegislature.gov/31C-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-2/",
+     "sha256": "4b991baccdd2a20cbcabef57ef584badc27402e97bcab23672f58d8f3204f969"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0003",
+   "short": "W. Va. Code 31C-3",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 3. POWERS OF CREDIT UNION.",
+   "url": "https://code.wvlegislature.gov/31C-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-3/",
+     "sha256": "f515c9a93ef5f9426a1eda3081fea5410dd5466bcbc3b809d4a47110f932688c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0004",
+   "short": "W. Va. Code 31C-4",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 4. MEMBERSHIP.",
+   "url": "https://code.wvlegislature.gov/31C-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-4/",
+     "sha256": "16bfce06d27ce546272703c9b7ecf2ee83cff0ee42a84c47e65d8a82f6019b3b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0005",
+   "short": "W. Va. Code 31C-5",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 5. DIRECTION OF CREDIT UNION AFFAIRS.",
+   "url": "https://code.wvlegislature.gov/31C-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-5/",
+     "sha256": "a823c722cf3001c34871949de2ff0bb6d65f8990a536f71b2e6b53f5b37801f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0006",
+   "short": "W. Va. Code 31C-6",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 6. ACCOUNTS.",
+   "url": "https://code.wvlegislature.gov/31C-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-6/",
+     "sha256": "eb849a82c315bddc923bd6ecef5b300c42ad27a894541fd3450237903563460c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0007",
+   "short": "W. Va. Code 31C-7",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 7. LOANS.",
+   "url": "https://code.wvlegislature.gov/31C-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-7/",
+     "sha256": "08a1fdead66d9966c2bb306fbdb299cd9c70625fb829aa96657de51e48cbe3a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0008",
+   "short": "W. Va. Code 31C-8",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 8. OTHER MEMBER SERVICES.",
+   "url": "https://code.wvlegislature.gov/31C-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-8/",
+     "sha256": "5bd194b9db37ccf5c60fd3fef8be03501434ac1aaff0ce9c6610377406b4b4e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0009",
+   "short": "W. Va. Code 31C-9",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 9. INVESTMENTS AND RESERVE ALLOCATIONS.",
+   "url": "https://code.wvlegislature.gov/31C-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-9/",
+     "sha256": "030f239c453abd8240197821804f8e91dfb1e48047c071f0c82cb9b099c398c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0010",
+   "short": "W. Va. Code 31C-10",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 10. CHANGE IN CORPORATE STATUS.",
+   "url": "https://code.wvlegislature.gov/31C-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-10/",
+     "sha256": "1afe5645b2998837103c9653d23491a08d1706d09a214804eb6e196320b47ea9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0011",
+   "short": "W. Va. Code 31C-11",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 11. CORPORATE CREDIT UNION.",
+   "url": "https://code.wvlegislature.gov/31C-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-11/",
+     "sha256": "1b4314f3d2d2285a1dd66dc2c9e67f71ea3ac190fa08acfbb9b5863b70fe4c53"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c-article-0012",
+   "short": "W. Va. Code 31C-12",
+   "title": "West Virginia Code, CHAPTER 31C. CREDIT UNIONS. ARTICLE 12. PENALTIES.",
+   "url": "https://code.wvlegislature.gov/31C-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31C-12/",
+     "sha256": "60379391b5fd2e950f38a570bf97f6c7ffdab7eb2fc1aac8191254feee3483a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0001",
+   "short": "W. Va. Code 31E-1",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31E-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-1/",
+     "sha256": "1a017f131a5e8872c39c9cd75dcbe15abf08a038103b44fa7b4d5631634efbaf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0002",
+   "short": "W. Va. Code 31E-2",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 2. INCORPORATION.",
+   "url": "https://code.wvlegislature.gov/31E-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-2/",
+     "sha256": "910dd0d8e3c9b5b4846a40a90094fa39608cc79cc5fcf168986f6cf6e8088126"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0003",
+   "short": "W. Va. Code 31E-3",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 3. PURPOSES AND POWERS.",
+   "url": "https://code.wvlegislature.gov/31E-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-3/",
+     "sha256": "0f55e94ae2c76e17332bc6c1a38db9bde8312dda40537cbb6c9482cd96a5401f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0004",
+   "short": "W. Va. Code 31E-4",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 4. NAME.",
+   "url": "https://code.wvlegislature.gov/31E-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-4/",
+     "sha256": "c6848e84b87e73d02865fd975284d1fd978b0a78d163a1206fd557d685d45f40"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0005",
+   "short": "W. Va. Code 31E-5",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 5. OFFICE AND AGENT.",
+   "url": "https://code.wvlegislature.gov/31E-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-5/",
+     "sha256": "b75d5357bcc596e29908c4122499e83d3acf807784318075342d3342ad2d6952"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0006",
+   "short": "W. Va. Code 31E-6",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 6. MEMBERS - MEMBERSHIP RIGHTS AND LIABILITIES.",
+   "url": "https://code.wvlegislature.gov/31E-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-6/",
+     "sha256": "06f48adf6f31cab112c724229994a71d1617196a7eb326b803ba5209197efce4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0007",
+   "short": "W. Va. Code 31E-7",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 7. MEMBERS - MEETINGS AND VOTING.",
+   "url": "https://code.wvlegislature.gov/31E-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-7/",
+     "sha256": "7d98e5b097c4dce8c5e97782373b199d4a14c4232e9b97c3085cd5a7d22924d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0008",
+   "short": "W. Va. Code 31E-8",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 8. DIRECTORS AND OFFICERS.",
+   "url": "https://code.wvlegislature.gov/31E-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 39,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-8/",
+     "sha256": "a141cd45a88cbaa48e41e39f3d20224757512248da4df0f4add73284e5de94f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0010",
+   "short": "W. Va. Code 31E-10",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 10. AMENDMENT OF ARTICLES OF INCORPORATION AND BYLAWS.",
+   "url": "https://code.wvlegislature.gov/31E-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-10/",
+     "sha256": "61b42253aecff4476209edd6b420d5663a35668c7f6b93e1cb4f0d7acc744a9a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0011",
+   "short": "W. Va. Code 31E-11",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 11. MERGERS.",
+   "url": "https://code.wvlegislature.gov/31E-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-11/",
+     "sha256": "0a414f78861a6ca45a889b47703b03f3ef723bb96dd9a0e7f6fa50718b3d87dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0012",
+   "short": "W. Va. Code 31E-12",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 12. DISPOSITION OF ASSETS.",
+   "url": "https://code.wvlegislature.gov/31E-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-12/",
+     "sha256": "944c5eae1a44e0740578326787578c77027e48e8c0d976cc9ef2b73b5e8774e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0013",
+   "short": "W. Va. Code 31E-13",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 13. DISSOLUTION.",
+   "url": "https://code.wvlegislature.gov/31E-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-13/",
+     "sha256": "2cea5e00cf92dcb1d991cb6ed23f1b00449ee2c6f46e7bde4d0e5027ce982591"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0014",
+   "short": "W. Va. Code 31E-14",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 14. FOREIGN CORPORATIONS.",
+   "url": "https://code.wvlegislature.gov/31E-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-14/",
+     "sha256": "f25da339c0f06180640abf48617ce2268de84ce0ddd2388ec3fcd77774bcd4d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0015",
+   "short": "W. Va. Code 31E-15",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 15. RECORDS AND REPORTS.",
+   "url": "https://code.wvlegislature.gov/31E-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-15/",
+     "sha256": "1a82c4852055935d13f5c2e3c51dfece7a56ecf57adb704c5fe90f8a29403430"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31e-article-0016",
+   "short": "W. Va. Code 31E-16",
+   "title": "West Virginia Code, CHAPTER 31E. WEST VIRGINIA NONPROFIT CORPORATION ACT. ARTICLE 16. TRANSITION PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31E-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31E-16/",
+     "sha256": "fbc1d6ddc3b9a3bb94c14acef6613dcca79aa0c41cddcab967773b1d90818e48"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31f-article-0001",
+   "short": "W. Va. Code 31F-1",
+   "title": "West Virginia Code, CHAPTER 31F. WEST VIRGINIA BENEFIT CORPORATION ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/31F-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31F-1/",
+     "sha256": "7e2eb84baf2d7d5a21327a383beed46a2c822838c6246c4c4ebbbbb0bc045096"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31f-article-0002",
+   "short": "W. Va. Code 31F-2",
+   "title": "West Virginia Code, CHAPTER 31F. WEST VIRGINIA BENEFIT CORPORATION ACT. ARTICLE 2. INCORPORATION.",
+   "url": "https://code.wvlegislature.gov/31F-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31F-2/",
+     "sha256": "8fd0d4daa9e71599752e89d0a35a78fe2fbcb6597fc9f17fe3d1644d1c5c38f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31f-article-0003",
+   "short": "W. Va. Code 31F-3",
+   "title": "West Virginia Code, CHAPTER 31F. WEST VIRGINIA BENEFIT CORPORATION ACT. ARTICLE 3. PURPOSES.",
+   "url": "https://code.wvlegislature.gov/31F-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/31F-3/",
+     "sha256": "5ad9792fb26053dad12c40ce448eda50b293fa4c7ab9b6b43e041a0e6d6c727e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31f-article-0004",
+   "short": "W. Va. Code 31F-4",
+   "title": "West Virginia Code, CHAPTER 31F. WEST VIRGINIA BENEFIT CORPORATION ACT. ARTICLE 4. DIRECTORS AND OFFICERS.",
+   "url": "https://code.wvlegislature.gov/31F-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/31F-4/",
+     "sha256": "58882928cf33860db334241efc2ba3f8bc67a814e8c49fb2c2bb6d99410a976a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31f-article-0005",
+   "short": "W. Va. Code 31F-5",
+   "title": "West Virginia Code, CHAPTER 31F. WEST VIRGINIA BENEFIT CORPORATION ACT. ARTICLE 5. REPORT.",
+   "url": "https://code.wvlegislature.gov/31F-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/31F-5/",
+     "sha256": "1c88fe1fb2980bbef9d54b9dca87c7584fe2c40e33837fcf467ba1cdfa70b692"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0001",
+   "short": "W. Va. Code 31G-1",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 1. BROADBAND ENHANCEMENT COUNCIL.",
+   "url": "https://code.wvlegislature.gov/31G-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-1/",
+     "sha256": "602f2f5d3ab97f10d9aaeead2f39bf8604086161541a7e50373abd30b9f3c1a0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0001a",
+   "short": "W. Va. Code 31G-1A",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 1A. OFFICE OF BROADBAND.",
+   "url": "https://code.wvlegislature.gov/31G-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-1A/",
+     "sha256": "5e3278d63b97ed6829ab117e91828b2fc1a47d74236d456de40d8954e8ac2a78"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0002",
+   "short": "W. Va. Code 31G-2",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 2. COOPERATIVE ASSOCIATIONS.",
+   "url": "https://code.wvlegislature.gov/31G-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-2/",
+     "sha256": "62f5e5b376cda3819a47d382c102615d4d2a8d110b86cfdb3600aa61fb52ba25"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0003",
+   "short": "W. Va. Code 31G-3",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 3. CONDUIT INSTALLATION; MICROTRENCHING.",
+   "url": "https://code.wvlegislature.gov/31G-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-3/",
+     "sha256": "f44d145163799036041aefe2baaaae12257759694ffb4e015f75b5096331f2bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0004",
+   "short": "W. Va. Code 31G-4",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 4. MAKE-READY POLE ACCESS.",
+   "url": "https://code.wvlegislature.gov/31G-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-4/",
+     "sha256": "854b34801c69236b28c85ae449c2fa2efb4292160ab950da0b48e828a8969023"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0005",
+   "short": "W. Va. Code 31G-5",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 5. VERTICAL REAL ESTATE MANAGEMENT AND AVAILABILITY ACT.",
+   "url": "https://code.wvlegislature.gov/31G-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-5/",
+     "sha256": "d0d715b789487db93cea5ebe7b6c9b6f2ed7ca415d8e0d9978e9d52c83ffe614"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31g-article-0006",
+   "short": "W. Va. Code 31G-6",
+   "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 6. PRE-EMPTION OF CONFLICTING LOCAL ORDINANCES AND PRIVATE RESTRICTIONS",
+   "url": "https://code.wvlegislature.gov/31G-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/31G-6/",
+     "sha256": "04a849767992effee3a3a03e3468a1d3dcc267b5980e62d9f372d01d5edb83a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31h-article-0001",
+   "short": "W. Va. Code 31H-1",
+   "title": "West Virginia Code, CHAPTER 31H. SMALL WIRELESS FACILITIES DEPLOYMENT ACT. ARTICLE 1. WEST VIRGINIA SMALL WIRELESS FACILITIES DEPLOYMENT ACT.",
+   "url": "https://code.wvlegislature.gov/31H-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/31H-1/",
+     "sha256": "9ca5c42aef1ccaf1a83cd7a936eb10f12771ce247af083d8cf6f941c67ee57b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31h-article-0002",
+   "short": "W. Va. Code 31H-2",
+   "title": "West Virginia Code, CHAPTER 31H. SMALL WIRELESS FACILITIES DEPLOYMENT ACT. ARTICLE 2. ACCESS TO PUBLIC RIGHTS-OF-WAY.",
+   "url": "https://code.wvlegislature.gov/31H-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/31H-2/",
+     "sha256": "20b9a06e1ba62fa4363490be62d6b8fea020afec6fca32d39325b746b86531f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31i-article-0001",
+   "short": "W. Va. Code 31I-1",
+   "title": "West Virginia Code, CHAPTER 31I. TRUST COMPANIES. ARTICLE 1. PRIVATE TRUST COMPANIES AND PRIVATE TRUST BUSINESS.",
+   "url": "https://code.wvlegislature.gov/31I-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/31I-1/",
+     "sha256": "e77f90ac82bf29defe2144b3386295f9c3dcd49fdcdd2d7c302c4b4ee68fd53a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31j-article-0001",
+   "short": "W. Va. Code 31J-1",
+   "title": "West Virginia Code, CHAPTER 31J. WIRELESS TOWER FACILITIES. ARTICLE 1. WIRELESS TOWER FACILITIES SITING AND COLOCATION.",
+   "url": "https://code.wvlegislature.gov/31J-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/31J-1/",
+     "sha256": "ff2948e7b9ccf0d493a94156f98652619946a3f42adf21f27421de31ca98cdf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0001",
+   "short": "W. Va. Code 32-1",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 1. FRAUDULENT AND OTHER PROHIBITED PRACTICES.",
+   "url": "https://code.wvlegislature.gov/32-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-1/",
+     "sha256": "7a966d222268fee6ab3fae3a02bca8685b09951d3003a3caca989c8f2e8a1176"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0002",
+   "short": "W. Va. Code 32-2",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 2. REGISTRATION OF BROKER-DEALERS AND AGENTS; REGISTRATION AND NOTICE FILING FOR INVESTMENT ADVISERS.",
+   "url": "https://code.wvlegislature.gov/32-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-2/",
+     "sha256": "a28376fe80a96cb34f38cd854d25af60b698484a35a7553449b4ae548fa83dce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0003",
+   "short": "W. Va. Code 32-3",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 3. REGISTRATION OF SECURITIES.",
+   "url": "https://code.wvlegislature.gov/32-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-3/",
+     "sha256": "cefdca1d4386a04a8b98faede8ca9bb7acda41cd01d02ba121e8043361d198a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0004",
+   "short": "W. Va. Code 32-4",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 4. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/32-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-4/",
+     "sha256": "fc0e8073fa3a6725457a86d6a7be482c900922cbad1863d8bbc4cce176c71519"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0005",
+   "short": "W. Va. Code 32-5",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 5. WEST VIRGINIA SMALL BUSINESS CAPITAL ACT",
+   "url": "https://code.wvlegislature.gov/32-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-5/",
+     "sha256": "fc675aa08ae6f1f544180f6ce1475250397739cced824f2eff7196cbca45af8f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32-article-0006",
+   "short": "W. Va. Code 32-6",
+   "title": "West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 6. THE PROTECTION OF ELIGIBLE ADULTS FROM FINANCIAL EXPLOITATION.",
+   "url": "https://code.wvlegislature.gov/32-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/32-6/",
+     "sha256": "1e367af47624c003ad31c336a21909fa778a54cdcb49857ebb9d6a3c30913539"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32a-article-0001",
+   "short": "W. Va. Code 32A-1",
+   "title": "West Virginia Code, CHAPTER 32A. LAND SALES; FALSE ADVERTISING; ISSUANCE AND SALE OF CHECKS, DRAFTS, MONEY ORDERS, ETC. ARTICLE 1. LAND SALES; FALSE ADVERTISING.",
+   "url": "https://code.wvlegislature.gov/32A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/32A-1/",
+     "sha256": "66312cfcd7752ce3d10992b3d0e94b0caefd20f82bf738ff71d955ad2b5a49b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32a-article-0002",
+   "short": "W. Va. Code 32A-2",
+   "title": "West Virginia Code, CHAPTER 32A. LAND SALES; FALSE ADVERTISING; ISSUANCE AND SALE OF CHECKS, DRAFTS, MONEY ORDERS, ETC. ARTICLE 2. CHECKS AND MONEY ORDER SALES, MONEY TRANSMISSION SERVICES, TRANSPORTATION AND CURRENCY EXCHANGE.",
+   "url": "https://code.wvlegislature.gov/32A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/pdf/32A-2/",
+     "sha256": "c323b7a17cedf48fd8e04336c807cb2ec6717a5f9c5b90f96adcdd3cce535b34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32a-article-0003",
+   "short": "W. Va. Code 32A-3",
+   "title": "West Virginia Code, CHAPTER 32A. LAND SALES; FALSE ADVERTISING; ISSUANCE AND SALE OF CHECKS, DRAFTS, MONEY ORDERS, ETC. ARTICLE 3. CHECK CASHING.",
+   "url": "https://code.wvlegislature.gov/32A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/32A-3/",
+     "sha256": "e9d1d17aa02ae5ac736bfdc76084b36ae7290c9be6ac130c8ef9cb6475e2d020"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32b-article-0001",
+   "short": "W. Va. Code 32B-1",
+   "title": "West Virginia Code, CHAPTER 32B. THE WEST VIRGINIA COMMODITIES ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/32B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/32B-1/",
+     "sha256": "f45b2d79e36a112830c8fde05d2de3eddfcaa0c94caccd1d5e19bbfe8f3f2f72"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32b-article-0002",
+   "short": "W. Va. Code 32B-2",
+   "title": "West Virginia Code, CHAPTER 32B. THE WEST VIRGINIA COMMODITIES ACT. ARTICLE 2. ADMINISTRATION AND ENFORCEMENT.",
+   "url": "https://code.wvlegislature.gov/32B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/32B-2/",
+     "sha256": "1d844335af25638e6c05de372ecf36258ccdd9b2076017a2f646134857136f15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32b-article-0003",
+   "short": "W. Va. Code 32B-3",
+   "title": "West Virginia Code, CHAPTER 32B. THE WEST VIRGINIA COMMODITIES ACT. ARTICLE 3. NOTICE FILING.",
+   "url": "https://code.wvlegislature.gov/32B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/32B-3/",
+     "sha256": "2c043fa34959d1e8580cd19da7e4059e0a357e3e100db5220c844834c391af7c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32b-article-0004",
+   "short": "W. Va. Code 32B-4",
+   "title": "West Virginia Code, CHAPTER 32B. THE WEST VIRGINIA COMMODITIES ACT. ARTICLE 4. SEVERABILITY AND SAVING PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/32B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/32B-4/",
+     "sha256": "c002bf735a4d2a1830cb6b80f8255159ba61e9079e65d187a221507665e80fe2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-34-article-0001",
+   "short": "W. Va. Code 34-1",
+   "title": "West Virginia Code, CHAPTER 34. ESTRAYS, DRIFT AND DERELICT PROPERTY. ARTICLE 1. ESTRAYS AND DRIFT PROPERTY.",
+   "url": "https://code.wvlegislature.gov/34-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/34-1/",
+     "sha256": "f5d385c6c381c9de6322e34da07aa54e9c04f0bb84ae7a1415418a466d0554bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-34-article-0002",
+   "short": "W. Va. Code 34-2",
+   "title": "West Virginia Code, CHAPTER 34. ESTRAYS, DRIFT AND DERELICT PROPERTY. ARTICLE 2. DERELICT PROPERTY.",
+   "url": "https://code.wvlegislature.gov/34-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/34-2/",
+     "sha256": "24c3367cd2a40bcccc5753e8687e3d3de3b22799762ca681a5335962a582dccc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0001",
+   "short": "W. Va. Code 35-1",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 1. RELIGIOUS ORGANIZATIONS.",
+   "url": "https://code.wvlegislature.gov/35-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-1/",
+     "sha256": "5259cc924ac68b66301f0aeba070742c1693deee15bb23e296f3d0ee86731657"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0001a",
+   "short": "W. Va. Code 35-1A",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 1A. EQUAL PROTECTION FOR RELIGION ACT.",
+   "url": "https://code.wvlegislature.gov/35-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-1A/",
+     "sha256": "6c3d56a3e1277488eaec718d41f644fa3434c2e84b7445fb6a7b1b5152645340"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0001b",
+   "short": "W. Va. Code 35-1B",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 1B. HEALTH CARE SHARING MINISTRIES FREEDOM TO SHARE ACT.",
+   "url": "https://code.wvlegislature.gov/35-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-1B/",
+     "sha256": "38860acd9600a8744a66ad6d79c1aee0bd277346d30900c5905965450c10bb58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0002",
+   "short": "W. Va. Code 35-2",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 2. EDUCATIONAL, FRATERNAL AND CHARITABLE ORGANIZATIONS.",
+   "url": "https://code.wvlegislature.gov/35-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-2/",
+     "sha256": "8c406b0d53cc2d69de29f6b47acaa0f80166756a1c3b7caa270391c8fba06878"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0003",
+   "short": "W. Va. Code 35-3",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 3. HOMES AND ASYLUMS OF FRATERNAL ORDERS.",
+   "url": "https://code.wvlegislature.gov/35-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-3/",
+     "sha256": "5c8299bb7f8a627e83b727f3c6f115bd902fa04c1712d60fa7c0644eef12397a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0004",
+   "short": "W. Va. Code 35-4",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 4. PROVISIONS REGARDING PARTICULAR FRATERNAL ORGANIZATIONS.",
+   "url": "https://code.wvlegislature.gov/35-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-4/",
+     "sha256": "0c5090307a9cacc8e950b9ff55695e52f532e11308c1bc7badead06ba488f0f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0005",
+   "short": "W. Va. Code 35-5",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 5. CEMETERIES.",
+   "url": "https://code.wvlegislature.gov/35-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-5/",
+     "sha256": "52a74c976439999985fa49f2f6380a471ce1de0d93b199d20cdb5b270e5801e0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0005a",
+   "short": "W. Va. Code 35-5A",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 5A. PERPETUAL CARE OF AND TRUST FUNDS FOR CEMETERIES.",
+   "url": "https://code.wvlegislature.gov/35-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-5A/",
+     "sha256": "9a03e2eb0fc5f01ca8f196586d2e170ab29bf266d954898e3736aa401a74442f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35-article-0005b",
+   "short": "W. Va. Code 35-5B",
+   "title": "West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 5B. PRENEED CEMETERY COMPANY PROPERTY, GOODS AND SERVICES; RELATED CONTRACTS.",
+   "url": "https://code.wvlegislature.gov/35-5B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/35-5B/",
+     "sha256": "8019aa24bccd9fd3138917184ad34943f8c6815b34c820f639fac1e904417164"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35a-article-0001",
+   "short": "W. Va. Code 35A-1",
+   "title": "West Virginia Code, CHAPTER 35A. NAMES, EMBLEMS, ETC., OF ASSOCIATIONS, LODGES, ETC. ARTICLE 1. REGISTRATION.",
+   "url": "https://code.wvlegislature.gov/35A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/35A-1/",
+     "sha256": "10a817361a5ba917471f2bfe7a14366509b21862bce4b6389b090ff67b633954"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0001",
+   "short": "W. Va. Code 36A-1",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 1. PRELIMINARY PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/36A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-1/",
+     "sha256": "a8eb5b794c43fb763ba19a5f786800207fb504174b034540c4bc34c076a26cb9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0002",
+   "short": "W. Va. Code 36A-2",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 2. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/36A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-2/",
+     "sha256": "7c9dddee492acf29796d5f1857479fbf23670a2e6d978d7d513b62f657e6adc5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0003",
+   "short": "W. Va. Code 36A-3",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 3. ADMINISTRATIVE PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/36A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-3/",
+     "sha256": "52e488458dd71364d8c8a818b65d19d868882f2938680de7524d32df93b1fc3a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0004",
+   "short": "W. Va. Code 36A-4",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 4. DECLARATIONS, CONVEYANCES, MORTGAGES AND LEASES.",
+   "url": "https://code.wvlegislature.gov/36A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-4/",
+     "sha256": "a25bcd3f43e95500faf598f3d3d3f19272ee7edf949d4a72d68a00bcb4d35146"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0005",
+   "short": "W. Va. Code 36A-5",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 5. RECORDING.",
+   "url": "https://code.wvlegislature.gov/36A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-5/",
+     "sha256": "29b50ebec0a9c02a2636e1cd8fdc1e9c03abf14d03283f90c952975d984c47fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0006",
+   "short": "W. Va. Code 36A-6",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 6. REMOVAL OF PROPERTY FROM PROVISIONS OF CHAPTER; RESUBMISSION.",
+   "url": "https://code.wvlegislature.gov/36A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-6/",
+     "sha256": "b0e86e5a658504a2818b1de1e1f7f6d59bad659d0b941b546fdbc50896f18425"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0007",
+   "short": "W. Va. Code 36A-7",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 7. ASSESSMENTS, TAXATION AND LIENS.",
+   "url": "https://code.wvlegislature.gov/36A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-7/",
+     "sha256": "34611037f380c0c4994e9cfb021a6221b107ec4e27ec027e344bc8c2a60ff2af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a-article-0008",
+   "short": "W. Va. Code 36A-8",
+   "title": "West Virginia Code, CHAPTER 36A. CONDOMINIUMS AND UNIT PROPERTY. ARTICLE 8. MISCELLANEOUS.",
+   "url": "https://code.wvlegislature.gov/36A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/36A-8/",
+     "sha256": "27f4456e3812063fd395a0e076d58ad6da5c4a61865e14aae3254ad1de62b2b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36b-article-0001",
+   "short": "W. Va. Code 36B-1",
+   "title": "West Virginia Code, CHAPTER 36B. UNIFORM COMMON INTEREST OWNERSHIP ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/36B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/36B-1/",
+     "sha256": "5278a8c30ddddddad88f0315acda05b1d3491aaa3a882ef9d16548c0c25bf5f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36b-article-0002",
+   "short": "W. Va. Code 36B-2",
+   "title": "West Virginia Code, CHAPTER 36B. UNIFORM COMMON INTEREST OWNERSHIP ACT. ARTICLE 2. CREATION, ALTERATION AND TERMINATION OF COMMON INTEREST COMMUNITIES.",
+   "url": "https://code.wvlegislature.gov/36B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/36B-2/",
+     "sha256": "2b2390da651c15ee0566e577e68a823f5735ceb900576b06543f1c58be61c493"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36b-article-0003",
+   "short": "W. Va. Code 36B-3",
+   "title": "West Virginia Code, CHAPTER 36B. UNIFORM COMMON INTEREST OWNERSHIP ACT. ARTICLE 3. MANAGEMENT OF THE COMMON INTEREST COMMUNITY.",
+   "url": "https://code.wvlegislature.gov/36B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/36B-3/",
+     "sha256": "a58e397fcc86a6f95f3cbe45dfc606fb7a42d0ae8c6ed15b3f34fea0abef4e02"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36b-article-0004",
+   "short": "W. Va. Code 36B-4",
+   "title": "West Virginia Code, CHAPTER 36B. UNIFORM COMMON INTEREST OWNERSHIP ACT. ARTICLE 4. PROTECTION OF PURCHASERS.",
+   "url": "https://code.wvlegislature.gov/36B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/36B-4/",
+     "sha256": "53ba341e241f9c6e67a84f1b7a9e9a111aa4c42a6de2c388dcd0c7f65319660e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0001",
+   "short": "W. Va. Code 37-1",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 1. LANDS OF INFANTS, INSANE PERSONS, OR CONVICTS, AND LANDS HELD IN TRUST.",
+   "url": "https://code.wvlegislature.gov/37-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-1/",
+     "sha256": "0e0d0f872125fcb6b9192d7ad6de82cb9242ca95e57e2e58bcab9c605803bf68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0002",
+   "short": "W. Va. Code 37-2",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 2. ESCHEATS.",
+   "url": "https://code.wvlegislature.gov/37-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-2/",
+     "sha256": "69079df90c2c07243cd5dc2462d6120d45d1fed2b1a243a2ac03f8dd2b250865"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0002a",
+   "short": "W. Va. Code 37-2A",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 2A. PUBLIC LAND CORPORATION OF WEST VIRGINIA.",
+   "url": "https://code.wvlegislature.gov/37-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-2A/",
+     "sha256": "ebeebf98bf012c7f763a6b45e5ad684bf79580eb1318f6c92be03be7695b4fea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0002b",
+   "short": "W. Va. Code 37-2B",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 2B. REDEMPTION OF, AND CLARIFICATION OF TITLE TO, REAL PROPERTY FORMERLY HELD FOR RELIGIOUS, CHARITABLE AND EDUCATIONAL PURPOSES AND IMPROPERLY EXEMPTED FROM TAXES.",
+   "url": "https://code.wvlegislature.gov/37-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-2B/",
+     "sha256": "b2d933659a740028692fcdeb93e9b84914964311d99a89959ef8978c562323d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0003",
+   "short": "W. Va. Code 37-3",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 3. SALE OF LAND FOR BENEFIT OF SCHOOL FUND.",
+   "url": "https://code.wvlegislature.gov/37-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 39,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-3/",
+     "sha256": "0675438d6c55a29d3bf94e4eff8761a04fd64bf095607cf772ccf152c24e0213"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0003a",
+   "short": "W. Va. Code 37-3A",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 3A. PREVENTING FOREIGN ADVERSARIES FROM OWNING REAL ESTATE IN WEST VIRGINIA.",
+   "url": "https://code.wvlegislature.gov/37-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-3A/",
+     "sha256": "2e1750e12e3bbbc199ac4be32f02611abd65d9ea62c8148b5613969b64112e40"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0004",
+   "short": "W. Va. Code 37-4",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 4. PARTITION.",
+   "url": "https://code.wvlegislature.gov/37-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-4/",
+     "sha256": "52318c8aa227585b57ac089fa18ff5c3d1650334c123c64c5a097be026bcbe0d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0005",
+   "short": "W. Va. Code 37-5",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 5. ADJOINING OWNERS.",
+   "url": "https://code.wvlegislature.gov/37-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-5/",
+     "sha256": "c75c4864ded7a4087f90a59814a5ed5476636a1d506961aaee44083156659bbf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0006",
+   "short": "W. Va. Code 37-6",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 6. LANDLORD AND TENANT.",
+   "url": "https://code.wvlegislature.gov/37-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-6/",
+     "sha256": "32fca309d0b56b8503333d236cb897fdb384d51079cc8a93fcda2c2771602db6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0006a",
+   "short": "W. Va. Code 37-6A",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 6A. RESIDENTIAL RENTAL SECURITY DEPOSITS.",
+   "url": "https://code.wvlegislature.gov/37-6A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-6A/",
+     "sha256": "d72deda39d607abc9dfe631614ce8c52add8f6417094b5a2980e6dfcfce11594"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0007",
+   "short": "W. Va. Code 37-7",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 7. WASTE.",
+   "url": "https://code.wvlegislature.gov/37-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-7/",
+     "sha256": "333465a05e3a261d2f652815a43209d36f6153a14a4b6cdd2729d5e132603cee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0008",
+   "short": "W. Va. Code 37-8",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 8. EMBLEMENTS.",
+   "url": "https://code.wvlegislature.gov/37-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-8/",
+     "sha256": "77944dd5034f5491cc12f8095431a1f5f25e55e96c32995a17ffbb20cb37c8ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0009",
+   "short": "W. Va. Code 37-9",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 9. APPORTIONMENT OF RENT.",
+   "url": "https://code.wvlegislature.gov/37-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-9/",
+     "sha256": "9e29be7eaf23429f648dcda502d79b3147e99651cb81fe19617d52fb8d833ea8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0010",
+   "short": "W. Va. Code 37-10",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 10. LAND RECORDS PROCURED FROM VIRGINIA.",
+   "url": "https://code.wvlegislature.gov/37-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-10/",
+     "sha256": "dc7513bd0d3ea426c58c10d89e8651538f54e1a0788a80e9bda609c68f3708f7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0011",
+   "short": "W. Va. Code 37-11",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 11. CURATIVE PROVISIONS RESPECTING DEEDS AND OTHER WRITINGS AND THE RECORDATION THEREOF.",
+   "url": "https://code.wvlegislature.gov/37-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-11/",
+     "sha256": "bec121f12ff8e7fabff299361c51def4c0f72b9ea28d6394429b8a231f1ee66d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0012",
+   "short": "W. Va. Code 37-12",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 12. SURVEYORS.",
+   "url": "https://code.wvlegislature.gov/37-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-12/",
+     "sha256": "380ad8fc429e6e8ed6360ffa356e1811988ad1432d0f501630a7f07e5d44c2da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0013",
+   "short": "W. Va. Code 37-13",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 13. REMOVAL, TRANSFER AND DISPOSITION OF REMAINS IN GRAVES LOCATED UPON PRIVATELY OWNED LANDS.",
+   "url": "https://code.wvlegislature.gov/37-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-13/",
+     "sha256": "c89b0aa8c34b2060e07dbddc7b5b0ccfb48acbe0a680d3c8d8640dccd1965c4b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0013a",
+   "short": "W. Va. Code 37-13A",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 13A. GRAVES LOCATED UPON PRIVATELY OWNED LANDS.",
+   "url": "https://code.wvlegislature.gov/37-13A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-13A/",
+     "sha256": "d64d3da06e961cca7537ebc180c7733707e362a25d1c1f9c88233eec83177739"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0014",
+   "short": "W. Va. Code 37-14",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 14. THE REAL ESTATE APPRAISER LICENSING AND CERTIFICATION ACT.",
+   "url": "https://code.wvlegislature.gov/37-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 45,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-14/",
+     "sha256": "b5be0da617bae49389005f48f013702b9b9f0e9d08ac667214e968d3c98cbd5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37-article-0015",
+   "short": "W. Va. Code 37-15",
+   "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 15. HOUSE TRAILERS, MOBILE HOMES, MANUFACTURED HOMES AND MODULAR HOMES.",
+   "url": "https://code.wvlegislature.gov/37-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/37-15/",
+     "sha256": "8b1769e795fec65aa5d465ba437cc682ec8195de952892db9457d94bba687575"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37a-article-0001",
+   "short": "W. Va. Code 37A-1",
+   "title": "West Virginia Code, CHAPTER 37A. ZONING. ARTICLE 1. RADIO ASTRONOMY ZONING ACT.",
+   "url": "https://code.wvlegislature.gov/37A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/37A-1/",
+     "sha256": "20f88e568694582db11c8baf352409e419607ef5e581f995d02485b34e3848e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37b-article-0001",
+   "short": "W. Va. Code 37B-1",
+   "title": "West Virginia Code, CHAPTER 37B ARTICLE 1",
+   "url": "https://code.wvlegislature.gov/37B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/37B-1/",
+     "sha256": "4b90f58df13b269b538c99305dee571d17581691720da504b47b18c304046b34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37b-article-0002",
+   "short": "W. Va. Code 37B-2",
+   "title": "West Virginia Code, CHAPTER 37B ARTICLE 2",
+   "url": "https://code.wvlegislature.gov/37B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/37B-2/",
+     "sha256": "4f16e93c5dc7bded961380cd8e0409cd754775cc3269d098f4f68ef42297f819"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37b-article-0003",
+   "short": "W. Va. Code 37B-3",
+   "title": "West Virginia Code, CHAPTER 37B ARTICLE 3. COAL CO-TENANCY MODERNIZATION AND MINERS PROTECTION ACT.",
+   "url": "https://code.wvlegislature.gov/37B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/37B-3/",
+     "sha256": "f9b7df1bf23d59d9cd7840a4def8c5f2aa4d5a76bbe0be25e3de3a7d22b12f61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37b-article-0004",
+   "short": "W. Va. Code 37B-4",
+   "title": "West Virginia Code, CHAPTER 37B ARTICLE 4. UNKNOWN AND UNLOCATABLE COAL INTEREST OWNERS ACT.",
+   "url": "https://code.wvlegislature.gov/37B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/37B-4/",
+     "sha256": "a5e2d71d0a982b0ef080cfcb80a5fa2b3567e6cfcd9818634f6ad86c126de3a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37c-article-0001",
+   "short": "W. Va. Code 37C-1",
+   "title": "West Virginia Code, CHAPTER 37C. MINERAL DEVELOPMENT. ARTICLE 1. INFORMATION REPORTING AND PAYMENTS TO OWNERS.",
+   "url": "https://code.wvlegislature.gov/37C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/37C-1/",
+     "sha256": "f2871edb545b48be0dcf6329e6e2b2211b7b89d81ea5423bc7db3ec1f26092f1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0001",
+   "short": "W. Va. Code 38-1",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 1. VENDOR'S AND TRUST DEED LIENS.",
+   "url": "https://code.wvlegislature.gov/38-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-1/",
+     "sha256": "57c1d251cf180131c467f105a678b6a3b4844eff469e491571d735e9dcd04bc5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0001a",
+   "short": "W. Va. Code 38-1A",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 1A. TRUSTEES OF SECURITY TRUSTS.",
+   "url": "https://code.wvlegislature.gov/38-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-1A/",
+     "sha256": "243bc3db90d7d5eef01b1320752f33d74c7410abc026def24b1148ddb3b7ebc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0002",
+   "short": "W. Va. Code 38-2",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 2. MECHANICS' LIENS.",
+   "url": "https://code.wvlegislature.gov/38-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 40,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-2/",
+     "sha256": "f3804e5176ee113d71540a074ad6ad329bc0d708e6ac4699291dcda27fb82ec6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0003",
+   "short": "W. Va. Code 38-3",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 3. JUDGMENT LIENS.",
+   "url": "https://code.wvlegislature.gov/38-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-3/",
+     "sha256": "d5bc726242158644a940fcdb3c42ba1db6dae576d1efb7e2f6a6e549c629b63e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0004",
+   "short": "W. Va. Code 38-4",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 4. EXECUTIONS.",
+   "url": "https://code.wvlegislature.gov/38-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-4/",
+     "sha256": "d1c5f7a58b29985c8e05bdc5f734caa7d78cb54d258deded0e5a110c0111ebcd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0005",
+   "short": "W. Va. Code 38-5",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 5. PROCEEDINGS IN AID OF EXECUTION; INTERROGATORIES; SUGGESTION.",
+   "url": "https://code.wvlegislature.gov/38-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-5/",
+     "sha256": "b36cde49a4e2ac6f91e346092cb6ae2edd4d4730b8dbb50688fbcf984c72e79a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0005a",
+   "short": "W. Va. Code 38-5A",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 5A. SUGGESTIONS OF SALARY AND WAGES OF PERSONS ENGAGED IN PRIVATE EMPLOYMENT.",
+   "url": "https://code.wvlegislature.gov/38-5A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-5A/",
+     "sha256": "086df85853c738db53792d5325a45006ac4edad725fc5e43674f7dd4638c6977"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0005b",
+   "short": "W. Va. Code 38-5B",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 5B. SUGGESTION OF THE STATE AND POLITICAL SUBDIVISIONS; GARNISHMENT AND SUGGESTION OF PUBLIC OFFICERS.",
+   "url": "https://code.wvlegislature.gov/38-5B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-5B/",
+     "sha256": "45d1e2329d9dcb4b37d5ab62f2792c53df78ecd55fa85443fa95dcecf1402068"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0006",
+   "short": "W. Va. Code 38-6",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 6. INDEMNIFYING, SUSPENDING AND FORTHCOMING BONDS; TRIAL OF CONFLICTING CLAIMS TO PROPERTY IN CASE OF LEVY OF EXECUTION.",
+   "url": "https://code.wvlegislature.gov/38-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-6/",
+     "sha256": "f40753d486abff7c7ad102577d2653c4962586a38c262913b3fc405a3b68c40b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0007",
+   "short": "W. Va. Code 38-7",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 7. ATTACHMENT.",
+   "url": "https://code.wvlegislature.gov/38-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 46,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-7/",
+     "sha256": "d32101e54b8373f8021e56b4e8d5549db2e357039ae56681731fce782c450793"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0008",
+   "short": "W. Va. Code 38-8",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 8. EXEMPTIONS FROM LEVY.",
+   "url": "https://code.wvlegislature.gov/38-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-8/",
+     "sha256": "98fbbff57dec7359b6c68284cd719cd1575bc6153e9b4bdea0a21198f9a39efb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0009",
+   "short": "W. Va. Code 38-9",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 9. HOMESTEAD EXEMPTIONS.",
+   "url": "https://code.wvlegislature.gov/38-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-9/",
+     "sha256": "71d03f8ca6f9ea02ad8ab10f46fadbb88a30b6fc29c0ad00aa9091d1d13c78c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010",
+   "short": "W. Va. Code 38-10",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10. FEDERAL TAX LIENS; ORDERS AND DECREES IN BANKRUPTCY.",
+   "url": "https://code.wvlegislature.gov/38-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10/",
+     "sha256": "b644d6782b8bf3f871cab5804c58f8ce04c7074e2c6f220e86bc1385de67c7e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010a",
+   "short": "W. Va. Code 38-10A",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10A. FEDERAL LIEN REGISTRATION.",
+   "url": "https://code.wvlegislature.gov/38-10A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10A/",
+     "sha256": "eba71b3f73f2a00e1cb3c60d884465de54453d1d45d123f35848b624dc739b29"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010b",
+   "short": "W. Va. Code 38-10B",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10B. LIENS ON STOCKS OF GOODS AND INVENTORIES OF COOPERATIVE ASSOCIATIONS.",
+   "url": "https://code.wvlegislature.gov/38-10B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10B/",
+     "sha256": "b1047f6e39371d70ebbcea74efccc53362c5c957c71d0c92749464ea6be01004"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010c",
+   "short": "W. Va. Code 38-10C",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10C. STATE AND LOCAL TAX LIENS.",
+   "url": "https://code.wvlegislature.gov/38-10C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10C/",
+     "sha256": "f6d632df5b538bea54cb25ba605f299e5fa06bed497c7bd680dd6cda9439638c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010d",
+   "short": "W. Va. Code 38-10D",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10D. SUPER FUND LIEN RECORDATION ACT.",
+   "url": "https://code.wvlegislature.gov/38-10D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10D/",
+     "sha256": "b3c91ee34165157662ee69f97e3b02a0414a9e2829a7a0405c226aa9c333fdad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0010e",
+   "short": "W. Va. Code 38-10E",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 10E. LIEN ON INSURANCE PROCEEDS FOR DEBRIS REMOVAL.",
+   "url": "https://code.wvlegislature.gov/38-10E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-10E/",
+     "sha256": "b13f5581206f18d11fb4fdfba1f6cc6a0288c545aed78e4e0d93d0385fc3edb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0011",
+   "short": "W. Va. Code 38-11",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 11. MISCELLANEOUS LIENS AND PLEDGES.",
+   "url": "https://code.wvlegislature.gov/38-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-11/",
+     "sha256": "2671d006752a76a2bcb1ae3d637666940097d4603c4cc261e1e790109fd39b1b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0012",
+   "short": "W. Va. Code 38-12",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 12. RELEASE AND ASSIGNMENT OF LIENS.",
+   "url": "https://code.wvlegislature.gov/38-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-12/",
+     "sha256": "cb509059887537fd85b0a65e9535b95b667b0a3dfad9914b3765fd6620ab43ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0013",
+   "short": "W. Va. Code 38-13",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 13. ASSIGNMENT BY INSOLVENT FOR THE BENEFIT FOR ALL CREDITORS.",
+   "url": "https://code.wvlegislature.gov/38-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-13/",
+     "sha256": "6d34b6dd539ad9dd59f9902d6b01718481ca099fe68d1ec52b67ae179849baa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0014",
+   "short": "W. Va. Code 38-14",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 14. SELF-SERVICE STORAGE LIEN ACT.",
+   "url": "https://code.wvlegislature.gov/38-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-14/",
+     "sha256": "ad16a3fbe9826eacdbea5aa328d179f589c1853b8e27017e04c02bb631240bbf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0015",
+   "short": "W. Va. Code 38-15",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 15. UNIFORM TRUST RECEIPTS ACT.",
+   "url": "https://code.wvlegislature.gov/38-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-15/",
+     "sha256": "325492f635068681d73aea03c11efcefab88e2f1580343a1ef6a804ac99563b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38-article-0016",
+   "short": "W. Va. Code 38-16",
+   "title": "West Virginia Code, CHAPTER 38. LIENS. ARTICLE 16. FRAUDULENT COMMON LAW LIENS.",
+   "url": "https://code.wvlegislature.gov/38-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 28,
+     "source_url": "https://code.wvlegislature.gov/pdf/38-16/",
+     "sha256": "5703e8cdba6db37af7e8c6cec37caf5a570b11f6f8952e311948eb114b936e84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0001",
+   "short": "W. Va. Code 39-1",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 1. AUTHENTICATION AND RECORD OF WRITINGS.",
+   "url": "https://code.wvlegislature.gov/39-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-1/",
+     "sha256": "7324796704f23ac6f464ee8ab33bbad473bec6835c4b6cbcffaf0f2b6cbea05a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0001a",
+   "short": "W. Va. Code 39-1A",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 1A. UNIFORM RECOGNITION OF ACKNOWLEDGMENTS ACT.",
+   "url": "https://code.wvlegislature.gov/39-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-1A/",
+     "sha256": "e0db4a684235c590b1d86d55e34baa716c8aaf6f96d4ae67ab966016a58610a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0002",
+   "short": "W. Va. Code 39-2",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 2. GENERAL INDEX AND PRESERVATION OF RECORDS.",
+   "url": "https://code.wvlegislature.gov/39-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-2/",
+     "sha256": "324724bde2051aaea4bdc000c98441d4f277e2787aee152da46ded4a7ee0f3cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0003",
+   "short": "W. Va. Code 39-3",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 3. RECONSTRUCTION OF LOST RECORDS AND PAPERS.",
+   "url": "https://code.wvlegislature.gov/39-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-3/",
+     "sha256": "2c7094a75602f99d56f9a6886acc5c8175e1c695cd5fbaeda98a93adb9403113"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0004",
+   "short": "W. Va. Code 39-4",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 4. REVISED UNIFORM LAW ON NOTARIAL ACTS.",
+   "url": "https://code.wvlegislature.gov/39-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 39,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-4/",
+     "sha256": "8a001bf391f57fb9805a361d13522d0f322661c946ea0eb7c6b60851f514d0dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0004a",
+   "short": "W. Va. Code 39-4A",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 4A. OUT-OF-STATE COMMISSIONERS.",
+   "url": "https://code.wvlegislature.gov/39-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-4A/",
+     "sha256": "0f45d99d48ba321a34847dac12b1db1bdeadf3f6308b482d3fc3dc34382d5a3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0005",
+   "short": "W. Va. Code 39-5",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 5. ELECTRONIC SIGNATURES AUTHORIZATION ACT.",
+   "url": "https://code.wvlegislature.gov/39-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-5/",
+     "sha256": "4d1438aa1362f772a57971a7c1cd4d3ab639d5c3b41904ab303f73a515106d68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39-article-0006",
+   "short": "W. Va. Code 39-6",
+   "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 6. UNIFORM ELECTRONIC LEGAL MATERIAL ACT.",
+   "url": "https://code.wvlegislature.gov/39-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/39-6/",
+     "sha256": "d51cc9789a1cef9b36927815c8205a435501b7b6f179a97c5c9f32115dce4e76"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39a-article-0001",
+   "short": "W. Va. Code 39A-1",
+   "title": "West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 1. UNIFORM ELECTRONIC TRANSACTIONS ACT.",
+   "url": "https://code.wvlegislature.gov/39A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/39A-1/",
+     "sha256": "ca9b435636212dede457e40973bd2328e291a1902e1d8a6092d3c2917d943aeb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39a-article-0002",
+   "short": "W. Va. Code 39A-2",
+   "title": "West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 2. CONSUMER PROTECTIONS AND RESPONSIBILITIES IN ELECTRONIC TRANSACTIONS.",
+   "url": "https://code.wvlegislature.gov/39A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/39A-2/",
+     "sha256": "e20ed65c8141fe4425da30b7a2d01fdb2bd00c67c61f417a5266debd1a34743a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39a-article-0003",
+   "short": "W. Va. Code 39A-3",
+   "title": "West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 3. DIGITAL SIGNATURES; STATE ELECTRONIC RECORDS AND TRANSACTIONS.",
+   "url": "https://code.wvlegislature.gov/39A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/39A-3/",
+     "sha256": "8c4762626ab08cca9a7ee10ab516d7e1f2609c1136115392addda1e5eaaa5e5b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39a-article-0004",
+   "short": "W. Va. Code 39A-4",
+   "title": "West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 4. UNIFORM REAL PROPERTY ELECTRONIC RECORDING ACT.",
+   "url": "https://code.wvlegislature.gov/39A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/39A-4/",
+     "sha256": "21fa848ec55c3e2be0207139d6b62814650fdf654c0bc567dd8b3d29731122f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39b-article-0001",
+   "short": "W. Va. Code 39B-1",
+   "title": "West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/39B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/39B-1/",
+     "sha256": "5b42137d8f0c43896ca65f4cf0be4af8cd5f9e9b859f0dffaabaee1279e59b64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39b-article-0002",
+   "short": "W. Va. Code 39B-2",
+   "title": "West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 2. AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/39B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/39B-2/",
+     "sha256": "755513f2cb8258b4a473bec76b8d99aed034e7e181aebdb63706a1cba7ada66b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39b-article-0003",
+   "short": "W. Va. Code 39B-3",
+   "title": "West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 3. STATUTORY FORMS.",
+   "url": "https://code.wvlegislature.gov/39B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/39B-3/",
+     "sha256": "0808c3fd1ed7b2e7bec47558a17c604db1db63f636e7baf2b379759cb43694fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39b-article-0004",
+   "short": "W. Va. Code 39B-4",
+   "title": "West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 4. MISCELLANEOUS PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/39B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/39B-4/",
+     "sha256": "cf414537cf467d19c34353007060f7f3bc647096ad7a8fb85a535d2f622a8ca2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40-article-0001",
+   "short": "W. Va. Code 40-1",
+   "title": "West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 1. ACTS GENERALLY VOID AS TO CREDITORS AND PURCHASERS.",
+   "url": "https://code.wvlegislature.gov/40-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/40-1/",
+     "sha256": "0bb4a84dc9696e7cb421f796f4e981aeb3ee8c138a032dc8e456d0c1f7ad1682"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40-article-0001a",
+   "short": "W. Va. Code 40-1A",
+   "title": "West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 1A. UNIFORM FRAUDULENT TRANSFERS ACT.",
+   "url": "https://code.wvlegislature.gov/40-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/40-1A/",
+     "sha256": "63ee8569e9487a4a50253a147c96e329cf9429e10dc5106054ae066ffd00c526"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40-article-0002",
+   "short": "W. Va. Code 40-2",
+   "title": "West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 2. SALE OF MERCHANDISE OR FIXTURES IN BULK.",
+   "url": "https://code.wvlegislature.gov/40-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/40-2/",
+     "sha256": "8234edbf8e0106a133634f6e2cabd0c940ab2f1ea375bdd4a2530dca12de6c01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40-article-0003",
+   "short": "W. Va. Code 40-3",
+   "title": "West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 3. CONDITIONAL SALES.",
+   "url": "https://code.wvlegislature.gov/40-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/40-3/",
+     "sha256": "1de9aa09db0449a64e4b83200a17665e1777c5926d8b9a8342430d38f8a01f2d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-article-0001",
+   "short": "W. Va. Code 41-1",
+   "title": "West Virginia Code, CHAPTER 41. WILLS. ARTICLE 1. CAPACITY TO MAKE; REQUISITES; VALIDITY.",
+   "url": "https://code.wvlegislature.gov/41-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/41-1/",
+     "sha256": "00f37b7b0cead44b8f5a89f9f9410b58b529f5a300a89284bcae851940eb05fd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-article-0002",
+   "short": "W. Va. Code 41-2",
+   "title": "West Virginia Code, CHAPTER 41. WILLS. ARTICLE 2. COMPETENCY OF WITNESSES.",
+   "url": "https://code.wvlegislature.gov/41-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/41-2/",
+     "sha256": "6dbbd6664b40444781665d8beb990885dbbde029836070dcf0e0b934f26933cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-article-0003",
+   "short": "W. Va. Code 41-3",
+   "title": "West Virginia Code, CHAPTER 41. WILLS. ARTICLE 3. PROVISIONS AS TO CONSTRUCTION.",
+   "url": "https://code.wvlegislature.gov/41-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/41-3/",
+     "sha256": "4cec043d2a6a1145ede3b2e44148d2329ecf45f5b8b0983e3f09067304798860"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-article-0004",
+   "short": "W. Va. Code 41-4",
+   "title": "West Virginia Code, CHAPTER 41. WILLS. ARTICLE 4. PROVISIONS AS TO PRETERMITTED CHILDREN.",
+   "url": "https://code.wvlegislature.gov/41-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/41-4/",
+     "sha256": "2398779784f5ed26cb90a6d2dd6dd73f76218ebe4578ffbd478efcbaf2be7350"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41-article-0005",
+   "short": "W. Va. Code 41-5",
+   "title": "West Virginia Code, CHAPTER 41. WILLS. ARTICLE 5. PRODUCTION, PROBATE AND RECORD OF WILLS.",
+   "url": "https://code.wvlegislature.gov/41-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/41-5/",
+     "sha256": "527509792c4e7365c0b587ca1b73970eb07759d3cafdb844da9a202498a50d93"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0001",
+   "short": "W. Va. Code 42-1",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 1. DESCENT.",
+   "url": "https://code.wvlegislature.gov/42-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-1/",
+     "sha256": "8e53eb686ecf108a5bfbc6cfa48287b1f3dd9decd9f83098ca409e787ad95209"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0002",
+   "short": "W. Va. Code 42-2",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 2. DISTRIBUTION.",
+   "url": "https://code.wvlegislature.gov/42-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-2/",
+     "sha256": "f896d9f94a2eea2fc58d6862c5366b1a68fcfd64697ee6f3a9915543efc60b0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0003",
+   "short": "W. Va. Code 42-3",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 3. PROVISIONS RELATING TO HUSBAND OR WIFE OF DECEDENT.",
+   "url": "https://code.wvlegislature.gov/42-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-3/",
+     "sha256": "1e4f75573abaa4b25a7c4fa09c6d4a6a153ffd864b8b20a871003da28cf6d1ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0004",
+   "short": "W. Va. Code 42-4",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 4. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/42-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-4/",
+     "sha256": "275d039f7b8d01ba201dd2f5cba6d3b4ef994bd81b733a77c918c568ad74d3e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0005",
+   "short": "W. Va. Code 42-5",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 5. UNIFORM SIMULTANEOUS DEATH ACT.",
+   "url": "https://code.wvlegislature.gov/42-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-5/",
+     "sha256": "bcfbb03adbfebcc50381a2cb35b1ff01fdb380f3bf0782874008b974d55d08cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42-article-0006",
+   "short": "W. Va. Code 42-6",
+   "title": "West Virginia Code, CHAPTER 42. DESCENT AND DISTRIBUTION. ARTICLE 6. UNIFORM DISCLAIMER OF PROPERTY INTERESTS ACT.",
+   "url": "https://code.wvlegislature.gov/42-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/42-6/",
+     "sha256": "91f4f423888d6314b0faa012ee11d0a1d645135aff9841775e4ef64fe769cb52"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-43-article-0001",
+   "short": "W. Va. Code 43-1",
+   "title": "West Virginia Code, CHAPTER 43. DOWER AND VALUATION OF LIFE ESTATES. ARTICLE 1. DOWER.",
+   "url": "https://code.wvlegislature.gov/43-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/43-1/",
+     "sha256": "21e66e6f0abcc116f30e8ffb381cd570f01dc6a1400dc8859d83f2756d423b33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-43-article-0002",
+   "short": "W. Va. Code 43-2",
+   "title": "West Virginia Code, CHAPTER 43. DOWER AND VALUATION OF LIFE ESTATES. ARTICLE 2. VALUATION OF LIFE ESTATES.",
+   "url": "https://code.wvlegislature.gov/43-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/43-2/",
+     "sha256": "485b4570b85b9d5d84a25a0de32aa0f90f6ec6860a2c697aa824e726791f5f06"
+    }
+   ]
   }
  ]
 }

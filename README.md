@@ -64,8 +64,44 @@ The law of West Virginia as a git history: one file per provision, with `git bla
 | `chapter-24d-article-*/` | West Virginia Code, Chapter 24D: Cable Television, one folder per article | 1 | 2 articles, 37 sections, text as of 2026-10-13 |
 | `chapter-24e-article-*/` | West Virginia Code, Chapter 24E: Statewide Addressing and Mapping, one folder per article | 1 | 1 articles, 12 sections, text as of 2026-10-13 |
 | `chapter-24f-article-*/` | West Virginia Code, Chapter 24F: Veterans' Grave Markers, one folder per article | 1 | 1 articles, 7 sections, text as of 2026-10-13 |
+| `chapter-25-article-*/` | West Virginia Code, Chapter 25: Division of Corrections, one folder per article | 1 | 9 articles, 144 sections, text as of 2026-10-13 |
+| `chapter-26-article-*/` | West Virginia Code, Chapter 26: State Health Facilities, one folder per article | 1 | 12 articles, 41 sections, text as of 2026-10-13 |
+| `chapter-27-article-*/` | West Virginia Code, Chapter 27: Mentally Ill Persons, one folder per article | 1 | 20 articles, 117 sections, text as of 2026-10-13 |
+| `chapter-28-article-*/` | West Virginia Code, Chapter 28: State Correctional and Penal Institutions, one folder per article | 1 | 10 articles, 115 sections, text as of 2026-10-13 |
+| `chapter-29a-article-*/` | West Virginia Code, Chapter 29A: State Administrative Procedures Act, one folder per article | 1 | 9 articles, 86 sections, text as of 2026-10-13 |
+| `chapter-29b-article-*/` | West Virginia Code, Chapter 29B: Freedom of Information, one folder per article | 1 | 1 articles, 8 sections, text as of 2026-10-13 |
+| `chapter-29c-article-*/` | West Virginia Code, Chapter 29C: Uniform Notary Act, one folder per article | 1 | 9 articles, 49 sections, text as of 2026-10-13 |
+| `chapter-31-article-*/` | West Virginia Code, Chapter 31: Corporations, one folder per article | 1 | 40 articles, 954 sections, text as of 2026-10-13 |
+| `chapter-31b-article-*/` | West Virginia Code, Chapter 31B: Uniform Limited Liability Company Act, one folder per article | 1 | 14 articles, 133 sections, text as of 2026-10-13 |
+| `chapter-31c-article-*/` | West Virginia Code, Chapter 31C: Credit Unions, one folder per article | 1 | 12 articles, 83 sections, text as of 2026-10-13 |
 | `chapter-31d-article-*/` | West Virginia Code, Chapter 31D: West Virginia Business Corporation Act, one folder per article | 1 | 16 articles, 190 sections, text as of 2026-10-13 |
+| `chapter-31e-article-*/` | West Virginia Code, Chapter 31E: West Virginia Nonprofit Corporation Act, one folder per article | 1 | 15 articles, 158 sections, text as of 2026-10-13 |
+| `chapter-31f-article-*/` | West Virginia Code, Chapter 31F: West Virginia Benefit Corporation Act, one folder per article | 1 | 5 articles, 11 sections, text as of 2026-10-13 |
+| `chapter-31g-article-*/` | West Virginia Code, Chapter 31G: Broadband Enhancement and Expansion Policies, one folder per article | 1 | 7 articles, 66 sections, text as of 2026-10-13 |
+| `chapter-31h-article-*/` | West Virginia Code, Chapter 31H: Small Wireless Facilities Deployment Act, one folder per article | 1 | 2 articles, 6 sections, text as of 2026-10-13 |
+| `chapter-31i-article-*/` | West Virginia Code, Chapter 31I: Trust Companies, one folder per article | 1 | 1 articles, 13 sections, text as of 2026-10-13 |
+| `chapter-31j-article-*/` | West Virginia Code, Chapter 31J: Wireless Tower Facilities, one folder per article | 1 | 1 articles, 6 sections, text as of 2026-10-13 |
+| `chapter-32-article-*/` | West Virginia Code, Chapter 32: Uniform Securities Act, one folder per article | 1 | 6 articles, 48 sections, text as of 2026-10-13 |
+| `chapter-32a-article-*/` | West Virginia Code, Chapter 32A: Land Sales; False Advertising; Issuance and Sale of Checks, Drafts, Money Orders, Etc, one folder per article | 1 | 3 articles, 38 sections, text as of 2026-10-13 |
+| `chapter-32b-article-*/` | West Virginia Code, Chapter 32B: The West Virginia Commodities Act, one folder per article | 1 | 4 articles, 25 sections, text as of 2026-10-13 |
+| `chapter-34-article-*/` | West Virginia Code, Chapter 34: Estrays, Drift and Derelict Property, one folder per article | 1 | 2 articles, 15 sections, text as of 2026-10-13 |
+| `chapter-35-article-*/` | West Virginia Code, Chapter 35: Property of Religious, Educational and Charitable Organizations, one folder per article | 1 | 9 articles, 72 sections, text as of 2026-10-13 |
+| `chapter-35a-article-*/` | West Virginia Code, Chapter 35A: Names, Emblems, Etc., of Associations, Lodges, Etc, one folder per article | 1 | 1 articles, 7 sections, text as of 2026-10-13 |
 | `chapter-36-article-*/` | West Virginia Code, Chapter 36: Estates and Property, one folder per article | 1 | 15 articles, 275 sections, text as of 2026-10-13 |
+| `chapter-36a-article-*/` | West Virginia Code, Chapter 36A: Condominiums and Unit Property, one folder per article | 1 | 8 articles, 40 sections, text as of 2026-10-13 |
+| `chapter-36b-article-*/` | West Virginia Code, Chapter 36B: Uniform Common Interest Ownership Act, one folder per article | 1 | 4 articles, 82 sections, text as of 2026-10-13 |
+| `chapter-37-article-*/` | West Virginia Code, Chapter 37: Real Property, one folder per article | 1 | 20 articles, 228 sections, text as of 2026-10-13 |
+| `chapter-37a-article-*/` | West Virginia Code, Chapter 37A: Zoning, one folder per article | 1 | 1 articles, 6 sections, text as of 2026-10-13 |
+| `chapter-37b-article-*/` | West Virginia Code, Chapter 37B, one folder per article | 1 | 4 articles, 29 sections, text as of 2026-10-13 |
+| `chapter-37c-article-*/` | West Virginia Code, Chapter 37C: Mineral Development, one folder per article | 1 | 1 articles, 3 sections, text as of 2026-10-13 |
+| `chapter-38-article-*/` | West Virginia Code, Chapter 38: Liens, one folder per article | 1 | 24 articles, 378 sections, text as of 2026-10-13 |
+| `chapter-39-article-*/` | West Virginia Code, Chapter 39: Records and Papers, one folder per article | 1 | 8 articles, 117 sections, text as of 2026-10-13 |
+| `chapter-39a-article-*/` | West Virginia Code, Chapter 39A: Electronic Commerce, one folder per article | 1 | 4 articles, 41 sections, text as of 2026-10-13 |
+| `chapter-39b-article-*/` | West Virginia Code, Chapter 39B: Uniform Power of Attorney Act, one folder per article | 1 | 4 articles, 45 sections, text as of 2026-10-13 |
+| `chapter-40-article-*/` | West Virginia Code, Chapter 40: Acts Void As to Creditors and Purchasers, one folder per article | 1 | 4 articles, 69 sections, text as of 2026-10-13 |
+| `chapter-41-article-*/` | West Virginia Code, Chapter 41: Wills, one folder per article | 1 | 5 articles, 46 sections, text as of 2026-10-13 |
+| `chapter-42-article-*/` | West Virginia Code, Chapter 42: Descent and Distribution, one folder per article | 1 | 6 articles, 61 sections, text as of 2026-10-13 |
+| `chapter-43-article-*/` | West Virginia Code, Chapter 43: Dower and Valuation of Life Estates, one folder per article | 1 | 2 articles, 25 sections, text as of 2026-10-13 |
 | `chapter-61-article-*/` | West Virginia Code, Chapter 61: Crimes and Their Punishment, one folder per article | 1 | 36 articles, 590 sections, text as of 2026-10-13 |
 
 **Source.** The [West Virginia Code](https://code.wvlegislature.gov/) site of the West Virginia Legislature. English. Chapters 61, 31D and 36 were read from the section pages; every other chapter from the Legislature's own article PDFs (`code.wvlegislature.gov/pdf/<chapter>-<article>/`), one request at a time and at most two a second. Only the section text is taken; the site's bill-history and signed-bill widgets are not copied.
