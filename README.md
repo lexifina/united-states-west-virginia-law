@@ -30,6 +30,13 @@ The law of West Virginia as a git history: one file per provision, with `git bla
 | `chapter-8a-article-*/` | West Virginia Code, Chapter 8A: Land Use Planning, one folder per article | 1 | 13 articles, 114 sections, text as of 2026-10-13 |
 | `chapter-9-article-*/` | West Virginia Code, Chapter 9: Human Services, one folder per article | 1 | 16 articles, 190 sections, text as of 2026-10-13 |
 | `chapter-9a-article-*/` | West Virginia Code, Chapter 9A: Veterans' Affairs, one folder per article | 1 | 6 articles, 38 sections, text as of 2026-10-13 |
+| `chapter-10-article-*/` | West Virginia Code, Chapter 10: Public Libraries; Public Recreation; Athletic Establishments; Monuments and Memorials; Roster of Servicemen; Educational Broadcasting Authority, one folder per article | 1 | 9 articles, 96 sections, text as of 2026-10-13 |
+| `chapter-11a-article-*/` | West Virginia Code, Chapter 11A: Collection and Enforcement of Property Taxes, one folder per article | 1 | 4 articles, 126 sections, text as of 2026-10-13 |
+| `chapter-11b-article-*/` | West Virginia Code, Chapter 11B: Department of Revenue, one folder per article | 1 | 2 articles, 42 sections, text as of 2026-10-13 |
+| `chapter-12-article-*/` | West Virginia Code, Chapter 12: Public Moneys and Securities, one folder per article | 1 | 21 articles, 255 sections, text as of 2026-10-13 |
+| `chapter-13-article-*/` | West Virginia Code, Chapter 13: Public Bonded Indebtedness, one folder per article | 1 | 12 articles, 174 sections, text as of 2026-10-13 |
+| `chapter-14-article-*/` | West Virginia Code, Chapter 14: Claims Due and Against the State, one folder per article | 1 | 6 articles, 123 sections, text as of 2026-10-13 |
+| `chapter-15a-article-*/` | West Virginia Code, Chapter 15A: Department of Homeland Security, one folder per article | 1 | 14 articles, 142 sections, text as of 2026-10-13 |
 | `chapter-31d-article-*/` | West Virginia Code, Chapter 31D: West Virginia Business Corporation Act, one folder per article | 1 | 16 articles, 190 sections, text as of 2026-10-13 |
 | `chapter-36-article-*/` | West Virginia Code, Chapter 36: Estates and Property, one folder per article | 1 | 15 articles, 275 sections, text as of 2026-10-13 |
 | `chapter-61-article-*/` | West Virginia Code, Chapter 61: Crimes and Their Punishment, one folder per article | 1 | 36 articles, 590 sections, text as of 2026-10-13 |

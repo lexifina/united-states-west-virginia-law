@@ -4032,6 +4032,958 @@
      "sha256": "0fb26e7474d620c3ca3c8c40a82d78192656cd0f3d28acb536fb1136fc5cdb55"
     }
    ]
+  },
+  {
+   "slug": "chapter-10-article-0001",
+   "short": "W. Va. Code 10-1",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 1. PUBLIC LIBRARIES.",
+   "url": "https://code.wvlegislature.gov/10-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 29,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-1/",
+     "sha256": "89beb310f73e1fc5dc57f054eac6e2f004470ab660ea1bc97a3d2ca34e1225ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0001a",
+   "short": "W. Va. Code 10-1A",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 1A. INTERSTATE LIBRARY COMPACT.",
+   "url": "https://code.wvlegislature.gov/10-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-1A/",
+     "sha256": "a1426302505a9bbe45a0677d787ae416507846711387f4218202a980b14b98de"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0002",
+   "short": "W. Va. Code 10-2",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 2. PUBLIC RECREATION AND PLAYGROUNDS.",
+   "url": "https://code.wvlegislature.gov/10-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-2/",
+     "sha256": "8b74a52a2b1c45506f375ffb944627bb525624959ef08af6bf524d2551bb9621"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0002a",
+   "short": "W. Va. Code 10-2A",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 2A. ATHLETIC ESTABLISHMENTS.",
+   "url": "https://code.wvlegislature.gov/10-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-2A/",
+     "sha256": "975915931591f365de5763f1dedf847effa6563be2ce1c967167bc87d29fc282"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0003",
+   "short": "W. Va. Code 10-3",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 3. MONUMENTS, TABLETS AND MEMORIALS.",
+   "url": "https://code.wvlegislature.gov/10-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-3/",
+     "sha256": "9e9150730cf595515b58a3687677fa8b421d180b4e8225e5b72b2e04e4f49420"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0003a",
+   "short": "W. Va. Code 10-3A",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 3A. THE WEST VIRGINIA MEMORIAL TO CHILD LABOR.",
+   "url": "https://code.wvlegislature.gov/10-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-3A/",
+     "sha256": "e977291e6b1a35d4fe21346dcc9d11643913f458f157756291771a67bb1ee63b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0003b",
+   "short": "W. Va. Code 10-3B",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 3B. THE WEST VIRGINIA MEMORIAL TO FALLEN HEROES OF THE GLOBAL WAR ON TERRORISM.",
+   "url": "https://code.wvlegislature.gov/10-3B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-3B/",
+     "sha256": "abc3b84e3e358792a85ad8d2d9d1ff674bd46a2cbd2751382c2f2578d95b10ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0004",
+   "short": "W. Va. Code 10-4",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 4. ROSTER OF WEST VIRGINIA SOLDIERS, SAILORS AND MARINES IN RECENT WARS.",
+   "url": "https://code.wvlegislature.gov/10-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-4/",
+     "sha256": "7eec0c0ebf48e5a9eab68cd0aff8f689f55ba27f3c4e43f20f610dfc9f2d2d20"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10-article-0005",
+   "short": "W. Va. Code 10-5",
+   "title": "West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 5. EDUCATIONAL BROADCASTING COMMISSION.",
+   "url": "https://code.wvlegislature.gov/10-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/10-5/",
+     "sha256": "bdd0b9f3d0110ae5364170004aea5d233a60ce949bab47e5ee8ff53c107a1d74"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11a-article-0001",
+   "short": "W. Va. Code 11A-1",
+   "title": "West Virginia Code, CHAPTER 11A. COLLECTION AND ENFORCEMENT OF PROPERTY TAXES. ARTICLE 1. ACCRUAL AND COLLECTION OF TAXES.",
+   "url": "https://code.wvlegislature.gov/11A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/11A-1/",
+     "sha256": "f5243e313015e5c4f5b513eb919cbd6c7c32a680c6c994265b452b0d782c88a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11a-article-0002",
+   "short": "W. Va. Code 11A-2",
+   "title": "West Virginia Code, CHAPTER 11A. COLLECTION AND ENFORCEMENT OF PROPERTY TAXES. ARTICLE 2. DELINQUENCY AND METHODS OF ENFORCING PAYMENT.",
+   "url": "https://code.wvlegislature.gov/11A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/11A-2/",
+     "sha256": "810829afdab170d687775406f91111925ee9b7573c10533f1e03f6c5e82272f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11a-article-0003",
+   "short": "W. Va. Code 11A-3",
+   "title": "West Virginia Code, CHAPTER 11A. COLLECTION AND ENFORCEMENT OF PROPERTY TAXES. ARTICLE 3. SALE OF TAX LIENS AND NONENTERED, ESCHEATED AND WASTE AND UNAPPROPRIATED LANDS.",
+   "url": "https://code.wvlegislature.gov/11A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 79,
+     "source_url": "https://code.wvlegislature.gov/pdf/11A-3/",
+     "sha256": "3e89cd8436ab14b74e4ee133fcb98a066d4b0ad5e3bd8a8a18207be23b8506d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11a-article-0004",
+   "short": "W. Va. Code 11A-4",
+   "title": "West Virginia Code, CHAPTER 11A. COLLECTION AND ENFORCEMENT OF PROPERTY TAXES. ARTICLE 4. REMEDIES RELATING TO TAX SALES.",
+   "url": "https://code.wvlegislature.gov/11A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/11A-4/",
+     "sha256": "52d699e5fa841ddf6fc1b72146cb3e344ebc66127c835e0eaf2e54c2a7a03642"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11b-article-0001",
+   "short": "W. Va. Code 11B-1",
+   "title": "West Virginia Code, CHAPTER 11B. DEPARTMENT OF REVENUE. ARTICLE 1. DEPARTMENT OF REVENUE.",
+   "url": "https://code.wvlegislature.gov/11B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/11B-1/",
+     "sha256": "6c860eb41e89f4336050d27d44e6dd2c53eae5dda9a3684717790eb085e0a90a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11b-article-0002",
+   "short": "W. Va. Code 11B-2",
+   "title": "West Virginia Code, CHAPTER 11B. DEPARTMENT OF REVENUE. ARTICLE 2. STATE BUDGET OFFICE.",
+   "url": "https://code.wvlegislature.gov/11B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 34,
+     "source_url": "https://code.wvlegislature.gov/pdf/11B-2/",
+     "sha256": "3afa24293048a28383302a0abeb16495ce042b4f5986e916f269908377909b5a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0001",
+   "short": "W. Va. Code 12-1",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 1. STATE DEPOSITORIES.",
+   "url": "https://code.wvlegislature.gov/12-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-1/",
+     "sha256": "0462e8927540e1594e05cb28870cfc4812233a9cd480821f045acb258bf4bbef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0001a",
+   "short": "W. Va. Code 12-1A",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 1A. WEST VIRGINIA SMALL BUSINESS LINKED DEPOSIT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/12-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-1A/",
+     "sha256": "a318359cd367e21103d3def0363ef6abcd1adfb760cfd10817f1644176ed7214"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0001b",
+   "short": "W. Va. Code 12-1B",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 1B. WEST VIRGINIA SECURITY FOR PUBLIC DEPOSITS ACT.",
+   "url": "https://code.wvlegislature.gov/12-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-1B/",
+     "sha256": "9d3736d3fdac107f9f07a83ee41176e6941e49919e3e6b0a91cd118716384722"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0001c",
+   "short": "W. Va. Code 12-1C",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 1C. FINANCIAL INSTITUTIONS ENGAGED IN BOYCOTTS OF ENERGY COMPANIES.",
+   "url": "https://code.wvlegislature.gov/12-1C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-1C/",
+     "sha256": "40fa6d6509d30a622147ac74aad360446b7d1447cdd2e9704b87f2dd8c9ec39a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0002",
+   "short": "W. Va. Code 12-2",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 2. PAYMENT AND DEPOSIT OF TAXES AND OTHER AMOUNTS DUE THE STATE OR ANY POLITICAL SUBDIVISION.",
+   "url": "https://code.wvlegislature.gov/12-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-2/",
+     "sha256": "50e760413e193e862338a6cb1b4d0637d2a0317005b9ec62ff6e6a7fff3ca05e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0003",
+   "short": "W. Va. Code 12-3",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 3. APPROPRIATIONS, EXPENDITURES AND DEDUCTIONS.",
+   "url": "https://code.wvlegislature.gov/12-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 33,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-3/",
+     "sha256": "c4d9d19e4d784ec28d097085bb49bfa0cac0f0ba04a218b227bef73539fa8909"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0003a",
+   "short": "W. Va. Code 12-3A",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 3A. FINANCIAL ELECTRONIC COMMERCE.",
+   "url": "https://code.wvlegislature.gov/12-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-3A/",
+     "sha256": "baa8288547a0681039c1b4b1d18c4ac850b56d9cf08527e4dfd83721bead31f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0004",
+   "short": "W. Va. Code 12-4",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 4. ACCOUNTS, REPORTS, AND GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/12-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-4/",
+     "sha256": "81f6e8588e8008ada59421b7315db7fefd3ef7c5c9ddadc9237a6ac85800b5fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0004a",
+   "short": "W. Va. Code 12-4A",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 4A. CENTRALIZED MANAGEMENT OF COMPLAINTS.",
+   "url": "https://code.wvlegislature.gov/12-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-4A/",
+     "sha256": "24fe3114b3938521feaf9911070613a4791b5f30960d2f03a17a85a7f000dd6f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0004b",
+   "short": "W. Va. Code 12-4B",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 4B. COMPUTER DONATION PROGRAM.",
+   "url": "https://code.wvlegislature.gov/12-4B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-4B/",
+     "sha256": "10b84f8b3c96794a479065759fae4f4794ffb989ed59b77cf4f4b4ac5bb8ec7e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0005",
+   "short": "W. Va. Code 12-5",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 5. PUBLIC SECURITIES.",
+   "url": "https://code.wvlegislature.gov/12-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-5/",
+     "sha256": "18cfaa71c9ebac8f1168d34d9669a37ec3a6702e067444b3cb1e982a1e95b54a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006",
+   "short": "W. Va. Code 12-6",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6. WEST VIRGINIA INVESTMENT MANAGEMENT BOARD.",
+   "url": "https://code.wvlegislature.gov/12-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6/",
+     "sha256": "5fe60e724cce2b8d459842a84e55862720e7c232fbf46e79124bcdbffa56e569"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006a",
+   "short": "W. Va. Code 12-6A",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6A. THE DEBT MANAGEMENT ACT OF 1991.",
+   "url": "https://code.wvlegislature.gov/12-6A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6A/",
+     "sha256": "66f7713f3574239b10d124d6787e66fbeb415ceebdb6a57bb7ecc0643a2f321f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006b",
+   "short": "W. Va. Code 12-6B",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6B. DEBT CAPACITY ADVISORY DIVISION.",
+   "url": "https://code.wvlegislature.gov/12-6B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6B/",
+     "sha256": "278774c4cb60138e1182990595a4c051b9223085bbbb74d4a67c3114eee33c86"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006c",
+   "short": "W. Va. Code 12-6C",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6C. WEST VIRGINIA BOARD OF TREASURY INVESTMENTS.",
+   "url": "https://code.wvlegislature.gov/12-6C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6C/",
+     "sha256": "6b2dc71b98199eed91daec532fe2cc3666d054c2912df84bb54efd90f9fbebe2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006d",
+   "short": "W. Va. Code 12-6D",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6D. WEST VIRGINIA ENTERPRISE RESOURCE PLANNING BOARD.",
+   "url": "https://code.wvlegislature.gov/12-6D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6D/",
+     "sha256": "b86ee0e9e63d992c2273483ba77f004edf8b19f774701d12ce15ed5e03a029b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0006e",
+   "short": "W. Va. Code 12-6E",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6E. WEST VIRGINIA IMPACT FUND.",
+   "url": "https://code.wvlegislature.gov/12-6E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-6E/",
+     "sha256": "610b4b8322a0a0bb23746e6994c7cc35db949cbf11282a655d21a7b697646d8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0007",
+   "short": "W. Va. Code 12-7",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 7. JOBS INVESTMENT TRUST FUND.",
+   "url": "https://code.wvlegislature.gov/12-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-7/",
+     "sha256": "2f0cbf94914d05b1f6648a1bec1b271dbe11a4d1e5e37a1cca4b54e89f7e3290"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0008",
+   "short": "W. Va. Code 12-8",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 8. PENSION LIABILITY REDEMPTION.",
+   "url": "https://code.wvlegislature.gov/12-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-8/",
+     "sha256": "71aed2e1d4e39d4918b227070c81fb3f6844465190432b305cde37b86d68dcd8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0009",
+   "short": "W. Va. Code 12-9",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 9. SAVINGS AND INVESTMENT PROGRAM FULFILLMENT FUND.",
+   "url": "https://code.wvlegislature.gov/12-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-9/",
+     "sha256": "8f04fbb945d97c6f612fefc0f76de8a98f3246c4061718342497cdce562362e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12-article-0010",
+   "short": "W. Va. Code 12-10",
+   "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 10. PROMPT PAYMENT ACT OF 2025.",
+   "url": "https://code.wvlegislature.gov/12-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/12-10/",
+     "sha256": "bec99893162a7e91b420ee54edaca7eb97f534d8b43d4f234a8723c4c09a95cd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0001",
+   "short": "W. Va. Code 13-1",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 1. BOND ISSUES FOR ORIGINAL INDEBTEDNESS.",
+   "url": "https://code.wvlegislature.gov/13-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 38,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-1/",
+     "sha256": "fe5b66b242f4eed0fe5d9cfb992e0c239ce3f8886caca9dd729937b3cc68edb9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002",
+   "short": "W. Va. Code 13-2",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2. REFUNDING BONDS.",
+   "url": "https://code.wvlegislature.gov/13-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2/",
+     "sha256": "c2af58a183e25f62046cbc4f930c33d1560b07f72dd932e0e03977d77cda99f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002a",
+   "short": "W. Va. Code 13-2A",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2A. REVENUE BOND REFINANCING.",
+   "url": "https://code.wvlegislature.gov/13-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2A/",
+     "sha256": "66257a8708c5f091660f3aa4d89b356e6ccd37bf334a0e0229d116af0cbaf3aa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002b",
+   "short": "W. Va. Code 13-2B",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2B. VALIDATION.",
+   "url": "https://code.wvlegislature.gov/13-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2B/",
+     "sha256": "fa1bd0c36db8cb958e6c6adb278c6d8703f04b48d3dda902c5a1487e5daf7357"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002c",
+   "short": "W. Va. Code 13-2C",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2C. INDUSTRIAL DEVELOPMENT AND COMMERCIAL DEVELOPMENT BOND ACT.",
+   "url": "https://code.wvlegislature.gov/13-2C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2C/",
+     "sha256": "46e033d0e88b82f52d0a1560dc4967a42cd2c0573456047a70d8c4bdedacde17"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002d",
+   "short": "W. Va. Code 13-2D",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2D. AIRPORT DEVELOPMENT BOND ACT.",
+   "url": "https://code.wvlegislature.gov/13-2D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2D/",
+     "sha256": "91918e4292bb0e837489ff3563de7b2f9c95ee05c5c16512da222260e3cb18ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002e",
+   "short": "W. Va. Code 13-2E",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2E. REVENUE BOND REFUNDING ACT.",
+   "url": "https://code.wvlegislature.gov/13-2E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2E/",
+     "sha256": "838a06ec153d1c213678df6a49294875cff6417122abdd54a613d34fbbc23508"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002f",
+   "short": "W. Va. Code 13-2F",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2F. PUBLIC OBLIGATIONS REGISTRATION ACT.",
+   "url": "https://code.wvlegislature.gov/13-2F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2F/",
+     "sha256": "a3e57578402aebe1a0051173acdeb114b0f48cdffc47e435d75ba52a7163360f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002g",
+   "short": "W. Va. Code 13-2G",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2G. STATE REFUNDING BOND ACT.",
+   "url": "https://code.wvlegislature.gov/13-2G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2G/",
+     "sha256": "d2292029f6027fb54d90b0b34355c5347ed78f1aa1ebea612fc60e9f4d52f4cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0002h",
+   "short": "W. Va. Code 13-2H",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2H. LOTTERY REVENUE BOND ACT.",
+   "url": "https://code.wvlegislature.gov/13-2H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-2H/",
+     "sha256": "ff821659136be6cb09722c8144f27c2c0aa870de0f557e9fad5515188c26ee8a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0003",
+   "short": "W. Va. Code 13-3",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 3. MUNICIPAL BOND COMMISSION.",
+   "url": "https://code.wvlegislature.gov/13-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-3/",
+     "sha256": "504cc86d8f7023322aacd10990f69f5827a55072e37984eac4bb033331a5c875"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13-article-0004",
+   "short": "W. Va. Code 13-4",
+   "title": "West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 4. FEDERAL SUBSIDY BONDS.",
+   "url": "https://code.wvlegislature.gov/13-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/13-4/",
+     "sha256": "50b5c96db5268d1ad19fdf91a1993a4df7296afd8f5a354ddc9ca7729c63f5c0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0001",
+   "short": "W. Va. Code 14-1",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 1. CLAIMS DUE THE STATE.",
+   "url": "https://code.wvlegislature.gov/14-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 40,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-1/",
+     "sha256": "024e68dfecd6640393688aa3c4b753ea4ecc5d0396ce3dbb0394f55530885e89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0001a",
+   "short": "W. Va. Code 14-1A",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 1A. DEBT RESOLUTION SERVICES.",
+   "url": "https://code.wvlegislature.gov/14-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-1A/",
+     "sha256": "4ca649925c947a8fad3a6be33be33b212872b08e395e7ab5af9231a985881d37"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0002",
+   "short": "W. Va. Code 14-2",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 2. CLAIMS AGAINST THE STATE.",
+   "url": "https://code.wvlegislature.gov/14-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 33,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-2/",
+     "sha256": "1f569d8633463a3ac0e6013466a656aa7630021cce42f01b4627bab141e0a29f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0002a",
+   "short": "W. Va. Code 14-2A",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 2A. COMPENSATION AWARDS TO VICTIMS OF CRIMES.",
+   "url": "https://code.wvlegislature.gov/14-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 33,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-2A/",
+     "sha256": "34cfe4f13397646b7f6720540558ad30a8eecf2879d428b98ba1d215a11725f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0002b",
+   "short": "W. Va. Code 14-2B",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 2B. DISTRIBUTION OF CRIME PROFITS.",
+   "url": "https://code.wvlegislature.gov/14-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-2B/",
+     "sha256": "f61bf7661130731bd2e3df03b2a551cdfadbd66f98e6e481859de32522f7754e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14-article-0003",
+   "short": "W. Va. Code 14-3",
+   "title": "West Virginia Code, CHAPTER 14. CLAIMS DUE AND AGAINST THE STATE. ARTICLE 3. INTEREST ON PUBLIC CONTRACTS.",
+   "url": "https://code.wvlegislature.gov/14-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/14-3/",
+     "sha256": "c30b648ea24165ea70608d770f94eeae1e02c8868d5247a24996f9b19ff51f0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0001",
+   "short": "W. Va. Code 15A-1",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 1",
+   "url": "https://code.wvlegislature.gov/15A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-1/",
+     "sha256": "f6a92bffdb1bf96cfac04994fead75c562ef61f5cb680b21bbab451365ff4914"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0002",
+   "short": "W. Va. Code 15A-2",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 2",
+   "url": "https://code.wvlegislature.gov/15A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-2/",
+     "sha256": "8cd6248732d12e164c08fcdb88dfb6d1bce0759ddafb079fd3e2bef59e0e5f36"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0003",
+   "short": "W. Va. Code 15A-3",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 3",
+   "url": "https://code.wvlegislature.gov/15A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-3/",
+     "sha256": "8869290e58f2f0c858d12b57f2ce45ba54970d1f171e4219f70288639a85a679"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0004",
+   "short": "W. Va. Code 15A-4",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4. CORRECTIONS MANAGEMENT.",
+   "url": "https://code.wvlegislature.gov/15A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-4/",
+     "sha256": "1245e35a37673ccb2352b441361a1b8cc908118fe320931e81ed414b9fa7c4d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0004a",
+   "short": "W. Va. Code 15A-4A",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4A. EXPANDED WORK RELEASE PILOT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/15A-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-4A/",
+     "sha256": "562ede2df6130e61af52223f31a1c8ea7d3d7ce54a8b3a2ecdc017594eaf9692"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0005",
+   "short": "W. Va. Code 15A-5",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 5",
+   "url": "https://code.wvlegislature.gov/15A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-5/",
+     "sha256": "4208614ca94273a674365fa43a2ad403f33f72af41b932f339d52f1d47ae7086"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0006",
+   "short": "W. Va. Code 15A-6",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 6",
+   "url": "https://code.wvlegislature.gov/15A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-6/",
+     "sha256": "accd739df799f750c6aa6e66890650f66961dbfacfe5216d09ef597b271a72f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0007",
+   "short": "W. Va. Code 15A-7",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 7",
+   "url": "https://code.wvlegislature.gov/15A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-7/",
+     "sha256": "effa2327401ae3586406d81f807e0c2a40b6b3664cdbc3efb217c82a7a55caf3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0008",
+   "short": "W. Va. Code 15A-8",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 8",
+   "url": "https://code.wvlegislature.gov/15A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-8/",
+     "sha256": "44dd15337329c1e70a4cfe1dcf2df4fe974d7b8d8a7525cf13c16cbe7531cc59"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0009",
+   "short": "W. Va. Code 15A-9",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 9. OFFICE OF ADMINISTRATIVE HEARINGS.",
+   "url": "https://code.wvlegislature.gov/15A-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-9/",
+     "sha256": "718dd6c7166fcbb39072ee12cd1afe98391b2c421d8072757482b70532be14e3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0010",
+   "short": "W. Va. Code 15A-10",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 10. FIRE MARSHAL.",
+   "url": "https://code.wvlegislature.gov/15A-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 25,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-10/",
+     "sha256": "a2c488b6bd32f824c4eeab27c3b5371e08b0c0dc9a2b14d4e6eda0c65ede52db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0011",
+   "short": "W. Va. Code 15A-11",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 11. FIRE COMMISSION.",
+   "url": "https://code.wvlegislature.gov/15A-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-11/",
+     "sha256": "136a561a6bb65aad685b7cf7d3f4f48671595cfa8dd4e8834022bbd0cb152df3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0012",
+   "short": "W. Va. Code 15A-12",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 12. WEST VIRGINIA FUSION CENTER.",
+   "url": "https://code.wvlegislature.gov/15A-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-12/",
+     "sha256": "adfe3ab50caf9b65c75203d1e1a64e8527ef3a72c082f5af431f63bf6fd03aab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a-article-0013",
+   "short": "W. Va. Code 15A-13",
+   "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 13. OFFICE OF THE INSPECTOR GENERAL.",
+   "url": "https://code.wvlegislature.gov/15A-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/15A-13/",
+     "sha256": "5aeb4ec8cb18d080e3a600194c5bdb6ba3ebc723a742afc251345914164a07fd"
+    }
+   ]
   }
  ]
 }
