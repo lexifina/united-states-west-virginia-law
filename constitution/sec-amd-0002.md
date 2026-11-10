@@ -1,0 +1,3 @@
+# AMD-2. THE IRREDUCIBLE SCHOOL FUND AMENDMENT.
+The accumulation of the school fund provided for in section four of article twelve, of the constitution of this state, shall cease upon the adoption of this amendment, and all money to the credit of said fund over one million dollars, together with the interest on said fund, shall be used for the support of free schools of this state.
+All money and taxes heretofore payable into the treasury under the provisions of said section four, to the credit of the school fund, shall be hereafter paid into the treasury to the credit of the general school fund for the support of the free schools of the state.

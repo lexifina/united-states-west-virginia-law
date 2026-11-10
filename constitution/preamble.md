@@ -1,0 +1,2 @@
+# Preamble
+Since through Divine Providence we enjoy the blessings of civil, political and religious liberty, we, the people of West Virginia, in and through the provisions of this Constitution, reaffirm our faith in and constant reliance upon God and seek diligently to promote, preserve and perpetuate good government in the state of West Virginia for the common welfare, freedom and security of ourselves and our posterity.
