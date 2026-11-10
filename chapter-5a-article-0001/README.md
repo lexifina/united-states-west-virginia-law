@@ -1,0 +1,21 @@
+# West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 1. DEPARTMENT OF ADMINISTRATION.
+
+W. Va. Code 5A-1 · 1 versions, from 2026-10-13 (latest in force: 2026-10-13) · <https://code.wvlegislature.gov/5A-1/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 5A-1-1 | [sec-0005a-0001-0001.md](sec-0005a-0001-0001.md) | 0 |  |
+| § 5A-1-2 | [sec-0005a-0001-0002.md](sec-0005a-0001-0002.md) | 0 |  |
+| § 5A-1-2a | [sec-0005a-0001-0002a.md](sec-0005a-0001-0002a.md) | 0 |  |
+| § 5A-1-2b | [sec-0005a-0001-0002b.md](sec-0005a-0001-0002b.md) | 0 |  |
+| § 5A-1-2c | [sec-0005a-0001-0002c.md](sec-0005a-0001-0002c.md) | 0 |  |
+| § 5A-1-3 | [sec-0005a-0001-0003.md](sec-0005a-0001-0003.md) | 0 |  |
+| § 5A-1-4 | [sec-0005a-0001-0004.md](sec-0005a-0001-0004.md) | 0 |  |
+| § 5A-1-5 | [sec-0005a-0001-0005.md](sec-0005a-0001-0005.md) | 0 |  |
+| § 5A-1-6 | [sec-0005a-0001-0006.md](sec-0005a-0001-0006.md) | 0 |  |
+| § 5A-1-7 | [sec-0005a-0001-0007.md](sec-0005a-0001-0007.md) | 0 |  |
+| § 5A-1-8 | [sec-0005a-0001-0008.md](sec-0005a-0001-0008.md) | 0 |  |
+| § 5A-1-9 | [sec-0005a-0001-0009.md](sec-0005a-0001-0009.md) | 0 |  |
+| § 5A-1-10 | [sec-0005a-0001-0010.md](sec-0005a-0001-0010.md) | 0 |  |
+| § 5A-1-11 | [sec-0005a-0001-0011.md](sec-0005a-0001-0011.md) | 0 |  |
+| § 5A-1-12 | [sec-0005a-0001-0012.md](sec-0005a-0001-0012.md) | 0 |  |
