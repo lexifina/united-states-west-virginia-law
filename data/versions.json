@@ -938,6 +938,3100 @@
      "sha256": "767fb7b3ab94eda47334412bb9141902fce141e83b2515a8ac02f30e79b6a22c"
     }
    ]
+  },
+  {
+   "slug": "constitution",
+   "short": "W. Va. Const.",
+   "title": "Constitution of West Virginia",
+   "url": "https://www.wvlegislature.gov/WVCODE/WV_CON.cfm",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 222,
+     "source_url": "https://www.wvlegislature.gov/WVCODE/WV_CON.cfm",
+     "sha256": "091b85be45ccb6b8f3b6377d98d8ea330755a71bff43b42a078ab5110525f295"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0001",
+   "short": "W. Va. Code 1-1",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 1. LIMITS AND JURISDICTION.",
+   "url": "https://code.wvlegislature.gov/1-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-1/",
+     "sha256": "555dfb162790a8723eab7c5959b4a41f00364dc82e3769533a2efc0c4a015dea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0002",
+   "short": "W. Va. Code 1-2",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 2. APPORTIONMENT OF REPRESENTATION.",
+   "url": "https://code.wvlegislature.gov/1-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-2/",
+     "sha256": "0af12b67f38ccc20d55ade42a5c13a9446640aab8731d2281c090f0094b5e154"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0003",
+   "short": "W. Va. Code 1-3",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 3. CREATION OF NEW COUNTY; CHANGE IN COUNTY LINE.",
+   "url": "https://code.wvlegislature.gov/1-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-3/",
+     "sha256": "e16b3b584a201829e9c19fa567275f166c4d1c91409f24074786a3bd113c679f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0004",
+   "short": "W. Va. Code 1-4",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 4. SEAT OF GOVERNMENT OF POLITICAL SUBDIVISIONS.",
+   "url": "https://code.wvlegislature.gov/1-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-4/",
+     "sha256": "7e8d3dcce1b1101bd1a592eadb92b8ce26457d43fa4155ea33b79818350be3f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0005",
+   "short": "W. Va. Code 1-5",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 5. ACQUISITION AND DISPOSITION OF REAL PROPERTY BY AND BETWEEN PUBLIC BODIES.",
+   "url": "https://code.wvlegislature.gov/1-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-5/",
+     "sha256": "eb478d439fc68ef544ad39d3afbe56bc47887d4ceaad31f35cd426c6fc208f15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0006",
+   "short": "W. Va. Code 1-6",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 6. STATE PURCHASE OF AMERICAN-MADE FLAGS.",
+   "url": "https://code.wvlegislature.gov/1-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-6/",
+     "sha256": "4e4b0e5507aba5701079db00f6bd4450f16279b5d2d31d2dd3ffb04cde5afca5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0007",
+   "short": "W. Va. Code 1-7",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 7. THE PROTECT OUR RIGHT TO UNITE ACT.",
+   "url": "https://code.wvlegislature.gov/1-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-7/",
+     "sha256": "45458687cad6d7f9b78ee3d1e12ae270a9d8ff100e608497fa3f118d844b949e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1-article-0008",
+   "short": "W. Va. Code 1-8",
+   "title": "West Virginia Code, CHAPTER 1. THE STATE AND ITS SUBDIVISIONS. ARTICLE 8. RESTRICTIONS ON POWERS OF STATE AGENCIES AND POLITICAL SUBDIVISIONS.",
+   "url": "https://code.wvlegislature.gov/1-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/1-8/",
+     "sha256": "ee8505934e7d7e32dbe68cd6851a7572edf55ddd50da235119c26c94cc27dee5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-2-article-0001",
+   "short": "W. Va. Code 2-1",
+   "title": "West Virginia Code, CHAPTER 2. COMMON LAW, STATUTES, LEGAL HOLIDAYS, DEFINITIONS AND LEGAL CAPACITY. ARTICLE 1. COMMON LAW.",
+   "url": "https://code.wvlegislature.gov/2-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/2-1/",
+     "sha256": "7da5717d686e3b1968bfa673ee8be8f90c7be9fe6fe94a5befbbdd9c6c2f5020"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-2-article-0002",
+   "short": "W. Va. Code 2-2",
+   "title": "West Virginia Code, CHAPTER 2. COMMON LAW, STATUTES, LEGAL HOLIDAYS, DEFINITIONS AND LEGAL CAPACITY. ARTICLE 2. LEGAL HOLIDAYS; SPECIAL MEMORIAL DAYS; CONSTRUCTION OF STATUTES; DEFINITIONS.",
+   "url": "https://code.wvlegislature.gov/2-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 15,
+     "source_url": "https://code.wvlegislature.gov/pdf/2-2/",
+     "sha256": "a746b50bc7e8b23a7b65b1667eb974ff380a7acb44d34500e4fde59791dcb6d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-2-article-0003",
+   "short": "W. Va. Code 2-3",
+   "title": "West Virginia Code, CHAPTER 2. COMMON LAW, STATUTES, LEGAL HOLIDAYS, DEFINITIONS AND LEGAL CAPACITY. ARTICLE 3. LEGAL CAPACITY.",
+   "url": "https://code.wvlegislature.gov/2-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/2-3/",
+     "sha256": "e51e70a5281e15f792033f3eaa187098d3c57afd2399229f51545a5c09d22670"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0001",
+   "short": "W. Va. Code 3-1",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 1. GENERAL PROVISIONS AND DEFINITIONS.",
+   "url": "https://code.wvlegislature.gov/3-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 56,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-1/",
+     "sha256": "dab5b5d6e0daf4eea209336ecdfff637dea96496735d0c0f941a9384bccc3f9f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0001a",
+   "short": "W. Va. Code 3-1A",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 1A. STATE ELECTION COMMISSION AND SECRETARY OF STATE.",
+   "url": "https://code.wvlegislature.gov/3-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-1A/",
+     "sha256": "d5c36e74b099f7b579c7cac97bfe8369048e093bad9f9bbacae51f0967cace6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0001b",
+   "short": "W. Va. Code 3-1B",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 1B. FAIR CAMPAIGN PRACTICES.",
+   "url": "https://code.wvlegislature.gov/3-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-1B/",
+     "sha256": "30e3f87a93b5fb889a83db4c6ec8cec1adc58c9842910591ed795231b8fe8b13"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0001c",
+   "short": "W. Va. Code 3-1C",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 1C. ACCESSIBLE VOTING TECHNOLOGY ACT.",
+   "url": "https://code.wvlegislature.gov/3-1C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-1C/",
+     "sha256": "10ceb635a20f011348e2304bf77f4d45b7d2ded4dced64dc0f332f5397306ee3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0002",
+   "short": "W. Va. Code 3-2",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 2. REGISTRATION OF VOTERS.",
+   "url": "https://code.wvlegislature.gov/3-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 48,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-2/",
+     "sha256": "2c4b4fa9321f975ad7d75f4dc8ff433562bdb8fdfe946e3f01e2d2910d7cb641"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0003",
+   "short": "W. Va. Code 3-3",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 3. VOTING BY ABSENTEES.",
+   "url": "https://code.wvlegislature.gov/3-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-3/",
+     "sha256": "ef5e32d18010a4db2d2eb9a1c2dfe975ebaae4b1049ed0959e2dc193226685cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0003a",
+   "short": "W. Va. Code 3-3A",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 3A. VOTE BY MAIL PILOT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/3-3A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-3A/",
+     "sha256": "fcbcc008e26c5fb18336ee5cb9036cfa2c43efec8738f3aec84bf2f23650d570"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0003b",
+   "short": "W. Va. Code 3-3B",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 3B. UNIFORMED SERVICES AND OVERSEAS VOTER PILOT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/3-3B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-3B/",
+     "sha256": "f46cc48ae2a8291154e037038702887aa3fecfa819ee1689c8038f942a31a638"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0004",
+   "short": "W. Va. Code 3-4",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 4. VOTING MACHINES.",
+   "url": "https://code.wvlegislature.gov/3-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 33,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-4/",
+     "sha256": "cbccd3b71b270f74ba63da07cdcf35c614300a1a1fee3d19ef744feeb438e4bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0004a",
+   "short": "W. Va. Code 3-4A",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 4A. ELECTRONIC VOTING SYSTEMS.",
+   "url": "https://code.wvlegislature.gov/3-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 41,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-4A/",
+     "sha256": "684d6154b3d858aa50a2600b041ba87ad436d253f60db180adbc013070a1dc14"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0005",
+   "short": "W. Va. Code 3-5",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 5. PRIMARY ELECTIONS AND NOMINATING PROCEDURES.",
+   "url": "https://code.wvlegislature.gov/3-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 32,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-5/",
+     "sha256": "283f6869da0455c316f4548ad66623f3b1e463ae8140f749c2cf45292518e7ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0006",
+   "short": "W. Va. Code 3-6",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 6. CONDUCT AND ADMINISTRATION OF ELECTIONS.",
+   "url": "https://code.wvlegislature.gov/3-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-6/",
+     "sha256": "bf19f85ba3a0393a4d09cde9be2f39f945b2fedf1410d86267154059d27d8cf3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0007",
+   "short": "W. Va. Code 3-7",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 7. CONTESTED ELECTIONS.",
+   "url": "https://code.wvlegislature.gov/3-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-7/",
+     "sha256": "3a587efcc4d5f06d14f531aa6f43eac4bbeac113a469493717c1bf79d3592f00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0008",
+   "short": "W. Va. Code 3-8",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 8. REGULATION AND CONTROL OF ELECTIONS.",
+   "url": "https://code.wvlegislature.gov/3-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-8/",
+     "sha256": "f7e4e0e849e17c429b33a2b25ae5f05e6680c22558049f781167e4dec254456c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0009",
+   "short": "W. Va. Code 3-9",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 9. OFFENSES AND PENALTIES.",
+   "url": "https://code.wvlegislature.gov/3-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 24,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-9/",
+     "sha256": "8d06fd4317dd526dbb2e4d48fd642df5568e6cb24a2b9fab46fab8c7f0cf6411"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0010",
+   "short": "W. Va. Code 3-10",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 10. FILLING VACANCIES.",
+   "url": "https://code.wvlegislature.gov/3-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-10/",
+     "sha256": "4e4e4fbc38b4913a99f48910a701a87579128b74bfadc7000e7ea5958b2b14e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0011",
+   "short": "W. Va. Code 3-11",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 11. AMENDMENTS TO THE STATE CONSTITUTION.",
+   "url": "https://code.wvlegislature.gov/3-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-11/",
+     "sha256": "dfbfd649360e8bae64eafb3fd898d5cb59ad67633335215a83f3f805aac3f6ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3-article-0012",
+   "short": "W. Va. Code 3-12",
+   "title": "West Virginia Code, CHAPTER 3. ELECTIONS. ARTICLE 12. WEST VIRGINIA SUPREME COURT OF APPEALS PUBLIC CAMPAIGN FINANCING PILOT PROGRAM.",
+   "url": "https://code.wvlegislature.gov/3-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/3-12/",
+     "sha256": "105d81784776c1abfef1e4257aedfb39690731a99e4612251588eb6fe4827f1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0001",
+   "short": "W. Va. Code 4-1",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 1. OFFICERS, MEMBERS AND EMPLOYEES; APPROPRIATIONS; INVESTIGATIONS; DISPLAY OF FLAGS; RECORDS; USE OF CAPITOL BUILDING; PREFILING OF BILLS AND RESOLUTIONS; STANDING COMMITTEES; INTERIM MEETINGS; NEXT MEETING OF THE SENATE.",
+   "url": "https://code.wvlegislature.gov/4-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 26,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-1/",
+     "sha256": "440d90afb78ac633e9fe28d633e76be3fafdf6d01af6cc51e241ee5a877f54ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0001a",
+   "short": "W. Va. Code 4-1A",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 1A. LEGISLATIVE IMMUNITY.",
+   "url": "https://code.wvlegislature.gov/4-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-1A/",
+     "sha256": "75a2190890f527cd3eed6a99ae8124228e6cafe208036b4b094029acbf083b45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0002",
+   "short": "W. Va. Code 4-2",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 2. LEGISLATIVE AUDITOR; POWERS; FUNCTIONS; DUTIES; COMPENSATION.",
+   "url": "https://code.wvlegislature.gov/4-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-2/",
+     "sha256": "54f2ec37dcf8c1aabe01d4b41e9cf7d61a98922281174b478cb194ad9329d339"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0002a",
+   "short": "W. Va. Code 4-2A",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 2A. COMPENSATION FOR AND EXPENSES OF MEMBERS OF THE LEGISLATURE.",
+   "url": "https://code.wvlegislature.gov/4-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-2A/",
+     "sha256": "12172fb114a555d23c2c2ce6391804f9b1b4c0590ec1a294cc425084d210c377"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0002b",
+   "short": "W. Va. Code 4-2B",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 2B. WORK GROUPS.",
+   "url": "https://code.wvlegislature.gov/4-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-2B/",
+     "sha256": "2c4e9ed53a305f6220c009d85823606c91b56ac68a600d3e1b5e603b671b87a0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0002c",
+   "short": "W. Va. Code 4-2C",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 2C. JUDICIAL COMPENSATION COMMISSION.",
+   "url": "https://code.wvlegislature.gov/4-2C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-2C/",
+     "sha256": "76629c23d4e70f2cbd5083382f6584a702e993780b33770f7b551e019423bb2d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0003",
+   "short": "W. Va. Code 4-3",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 3. JOINT COMMITTEE ON GOVERNMENT AND FINANCE.",
+   "url": "https://code.wvlegislature.gov/4-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-3/",
+     "sha256": "49412f0c1ea40220e9c002220dd08b4ed82f8dbc63acc8e541f4a9daf7937d5f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0004",
+   "short": "W. Va. Code 4-4",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 4. CITIZENS HEARING COMMITTEE.",
+   "url": "https://code.wvlegislature.gov/4-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-4/",
+     "sha256": "feb67ccb765e179c8e27512dd478e478ba43d9fd51401ae24788ff65ac7b4403"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0005",
+   "short": "W. Va. Code 4-5",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 5. COMMISSION ON SPECIAL INVESTIGATIONS.",
+   "url": "https://code.wvlegislature.gov/4-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-5/",
+     "sha256": "fca1c5ef9a885d38a5bcfde9862408428c09c6bca95e22280415e6d4ad5d991c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0006",
+   "short": "W. Va. Code 4-6",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 6. BLENNERHASSETT HISTORICAL COMMISSION.",
+   "url": "https://code.wvlegislature.gov/4-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-6/",
+     "sha256": "f93211ea3819280d8aaa7a70191c913db1db55b04dc040a73c9680679e4de90b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0007",
+   "short": "W. Va. Code 4-7",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 7. LEGISLATIVE BUILDING COMMISSION.",
+   "url": "https://code.wvlegislature.gov/4-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-7/",
+     "sha256": "04d1a659042596e0b820b574d150f9cc85a2016278b31b4922e757fc8dd1622b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0008",
+   "short": "W. Va. Code 4-8",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 8. CAPITOL BUILDING COMMISSION.",
+   "url": "https://code.wvlegislature.gov/4-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-8/",
+     "sha256": "a537efd5d1d23a1b78fc62344e7ef9feb67c869e28d8bda9b56fed79edaf1ce8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0009",
+   "short": "W. Va. Code 4-9",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 9. LEGISLATIVE COMMISSION ON PENSIONS AND RETIREMENT.",
+   "url": "https://code.wvlegislature.gov/4-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-9/",
+     "sha256": "4360b57fa9d1926386c11ff716c63d113042a703b8b41e9eb01cf544655c9b03"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0010",
+   "short": "W. Va. Code 4-10",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 10. PERFORMANCE REVIEW ACT.",
+   "url": "https://code.wvlegislature.gov/4-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-10/",
+     "sha256": "8c45531874759b5ddbc8287c353ac6d6435e431d955bae1aa32d630dd304b06a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0011",
+   "short": "W. Va. Code 4-11",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 11. LEGISLATIVE APPROPRIATION OF FEDERAL FUNDS.",
+   "url": "https://code.wvlegislature.gov/4-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-11/",
+     "sha256": "c3a820984a7096fdfa9be9365fd195629adec67ef15668d667e25ba904cdce26"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0011a",
+   "short": "W. Va. Code 4-11A",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 11A. LEGISLATIVE APPROPRIATION OF TOBACCO SETTLEMENT FUNDS.",
+   "url": "https://code.wvlegislature.gov/4-11A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-11A/",
+     "sha256": "d0a4b54a59e464ed18a573b4b1f75888b6a509aa67a9c75e316839cee3a46414"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0012",
+   "short": "W. Va. Code 4-12",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 12. ESTABLISHMENT OF A WEST VIRGINIA LAW INSTITUTE.",
+   "url": "https://code.wvlegislature.gov/4-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-12/",
+     "sha256": "4c56c2061059f186ba7edfaff32273e9b8939f945d2773f0e8bb99bc6eaefd55"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0013",
+   "short": "W. Va. Code 4-13",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13. WEST VIRGINIA SESQUICENTENNIAL OF THE AMERICAN CIVIL WAR COMMISSION AND FUND.",
+   "url": "https://code.wvlegislature.gov/4-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-13/",
+     "sha256": "acdec25904dec5b5055995505e7bb98bac4f289f6cbae41cc350ac521ef5de5b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0013a",
+   "short": "W. Va. Code 4-13A",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13A. WEST VIRGINIA SEMIQUINCENTENNIAL COMMISSION AND FUND.",
+   "url": "https://code.wvlegislature.gov/4-13A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-13A/",
+     "sha256": "5d4069811ec10547b2cb47cb1c8087ea6905e57ce07d375cae618be539808c8e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0014",
+   "short": "W. Va. Code 4-14",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 14. LEGISLATIVE OVERSIGHT COMMISSION ON DEPARTMENT OF TRANSPORTATION ACCOUNTABILITY.",
+   "url": "https://code.wvlegislature.gov/4-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-14/",
+     "sha256": "f3469ed77bc17acafa210b84249f3f7f3714f5ce5f35e41a70c749958117639c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4-article-0015",
+   "short": "W. Va. Code 4-15",
+   "title": "West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 15. JOINT LEGISLATIVE COMMITTEE ON FLOODING.",
+   "url": "https://code.wvlegislature.gov/4-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/4-15/",
+     "sha256": "996ca76ac0ef56da1334c475afe9093cf63252ab8ed3abcac4111bf0d0e85b6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001",
+   "short": "W. Va. Code 5-1",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1. THE GOVERNOR.",
+   "url": "https://code.wvlegislature.gov/5-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 31,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1/",
+     "sha256": "690edca11d5a2de020f43969c0de4d392f84f83a8ba1032a9ec72297892b0430"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001a",
+   "short": "W. Va. Code 5-1A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1A. ITEMIZATION OF PROPOSED APPROPRIATIONS IN BUDGET BILL SUBMITTED BY GOVERNOR TO LEGISLATURE.",
+   "url": "https://code.wvlegislature.gov/5-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1A/",
+     "sha256": "462fc527e5426ff7147aabf4001ca4c03d0ae4ba38ee951e7d376dc502626ddc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001b",
+   "short": "W. Va. Code 5-1B",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1B. CHIEF TECHNOLOGY OFFICER.",
+   "url": "https://code.wvlegislature.gov/5-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1B/",
+     "sha256": "ecd1a17af037809ceadc5733964ab7b45c88525b9881f501207dd28b9d0121b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001c",
+   "short": "W. Va. Code 5-1C",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1C. SCIENCE AND TECHNOLOGY COUNCIL.",
+   "url": "https://code.wvlegislature.gov/5-1C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1C/",
+     "sha256": "428e2a3fa7d780cee8bfddc95fddc053b4d619ee40af3f40314e2ee3fb051ce0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001d",
+   "short": "W. Va. Code 5-1D",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1D. GOVERNOR'S OFFICE OF FISCAL RISK ANALYSIS AND MANAGEMENT.",
+   "url": "https://code.wvlegislature.gov/5-1D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1D/",
+     "sha256": "60ce5bd0e56621752ad8bbf6844f727346fc801a46959be4a5219a14fc00ad89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0001e",
+   "short": "W. Va. Code 5-1E",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1E. HEALTHY WEST VIRGINIA PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5-1E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-1E/",
+     "sha256": "40b8e466301990c281ada8058d7d9ab380c81b0e0d5b246c6dc047e1a793a2c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0002",
+   "short": "W. Va. Code 5-2",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 2. SECRETARY OF STATE.",
+   "url": "https://code.wvlegislature.gov/5-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-2/",
+     "sha256": "bacd7d396ac3a398c7588de9e9cf117e5fce470f04b7e4ae9205b3b0c2665b90"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0003",
+   "short": "W. Va. Code 5-3",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 3. ATTORNEY GENERAL.",
+   "url": "https://code.wvlegislature.gov/5-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-3/",
+     "sha256": "d7b547251ee1900a2f8ef717b453ed5f69252dd25ee171300995feaebfe6897e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0004",
+   "short": "W. Va. Code 5-4",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 4. BOARD OF PUBLIC WORKS.",
+   "url": "https://code.wvlegislature.gov/5-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-4/",
+     "sha256": "b59536d4740f739e54d0b5361fdfe6ba0273eb5fbc229a023ae8e71ac3d1d5a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0005",
+   "short": "W. Va. Code 5-5",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 5. SALARY INCREASE FOR STATE EMPLOYEES.",
+   "url": "https://code.wvlegislature.gov/5-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-5/",
+     "sha256": "dae2d433ed73f0b40840cb9212647a2246eb93fdb5b00833349dae72fb2a6e15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0006",
+   "short": "W. Va. Code 5-6",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 6. STATE BUILDINGS.",
+   "url": "https://code.wvlegislature.gov/5-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-6/",
+     "sha256": "78c76d52faf9f434c79285d30408756aa58e79e2627a35184af60463ba0e6aad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0007",
+   "short": "W. Va. Code 5-7",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 7. SOCIAL SECURITY AGENCY.",
+   "url": "https://code.wvlegislature.gov/5-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-7/",
+     "sha256": "7934f1fbde2192f8cf141738a555f1c8805463378e7e6e0522796ae95d35cf02"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0008",
+   "short": "W. Va. Code 5-8",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 8. PUBLIC RECORDS MANAGEMENT AND PRESERVATION ACT.",
+   "url": "https://code.wvlegislature.gov/5-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-8/",
+     "sha256": "d7cfdaf7792f842b22794f3baf35fb5e65b573860141fcb61125bca6dd80fa2e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0009",
+   "short": "W. Va. Code 5-9",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 9. DEPARTMENT OF COMMERCE.",
+   "url": "https://code.wvlegislature.gov/5-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-9/",
+     "sha256": "d368062856ec5bcd2c5031cf2e3fa09c2d2aedf39414e6138a71510093e007d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0010",
+   "short": "W. Va. Code 5-10",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 10. WEST VIRGINIA PUBLIC EMPLOYEES RETIREMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 80,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-10/",
+     "sha256": "47d39e479c408ab23137a280352774c03355c08131b06d82f3cf67c06bb23ae3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0010a",
+   "short": "W. Va. Code 5-10A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 10A. DISQUALIFICATION FOR PUBLIC RETIREMENT PLAN BENEFITS.",
+   "url": "https://code.wvlegislature.gov/5-10A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-10A/",
+     "sha256": "afb0cf879987a37664e89556d5d846ff14669c8b22f9649ec3b1028e2723a0b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0010b",
+   "short": "W. Va. Code 5-10B",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 10B. GOVERNMENT EMPLOYEES DEFERRED COMPENSATION PLANS.",
+   "url": "https://code.wvlegislature.gov/5-10B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-10B/",
+     "sha256": "2e9c619cd7af4185f07815d0557a883519800b6b5993f672dbdd94f09626fb43"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0010c",
+   "short": "W. Va. Code 5-10C",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 10C. GOVERNMENT EMPLOYEES RETIREMENT PLANS.",
+   "url": "https://code.wvlegislature.gov/5-10C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-10C/",
+     "sha256": "a685458338869a345e4ce791e699b4f53d4fcf36c92498af4bcf09d2336e4f1e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0010d",
+   "short": "W. Va. Code 5-10D",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 10D. CONSOLIDATED PUBLIC RETIREMENT BOARD.",
+   "url": "https://code.wvlegislature.gov/5-10D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-10D/",
+     "sha256": "684f1018b6a8202ec85cd472bf06ca9f9b70a4c0e35b927cdb4c1dbecd1544c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0011",
+   "short": "W. Va. Code 5-11",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 11. HUMAN RIGHTS COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-11/",
+     "sha256": "0d4acc89feb68b704ce487bf7fe8f3a8c37b6d956431b1639f8c4cee9dbde3ed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0011a",
+   "short": "W. Va. Code 5-11A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 11A. WEST VIRGINIA FAIR HOUSING ACT.",
+   "url": "https://code.wvlegislature.gov/5-11A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-11A/",
+     "sha256": "0e40cf0d91014af84cd7aeede50b18abcaf0e18679362b234f3f7790347e1ce4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0011b",
+   "short": "W. Va. Code 5-11B",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 11B. PREGNANT WORKERS FAIRNESS ACT.",
+   "url": "https://code.wvlegislature.gov/5-11B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-11B/",
+     "sha256": "9e9b4d1fd2a4280f791c4a0a76584f7a77f669ade4721381fc33abebba5047ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0012",
+   "short": "W. Va. Code 5-12",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 12. WEST VIRGINIA ANTIQUITIES COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-12/",
+     "sha256": "609748ef6d56ed2f030e4b766a438dedf01c3a4a56cbdf044ed4bf307a35fbd5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0013",
+   "short": "W. Va. Code 5-13",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 13. PUBLIC EMPLOYEES' AND TEACHERS' RECIPROCAL SERVICE CREDIT ACT.",
+   "url": "https://code.wvlegislature.gov/5-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-13/",
+     "sha256": "89a4e8a52f3ad1544958954a7f67b2c8caa013e62ec6978300bc700f0960e79a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0014",
+   "short": "W. Va. Code 5-14",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 14. WEST VIRGINIA COMMISSION FOR THE DEAF AND HARD-OF-HEARING.",
+   "url": "https://code.wvlegislature.gov/5-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-14/",
+     "sha256": "d7801c5fd4b2553ce4d106cc51333db76296bf04c18351580c310f2046971cad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0014a",
+   "short": "W. Va. Code 5-14A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 14A. WEST VIRGINIA INTERPRETER FOR THE DEAF ACT.",
+   "url": "https://code.wvlegislature.gov/5-14A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-14A/",
+     "sha256": "69ee6711446d29795d2bdfb2263095ee4e119c9674dea98bac99f0078afeb999"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0015",
+   "short": "W. Va. Code 5-15",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 15. WHITE CANE LAW.",
+   "url": "https://code.wvlegislature.gov/5-15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-15/",
+     "sha256": "c4dabdc4dc2a4ad9b61572bd04a567bf77c8e4524541c644e1d158664d9ea7b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0016",
+   "short": "W. Va. Code 5-16",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 16. WEST VIRGINIA PUBLIC EMPLOYEES INSURANCE ACT.",
+   "url": "https://code.wvlegislature.gov/5-16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 48,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-16/",
+     "sha256": "50096cce12e59288f354f062adcb0eadff4208fe58488160098d52c1debf20f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0016a",
+   "short": "W. Va. Code 5-16A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 16A. THE WEST VIRGINIA HEALTH CARE INSURANCE ACT.",
+   "url": "https://code.wvlegislature.gov/5-16A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-16A/",
+     "sha256": "ae39f47ceb19618e02b0f420ef2aeb6c7aaa10e9f441df70bec3e9fafc2ac012"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0016b",
+   "short": "W. Va. Code 5-16B",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 16B. WEST VIRGINIA CHILDREN'S HEALTH INSURANCE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5-16B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-16B/",
+     "sha256": "0b22c896d86c801f840f2235309e26e5a5cb9eb9b86791b9d4d898aec15f7afb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0016c",
+   "short": "W. Va. Code 5-16C",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 16C. PRESCRIPTION DRUG COST MANAGEMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5-16C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-16C/",
+     "sha256": "efca44324e28969e4a6ed7dae2c29e29da4aea6dbf0f66ac91515326ea16dd15"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0016d",
+   "short": "W. Va. Code 5-16D",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 16D. WEST VIRGINIA RETIREMENT HEALTH BENEFIT TRUST FUND.",
+   "url": "https://code.wvlegislature.gov/5-16D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-16D/",
+     "sha256": "66dc07f193f7722fee68d4d8af8777050f4a205250dfbff2079136b305b1a8f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0017",
+   "short": "W. Va. Code 5-17",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 17. WEST VIRGINIA COMMISSION ON ENERGY, ECONOMY AND ENVIRONMENT.",
+   "url": "https://code.wvlegislature.gov/5-17/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-17/",
+     "sha256": "dd1b5a2b4b7418263fdbfb6a0d2b81e7ef8eeb8ec557e512f1f21ee1f2e74f59"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0018",
+   "short": "W. Va. Code 5-18",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 18. WEST VIRGINIA CABLE TELEVISION SYSTEMS ACT.",
+   "url": "https://code.wvlegislature.gov/5-18/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 30,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-18/",
+     "sha256": "6dda1f1dc0fcc22b0720d1127b6080baebf1e842d48494698d087f7580202c5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0018a",
+   "short": "W. Va. Code 5-18A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 18A. TENANTS' RIGHTS TO CABLE SERVICES.",
+   "url": "https://code.wvlegislature.gov/5-18A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-18A/",
+     "sha256": "5f074e5c5dba9d04c2f97a892a4343da6c70be065c7a576d7c8d5ef1b03e38a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0019",
+   "short": "W. Va. Code 5-19",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 19. DOMESTIC ALUMINUM, GLASS AND STEEL IN PUBLIC WORKS PROJECTS.",
+   "url": "https://code.wvlegislature.gov/5-19/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-19/",
+     "sha256": "20565cdf4eabe7d90f074ffc79c32fef23879fd13be35a0c8869108546ae2107"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0020",
+   "short": "W. Va. Code 5-20",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 20. THE GOVERNOR'S COMMISSION ON WILLOW ISLAND.",
+   "url": "https://code.wvlegislature.gov/5-20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-20/",
+     "sha256": "d6609134866b24c2bee6b484ce7bd9ded09e90b3835062755a0f39ee370fd770"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0021",
+   "short": "W. Va. Code 5-21",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 21. ENERGY COST REDUCTION GUIDELINES.",
+   "url": "https://code.wvlegislature.gov/5-21/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-21/",
+     "sha256": "04c1226075b5f6c777e21b373980c9e55d206fb653e7a68daa690e9e00547f40"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0022",
+   "short": "W. Va. Code 5-22",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 22. GOVERNMENT CONSTRUCTION CONTRACTS.",
+   "url": "https://code.wvlegislature.gov/5-22/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-22/",
+     "sha256": "a2bd7f22e0a9c19d809a9adb02cb4f5bca3d91d3611c2c2eaddac80bb4f8e688"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0022a",
+   "short": "W. Va. Code 5-22A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 22A. DESIGN-BUILD PROCUREMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5-22A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-22A/",
+     "sha256": "e442e9bd294da5ac45a05fb2331bb0d00f08745007bcc4544aa517d261a41c31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0022b",
+   "short": "W. Va. Code 5-22B",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 22B. GOVERNMENT CONSTRUCTION MANAGEMENT AT-RISK CONTRACTS.",
+   "url": "https://code.wvlegislature.gov/5-22B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-22B/",
+     "sha256": "8ab9901a644982f943deaa16ae5d561314e4d8954fc6d2efe99aaea8c239756e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0023",
+   "short": "W. Va. Code 5-23",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 23. COMMISSION ON MASS TRANSPORTATION.",
+   "url": "https://code.wvlegislature.gov/5-23/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-23/",
+     "sha256": "ce8febac82cc0ae7a905365b388d1e56eefd878e2b220ff45efa2503b53c380c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0024",
+   "short": "W. Va. Code 5-24",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 24. WEST VIRGINIA FOREST MANAGEMENT REVIEW COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5-24/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-24/",
+     "sha256": "e442c5418f814838049937016f4beb164f77fb89de1977dfa0d9844b9f03a9b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0025",
+   "short": "W. Va. Code 5-25",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 25. RESIDENT TRUSTEE ACCOUNTS.",
+   "url": "https://code.wvlegislature.gov/5-25/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-25/",
+     "sha256": "eabf35795274abf09419a23b6835e33a9a0ed75f76826f4fa84a0c5aaa41f568"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0026",
+   "short": "W. Va. Code 5-26",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 26. HERBERT HENDERSON OFFICE ON MINORITY AFFAIRS.",
+   "url": "https://code.wvlegislature.gov/5-26/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-26/",
+     "sha256": "47aeb413d9f7354b2126f131e540f1946f960a847132c3bd02ab73f697cd315e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0026a",
+   "short": "W. Va. Code 5-26A",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 26A. WEST VIRGINIA COMMISSION FOR NATIONAL AND COMMUNITY SERVICE.",
+   "url": "https://code.wvlegislature.gov/5-26A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-26A/",
+     "sha256": "844ee379cee3c7fdf0fcc9e92b6be36a4f5b1591904ae3a53c6dac06a4438899"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0027",
+   "short": "W. Va. Code 5-27",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 27. SEVERABILITY.",
+   "url": "https://code.wvlegislature.gov/5-27/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-27/",
+     "sha256": "a683c91d2e6a554e49814e215307f33681345bd9f35498b393682b8483e61181"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0028",
+   "short": "W. Va. Code 5-28",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 28. COMMISSION ON HOLOCAUST EDUCATION.",
+   "url": "https://code.wvlegislature.gov/5-28/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-28/",
+     "sha256": "5fc6fb2599cd9c6c4ee40de5503e018ea6199c254a6d097eeb986cb56e916202"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0029",
+   "short": "W. Va. Code 5-29",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 29. EXPEDITIOUS ISSUANCE OF LICENSES BY REGULATORY AGENCIES.",
+   "url": "https://code.wvlegislature.gov/5-29/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-29/",
+     "sha256": "94f1e4a73be7cc6a333027ffa650e3e76629580d54d652dc52e80bdda0cc84e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0030",
+   "short": "W. Va. Code 5-30",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 30. ROSTERS OF INDIVIDUALS AUTHORIZED TO PRACTICE PROFESSIONS, OCCUPATIONS, AND TRADES.",
+   "url": "https://code.wvlegislature.gov/5-30/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-30/",
+     "sha256": "aba7966a38bbe5aa5478e43c8f59eba85def23067230bcf62b931c1f73a8d46d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0031",
+   "short": "W. Va. Code 5-31",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 31. THE WEST VIRGINIA FIRST FOUNDATION.",
+   "url": "https://code.wvlegislature.gov/5-31/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-31/",
+     "sha256": "1616ef0650149a489c4d186ecfe2b9af6f66b431120599db294f9cb73b0f9eb7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0032",
+   "short": "W. Va. Code 5-32",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 32. SEX DEFINITIONS AND PRESERVATION OF SINGLE-SEX SPACES.",
+   "url": "https://code.wvlegislature.gov/5-32/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-32/",
+     "sha256": "1684a3d73f1442514f7eba4f00f8a234a5d57b85a18d1fba0bbf227c5fe87da4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5-article-0033",
+   "short": "W. Va. Code 5-33",
+   "title": "West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 33. EQUAL TREATMENT BY EXECUTIVE BRANCH ACT OF 2025.",
+   "url": "https://code.wvlegislature.gov/5-33/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/5-33/",
+     "sha256": "b28f6b61073eaa014f7cc182fbeb2b356e1db7187beba430ed429d7ff8cdb53d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0001",
+   "short": "W. Va. Code 5B-1",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 1. DEPARTMENT OF COMMERCE.",
+   "url": "https://code.wvlegislature.gov/5B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-1/",
+     "sha256": "3bbf8a2db592f38e108089174f37135acb553401c32d1c873037ebc34d68fc1b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0001a",
+   "short": "W. Va. Code 5B-1A",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 1A. WEST VIRGINIA RAILS TO TRAILS PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-1A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-1A/",
+     "sha256": "ca9be3a5eac44c4e07861d5d95371c951a53d0936e4bac52878c6cde7020b28f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0001b",
+   "short": "W. Va. Code 5B-1B",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 1B. SOUTHERN WEST VIRGINIA LAKE DEVELOPMENT STUDY COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5B-1B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-1B/",
+     "sha256": "0a366a9e6d45acdf2791bfcbf6b62e3910286df271690de91faf0020b38de397"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002",
+   "short": "W. Va. Code 5B-2",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2. DIVISION OF ECONOMIC DEVELOPMENT.",
+   "url": "https://code.wvlegislature.gov/5B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 35,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2/",
+     "sha256": "e5797c28269232e43432263aa67c9b7a127ce73ad8a2181bd8b41066ed28a725"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002a",
+   "short": "W. Va. Code 5B-2A",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2A. TRANSFER OF COALFIELD COMMUNITY DEVELOPMENT PROGRAM TO THE OFFICE OF ENERGY.",
+   "url": "https://code.wvlegislature.gov/5B-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2A/",
+     "sha256": "f5343a3cbd626b534e0eb6dba02b38b48a10581e254ec8e1ed69f9b0ecfaa94e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002b",
+   "short": "W. Va. Code 5B-2B",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2B. WEST VIRGINIA WORKFORCE INVESTMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2B/",
+     "sha256": "35c2ed56d4377b2863576f49c105eb25eef2d740da832e1d455136308736c77c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002c",
+   "short": "W. Va. Code 5B-2C",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2C. WEST VIRGINIA ACADEMY OF SCIENCE AND TECHNOLOGY.",
+   "url": "https://code.wvlegislature.gov/5B-2C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2C/",
+     "sha256": "9d8f6d59128d97a1f2651984cb93bdc5c20516fee9de4a80e13f232cc13b8973"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002d",
+   "short": "W. Va. Code 5B-2D",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2D. WEST VIRGINIA GUARANTEED WORK FORCE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-2D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2D/",
+     "sha256": "09701e47feacda5b2ac29505824347f68c5603675383b6f2aa8e096e1d888944"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002e",
+   "short": "W. Va. Code 5B-2E",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2E. WEST VIRGINIA TOURISM DEVELOPMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2E/",
+     "sha256": "efb6e9a317df02ccbdaf9a0863bd380ed393bd490e82d4db1ad905c87d60198b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002f",
+   "short": "W. Va. Code 5B-2F",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2F. COMPREHENSIVE ENERGY POLICY AND DEVELOPMENT PLAN OF 2026.",
+   "url": "https://code.wvlegislature.gov/5B-2F/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2F/",
+     "sha256": "c3b23190a199f206eeb7fbe7311a16ddeef6311cf26dc319b8a118d19701a112"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002g",
+   "short": "W. Va. Code 5B-2G",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2G. LAND CONSERVATION.",
+   "url": "https://code.wvlegislature.gov/5B-2G/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2G/",
+     "sha256": "7c2611c560691a65cadd2827778f78e73e4011e31387d20406fadb4dd386413c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002h",
+   "short": "W. Va. Code 5B-2H",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2H. MARCELLUS GAS AND MANUFACTURING DEVELOPMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2H/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2H/",
+     "sha256": "6a0b06e88efa0b48dd7c5ea1c75fabf8ca0b820d12aaff0a6fb4ab2f7f9d26e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002i",
+   "short": "W. Va. Code 5B-2I",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2I. DEPARTMENT OF TOURISM.",
+   "url": "https://code.wvlegislature.gov/5B-2I/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2I/",
+     "sha256": "682d0c938b400b26698359ba1637db6f26e7a77368c65d691d2dd3b282f13001"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002j",
+   "short": "W. Va. Code 5B-2J",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2J. NATURAL GAS LIQUIDS ECONOMIC DEVELOPMENT ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2J/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2J/",
+     "sha256": "48beac055d941d608a98c6d87d59ca3083bdcaaea7f1502e26b338fca86eac6f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002k",
+   "short": "W. Va. Code 5B-2K",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2K. COALFIELD COMMUNITIES GRANT FACILITATION COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5B-2K/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2K/",
+     "sha256": "6f275402fc51f4680813ae7f9d15a42dc17f7d24b64daaaa7fb5d0e90372c472"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002l",
+   "short": "W. Va. Code 5B-2L",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2L. BUILD WV ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2L/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2L/",
+     "sha256": "d0835d63e50e1228459a436ea77512d6eae918e2c05f1d00e7b33d78c4b2cf91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002m",
+   "short": "W. Va. Code 5B-2M",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2M. PROMOTING PUBLIC-USE VERTIPORTS ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2M/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2M/",
+     "sha256": "e34fafc5ef5096507c3a1ccece710828be65821fcf79fae44367a737be59a9c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002n",
+   "short": "W. Va. Code 5B-2N",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2N. COMPREHENSIVE GRID STABILIZATION AND ENERGY SECURITY ACT OF 2026.",
+   "url": "https://code.wvlegislature.gov/5B-2N/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2N/",
+     "sha256": "1c7daf98143091e7eeecc89731964e3674ccdf4d38f015ac7911e2fb7aa6d53d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002o",
+   "short": "W. Va. Code 5B-2O",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2O. COAL FIRED GRID STABILIZATION AND SECURITY ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2O/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2O/",
+     "sha256": "c2d17ebaa6fd81cedd4930719abc250a61d00a4cae66d745a33025d24e1f0185"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002p",
+   "short": "W. Va. Code 5B-2P",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2P. OFFICE OF ENTREPRENEURSHIP.",
+   "url": "https://code.wvlegislature.gov/5B-2P/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2P/",
+     "sha256": "c4c145baa75679c1327a6d498c75ed7a73b40488210164b02ca157aa2e182260"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002q",
+   "short": "W. Va. Code 5B-2Q",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2Q. WEST VIRGINIA YOUTH SUMMER EMPLOYMENT AND CAREER READINESS PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-2Q/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2Q/",
+     "sha256": "d6583ad80cfe618ece8c3f0b2a5f786efea09d44074f19e46d3d81ffb297d865"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0002r",
+   "short": "W. Va. Code 5B-2R",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2R. RECHARGE WEST VIRGINIA ACT.",
+   "url": "https://code.wvlegislature.gov/5B-2R/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-2R/",
+     "sha256": "bcc79865395a5a594fc5a3ee6f576646c344c6265e6e9f5f81dcbc2052cdf6ad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0003",
+   "short": "W. Va. Code 5B-3",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 3. WEST VIRGINIA ECONOMIC DEVELOPMENT STRATEGY: A VISION SHARED.",
+   "url": "https://code.wvlegislature.gov/5B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-3/",
+     "sha256": "4413c1ef49ce579c852be2036ff6a5c4313b2ef839dbbd9ef2c578a5d92e4eb3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0004",
+   "short": "W. Va. Code 5B-4",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 4. LABOR-MANAGEMENT COUNCIL.",
+   "url": "https://code.wvlegislature.gov/5B-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-4/",
+     "sha256": "236509c262d8a0167822eaa6e6c5bbba7046206bc6a2c267ca3be97d9adbe9bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0005",
+   "short": "W. Va. Code 5B-5",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 5. EMPLOYEE OWNERSHIP ASSISTANCE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-5/",
+     "sha256": "3d238c7969db2f06befe9f40696e2e2785c3a850e497c41bc8ce29d720f6111e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0006",
+   "short": "W. Va. Code 5B-6",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 6. SMALL BUSINESS EXPANSION ASSISTANCE PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-6/",
+     "sha256": "f7cff9b0cbb6fc17859cdd75d926621d9da2df15ddd6ad7f3a4347a518c6d8cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0007",
+   "short": "W. Va. Code 5B-7",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 7. RECOVERY ZONE BONDS.",
+   "url": "https://code.wvlegislature.gov/5B-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-7/",
+     "sha256": "4414bb8120c34c3413f5158b989b79fc2cb02e6e13e92fdfb3569f54f70389e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0008",
+   "short": "W. Va. Code 5B-8",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 8. SMALL BUSINESS INNOVATION RESEARCH AND SMALL BUSINESS TECHNOLOGY TRANSFER MATCHING FUNDS PROGRAM.",
+   "url": "https://code.wvlegislature.gov/5B-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-8/",
+     "sha256": "57cde5f74b99ae753164df3cbb737638e0a35bf12ff38882a99c7c46edae8e41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0009",
+   "short": "W. Va. Code 5B-9",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 9. FLATWATER TRAIL COMMISSION.",
+   "url": "https://code.wvlegislature.gov/5B-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-9/",
+     "sha256": "a233e045f98434cb5aad675150bc5961cde69c4ebd010371d46d4ddc81897556"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0010",
+   "short": "W. Va. Code 5B-10",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 10. WEST VIRGINIA DEVELOPMENT ACHIEVEMENTS TRANSPARENCY ACT.",
+   "url": "https://code.wvlegislature.gov/5B-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-10/",
+     "sha256": "4436b8923da919c463ffe64c6bb799e0bcf2898872684b979108d8c6b323789f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0011",
+   "short": "W. Va. Code 5B-11",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 11. WEST VIRGINIA ADVANCED ENERGY AND ECONOMIC CORRIDOR AUTHORITY.",
+   "url": "https://code.wvlegislature.gov/5B-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-11/",
+     "sha256": "2c7a8fa7c116ce1dd5f84ac7cff38ef0ae553b4b108c96fa0183c6a8d6606e69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0012",
+   "short": "W. Va. Code 5B-12",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 12. WV FIRST SMALL BUSINESS GROWTH ACT.",
+   "url": "https://code.wvlegislature.gov/5B-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-12/",
+     "sha256": "d3019446b0126ad3db00b20dd08370a912f06e3a5b39036a6a90db94d31f78a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0013",
+   "short": "W. Va. Code 5B-13",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 13. WORKFORCE PELL GRANTS.",
+   "url": "https://code.wvlegislature.gov/5B-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-13/",
+     "sha256": "07d14adbdd4a0d4c4bb4fc824290d4600b5a51e96d4ec16e7c4a9bdd37cf5f18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5b-article-0014",
+   "short": "W. Va. Code 5B-14",
+   "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 14. STRATEGIC AND CRITICAL RESOURCES.",
+   "url": "https://code.wvlegislature.gov/5B-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5B-14/",
+     "sha256": "e4914aa3c2297efe1d90b76eb17284c1bdee754990122a247ef0730e9227f5cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5c-article-0001",
+   "short": "W. Va. Code 5C-1",
+   "title": "West Virginia Code, CHAPTER 5C. BASIC ASSISTANCE FOR INDUSTRY AND TRADE. ARTICLE 1. WEST VIRGINIA INDUSTRY AND JOBS DEVELOPMENT CORPORATION.",
+   "url": "https://code.wvlegislature.gov/5C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/5C-1/",
+     "sha256": "ea75f064e043b403d246c9f070e032e7b022bef90772586bf5884b772cfd1998"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5c-article-0002",
+   "short": "W. Va. Code 5C-2",
+   "title": "West Virginia Code, CHAPTER 5C. BASIC ASSISTANCE FOR INDUSTRY AND TRADE. ARTICLE 2. WEST VIRGINIA CLEAN COAL TECHNOLOGY ACT.",
+   "url": "https://code.wvlegislature.gov/5C-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/5C-2/",
+     "sha256": "4e40ce23f636c24d5f5e92925d46755f7cf92992f9089d44fa16edca603b827f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5d-article-0001",
+   "short": "W. Va. Code 5D-1",
+   "title": "West Virginia Code, CHAPTER 5D. PUBLIC ENERGY AUTHORITY ACT. ARTICLE 1. PUBLIC ENERGY AUTHORITY OF THE STATE OF WEST VIRGINIA.",
+   "url": "https://code.wvlegislature.gov/5D-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://code.wvlegislature.gov/pdf/5D-1/",
+     "sha256": "2d7cd0cb5dfac834770cbacbd23c31566099729fa1ba6d3583d7a65c9f30d4c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5e-article-0001",
+   "short": "W. Va. Code 5E-1",
+   "title": "West Virginia Code, CHAPTER 5E. VENTURE CAPITAL COMPANY. ARTICLE 1. WEST VIRGINIA CAPITAL COMPANY ACT.",
+   "url": "https://code.wvlegislature.gov/5E-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/5E-1/",
+     "sha256": "b73ea40cda3821e1d6263316f9521808cfc0a9d6ad9a1eb023c5ff3eb99cf717"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5e-article-0002",
+   "short": "W. Va. Code 5E-2",
+   "title": "West Virginia Code, CHAPTER 5E. VENTURE CAPITAL COMPANY. ARTICLE 2. WEST VIRGINIA VENTURE CAPITAL ACT.",
+   "url": "https://code.wvlegislature.gov/5E-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/5E-2/",
+     "sha256": "cf76c122b66979e8a2f1613526fec2805493e6434143fe9440c675a80486f12c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5f-article-0001",
+   "short": "W. Va. Code 5F-1",
+   "title": "West Virginia Code, CHAPTER 5F. REORGANIZATION OF THE EXECUTIVE BRANCH OF STATE GOVERNMENT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/5F-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/5F-1/",
+     "sha256": "612f2771474505f7c4b91d1054834e6537f9334434638168685e2b88f758275c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5f-article-0002",
+   "short": "W. Va. Code 5F-2",
+   "title": "West Virginia Code, CHAPTER 5F. REORGANIZATION OF THE EXECUTIVE BRANCH OF STATE GOVERNMENT. ARTICLE 2. TRANSFER OF AGENCIES AND BOARDS.",
+   "url": "https://code.wvlegislature.gov/5F-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/5F-2/",
+     "sha256": "d757114d56d2334e524878d909f33f5e96b5bacf2968a722d5d1f9050ca7167d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5f-article-0003",
+   "short": "W. Va. Code 5F-3",
+   "title": "West Virginia Code, CHAPTER 5F. REORGANIZATION OF THE EXECUTIVE BRANCH OF STATE GOVERNMENT. ARTICLE 3. FUTURE REORGANIZATION; SEVERABILITY.",
+   "url": "https://code.wvlegislature.gov/5F-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/5F-3/",
+     "sha256": "2c7f592b0b302ad4e3fdba35d93999ec31faa45ee8a3c8e5074d89fddbb397af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5g-article-0001",
+   "short": "W. Va. Code 5G-1",
+   "title": "West Virginia Code, CHAPTER 5G. PROCUREMENT OF ARCHITECT-ENGINEER SERVICES BY STATE AND ITS SUBDIVISIONS. ARTICLE 1. PROCUREMENT OF ARCHITECT-ENGINEER SERVICES.",
+   "url": "https://code.wvlegislature.gov/5G-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/5G-1/",
+     "sha256": "0e9791edb1d12bd970c7a3b79ff670410a5ee364c46c26a2d102f446853e6171"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5h-article-0001",
+   "short": "W. Va. Code 5H-1",
+   "title": "West Virginia Code, CHAPTER 5H. SURVIVOR BENEFITS. ARTICLE 1. WEST VIRGINIA EMERGENCY RESPONDERS SURVIVOR BENEFIT ACT.",
+   "url": "https://code.wvlegislature.gov/5H-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/5H-1/",
+     "sha256": "131de693b1bae7c4d566d48ffc816646786235d6a8f65440475e44d38fc86851"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0001",
+   "short": "W. Va. Code 6-1",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 1. OATHS OF OFFICE.",
+   "url": "https://code.wvlegislature.gov/6-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-1/",
+     "sha256": "da6d33dcff58afc1e900705aea6630fad88b6af60459e7d56d07a30d93a9687a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0002",
+   "short": "W. Va. Code 6-2",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 2. OFFICIAL AND OTHER BONDS.",
+   "url": "https://code.wvlegislature.gov/6-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-2/",
+     "sha256": "e20c6d6897313a7cbf0ac80a161b563e3c0f66c46c2aa65fac019c5a1b5c3bb0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0003",
+   "short": "W. Va. Code 6-3",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 3. DEPUTY OFFICERS AND CONSERVATORS OF THE PEACE.",
+   "url": "https://code.wvlegislature.gov/6-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-3/",
+     "sha256": "39954f02f63c9c192894d5632ed7632e4b233d8ab02f073bffe82fe50224e54a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0004",
+   "short": "W. Va. Code 6-4",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 4. CREDENTIALS OF OFFICERS.",
+   "url": "https://code.wvlegislature.gov/6-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-4/",
+     "sha256": "be2d9eeb3ab4aa9ff32b269fd046be7fd8d3168ee9592ca2110ebccc06e65bb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0005",
+   "short": "W. Va. Code 6-5",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 5. TERMS OF OFFICE; MATTERS AFFECTING THE RIGHT TO HOLD OFFICE.",
+   "url": "https://code.wvlegislature.gov/6-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-5/",
+     "sha256": "72ee145aed48851ab93100eba22f9b1e3671b6213bc92a93451e6dd4c56d8801"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0006",
+   "short": "W. Va. Code 6-6",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 6. REMOVAL OF OFFICERS.",
+   "url": "https://code.wvlegislature.gov/6-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-6/",
+     "sha256": "1cbe452b311098c7fd77b554a841ed85bfa7c8422e438ea7232556a22927d9e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0007",
+   "short": "W. Va. Code 6-7",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 7. COMPENSATION AND ALLOWANCES.",
+   "url": "https://code.wvlegislature.gov/6-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-7/",
+     "sha256": "deae00df462a7b55422b80927cf4acacb0d20cd80bb8912c4b0dada682a459c1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0008",
+   "short": "W. Va. Code 6-8",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 8. SETTLEMENTS BY OFFICERS.",
+   "url": "https://code.wvlegislature.gov/6-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-8/",
+     "sha256": "daa1cdcf3d8a79ee6d64de1f7c2d7dd08bc4251c99fbb95444b654405247d7ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0009",
+   "short": "W. Va. Code 6-9",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9. SUPERVISION OF LOCAL GOVERNMENT OFFICES.",
+   "url": "https://code.wvlegislature.gov/6-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 19,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-9/",
+     "sha256": "7cead05c066974d5e07ea65db8b4032d4882555dc5ee41a86fd1b8184d5f6290"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0009a",
+   "short": "W. Va. Code 6-9A",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9A. OPEN GOVERNMENTAL PROCEEDINGS.",
+   "url": "https://code.wvlegislature.gov/6-9A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-9A/",
+     "sha256": "73a304601cba89a30c5fadde931b5fd3d8e710c5c7151342782224900da2473c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0009b",
+   "short": "W. Va. Code 6-9B",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9B",
+   "url": "https://code.wvlegislature.gov/6-9B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-9B/",
+     "sha256": "19ed6782c28ac1ea46246ada6ff83e4c1e00bb1f6e6c080799230ca0a1d180be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0009c",
+   "short": "W. Va. Code 6-9C",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9C. UNIFORM PUBLIC MEETINGS DURING EMERGENCIES ACT.",
+   "url": "https://code.wvlegislature.gov/6-9C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 10,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-9C/",
+     "sha256": "fc03980ae0a5cc29b6333be08dc9aabc962e4ef65176b58688004dce23fbbbee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0009d",
+   "short": "W. Va. Code 6-9D",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9D. LOCAL FISCAL EMERGENCIES.",
+   "url": "https://code.wvlegislature.gov/6-9D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-9D/",
+     "sha256": "f8e422dac76a241f7e147fd6c3221d4ed909963d48495f655bcc7136b6f7f1f7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0010",
+   "short": "W. Va. Code 6-10",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 10. EMPLOYMENT OF WIFE BY STATE OFFICIAL OR EMPLOYEE.",
+   "url": "https://code.wvlegislature.gov/6-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-10/",
+     "sha256": "9b1821e68e09b8bdec66e097415950a615205d539b14433a50e69c14efa1851f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0011",
+   "short": "W. Va. Code 6-11",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 11. LEAVE OF ABSENCE FOR PUBLIC OFFICERS ENTERING MILITARY SERVICE.",
+   "url": "https://code.wvlegislature.gov/6-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-11/",
+     "sha256": "befc46f3c1a2ce88ff5c78406b8ea827e964c417259d269de8317ff3c86e1337"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0011a",
+   "short": "W. Va. Code 6-11A",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 11A. PREFERENCE RATING OF VETERANS ON WRITTEN EXAMINATIONS ON NONPARTISAN MERIT BASIS.",
+   "url": "https://code.wvlegislature.gov/6-11A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-11A/",
+     "sha256": "60f8d18b0abecdfc4bbbaeec896991e531e7374d5e6089df0edb4f18dd3ce49c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0012",
+   "short": "W. Va. Code 6-12",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 12. GENERAL LIABILITY, BODILY INJURY AND PROPERTY DAMAGE INSURANCE BY STATE AND LOCAL GOVERNMENTS.",
+   "url": "https://code.wvlegislature.gov/6-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-12/",
+     "sha256": "716b5d6a91007c94ffc99174d4ef0d07f9e325be6f4bbf5336ed199eb62d8290"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0013",
+   "short": "W. Va. Code 6-13",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 13. PREFERENCE RATING OF VETERANS ON WRITTEN EXAMINATION ON NONPARTISAN MERIT BASIS.",
+   "url": "https://code.wvlegislature.gov/6-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-13/",
+     "sha256": "f4fa2a6b75ed0c1baf2c1143f1e370ef3c0995730423d26071d14c607d4e8153"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6-article-0014",
+   "short": "W. Va. Code 6-14",
+   "title": "West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 14. UNIFORM FACSIMILE SIGNATURES OF PUBLIC OFFICIALS ACT.",
+   "url": "https://code.wvlegislature.gov/6-14/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/6-14/",
+     "sha256": "bc9bf3a1a7601300268b3cedc479dcf3f9884a9654524cbe9a8af28164e94ae3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6a-article-0001",
+   "short": "W. Va. Code 6A-1",
+   "title": "West Virginia Code, CHAPTER 6A. EXECUTIVE AND JUDICIAL SUCCESSION. ARTICLE 1. EXECUTIVE AND JUDICIAL SUCCESSION.",
+   "url": "https://code.wvlegislature.gov/6A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://code.wvlegislature.gov/pdf/6A-1/",
+     "sha256": "75ae811733da073a886a883db65b4d840ba7a5193f714b1446631d65dc98b151"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6b-article-0001",
+   "short": "W. Va. Code 6B-1",
+   "title": "West Virginia Code, CHAPTER 6B. PUBLIC OFFICERS AND EMPLOYEES; ETHICS; CONFLICTS OF INTEREST; FINANCIAL DISCLOSURE. ARTICLE 1. SHORT TITLE; LEGISLATIVE FINDINGS, PURPOSES AND INTENT; CONSTRUCTION AND APPLICATION OF CHAPTER; SEVERABILITY.",
+   "url": "https://code.wvlegislature.gov/6B-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/6B-1/",
+     "sha256": "a7b031a40644f059be1fcc2a7e359d7bd57d9cc1c33d1f7c98454413017e5d84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6b-article-0002",
+   "short": "W. Va. Code 6B-2",
+   "title": "West Virginia Code, CHAPTER 6B. PUBLIC OFFICERS AND EMPLOYEES; ETHICS; CONFLICTS OF INTEREST; FINANCIAL DISCLOSURE. ARTICLE 2. WEST VIRGINIA ETHICS COMMISSION; POWERS AND DUTIES; DISCLOSURE OF FINANCIAL INTEREST BY PUBLIC OFFICIALS AND EMPLOYEES; APPEARANCES BEFORE PUBLIC AGENCIES; CODE OF CONDUCT FOR ADMINISTRATIVE LAW JUDGES.",
+   "url": "https://code.wvlegislature.gov/6B-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://code.wvlegislature.gov/pdf/6B-2/",
+     "sha256": "0f7e4a160be33f924a92cb1b3df57ec931cc5edcdb0da9e69f1046a6aac5b5b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6b-article-0002a",
+   "short": "W. Va. Code 6B-2A",
+   "title": "West Virginia Code, CHAPTER 6B. PUBLIC OFFICERS AND EMPLOYEES; ETHICS; CONFLICTS OF INTEREST; FINANCIAL DISCLOSURE. ARTICLE 2A. RULES.",
+   "url": "https://code.wvlegislature.gov/6B-2A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/6B-2A/",
+     "sha256": "e3384a6e13a1b560e7839b46236017262e8f5e5d30d19dd664a2858ecf2c80fb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6b-article-0002b",
+   "short": "W. Va. Code 6B-2B",
+   "title": "West Virginia Code, CHAPTER 6B. PUBLIC OFFICERS AND EMPLOYEES; ETHICS; CONFLICTS OF INTEREST; FINANCIAL DISCLOSURE. ARTICLE 2B. LIMITATIONS ON A PUBLIC OFFICIAL FROM USING HIS OR HER NAME OR LIKENESS.",
+   "url": "https://code.wvlegislature.gov/6B-2B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/6B-2B/",
+     "sha256": "a4bfa7bdba4136db28901fabbc7951ed439ebac2d4010d0d36dd629e05de115e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6b-article-0003",
+   "short": "W. Va. Code 6B-3",
+   "title": "West Virginia Code, CHAPTER 6B. PUBLIC OFFICERS AND EMPLOYEES; ETHICS; CONFLICTS OF INTEREST; FINANCIAL DISCLOSURE. ARTICLE 3. LOBBYISTS.",
+   "url": "https://code.wvlegislature.gov/6B-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/6B-3/",
+     "sha256": "7055e68578297a3a60c917ce0c65c58b2931338806ac4f6fccdf4d3e436fbab4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6c-article-0001",
+   "short": "W. Va. Code 6C-1",
+   "title": "West Virginia Code, CHAPTER 6C. PUBLIC EMPLOYEES. ARTICLE 1. WHISTLE-BLOWER LAW.",
+   "url": "https://code.wvlegislature.gov/6C-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/6C-1/",
+     "sha256": "8134ae562e4873f268bc9b58901a06ca7fd18e05c66e71045e19c00df4572439"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6c-article-0002",
+   "short": "W. Va. Code 6C-2",
+   "title": "West Virginia Code, CHAPTER 6C. PUBLIC EMPLOYEES. ARTICLE 2. WEST VIRGINIA PUBLIC EMPLOYEES GRIEVANCE PROCEDURE.",
+   "url": "https://code.wvlegislature.gov/6C-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/6C-2/",
+     "sha256": "93f5a6a8ab4716e09cc042f53201e7bb9a66dc8de38d8bb3be69f6c8c2bb9b71"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6c-article-0003",
+   "short": "W. Va. Code 6C-3",
+   "title": "West Virginia Code, CHAPTER 6C. PUBLIC EMPLOYEES. ARTICLE 3. WEST VIRGINIA PUBLIC EMPLOYEES GRIEVANCE BOARD.",
+   "url": "https://code.wvlegislature.gov/6C-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/6C-3/",
+     "sha256": "1f753c95af2f713bfad2376cd309911d2fc770d00761f440234571eed5638490"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6c-article-0004",
+   "short": "W. Va. Code 6C-4",
+   "title": "West Virginia Code, CHAPTER 6C. PUBLIC EMPLOYEES. ARTICLE 4. COMPENSATION TO STATE EMPLOYEES FOR TRAINING, EDUCATION AND PROFESSIONAL DEVELOPMENT.",
+   "url": "https://code.wvlegislature.gov/6C-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/6C-4/",
+     "sha256": "9c66a8f33f5ae19ff6435d46e4e90b7a96172fce978dc5a5dfdea6f5133590fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6d-article-0001",
+   "short": "W. Va. Code 6D-1",
+   "title": "West Virginia Code, CHAPTER 6D. PUBLIC CONTRACTS. ARTICLE 1. DISCLOSURE OF INTERESTED PARTIES.",
+   "url": "https://code.wvlegislature.gov/6D-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/6D-1/",
+     "sha256": "03c14522c6a65b7f9c443b43a39f1648007a84478452587d47dff0e4db5079c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0001",
+   "short": "W. Va. Code 7A-1",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/7A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-1/",
+     "sha256": "1dbeefe63f56edcbeb17f4eef0c8023cc6099f584045dc6f6088746f86ccd87f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0002",
+   "short": "W. Va. Code 7A-2",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 2. POWERS AND LIMITATIONS.",
+   "url": "https://code.wvlegislature.gov/7A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-2/",
+     "sha256": "0fce5c0b9e235af7dbbf2667e8d6b84ebe7655c4cd8202150da084deb22279b1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0003",
+   "short": "W. Va. Code 7A-3",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 3. INITIATING CONSOLIDATION AND ESTABLISHING CHARTER REVIEW COMMITTEE.",
+   "url": "https://code.wvlegislature.gov/7A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-3/",
+     "sha256": "0f20775cc83ca06ab3c018a45e32fdd8f9c2b8a5ddffff214ff75aec1b559d86"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0004",
+   "short": "W. Va. Code 7A-4",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 4. CHARTER REVIEW COMMITTEE.",
+   "url": "https://code.wvlegislature.gov/7A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-4/",
+     "sha256": "dc105eca6e51a80ced3e4ae714682dda73a7c8282011b4c9e499ff5bd8594e7d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0005",
+   "short": "W. Va. Code 7A-5",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 5. MUNICIPAL CONSOLIDATION ELECTION.",
+   "url": "https://code.wvlegislature.gov/7A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-5/",
+     "sha256": "2a48f7aa665e38f7409523485cb81e83f9a66e024f3bfebebe120fb03ee5ee73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0006",
+   "short": "W. Va. Code 7A-6",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 6. ELECTIONS ON COUNTY CONSOLIDATION.",
+   "url": "https://code.wvlegislature.gov/7A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-6/",
+     "sha256": "2484ad5f06284666415ee18cedb7ebe1f5dbe9e55c374dacad55f22d774ebb5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0007",
+   "short": "W. Va. Code 7A-7",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 7. ELECTIONS ON METRO GOVERNMENT.",
+   "url": "https://code.wvlegislature.gov/7A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-7/",
+     "sha256": "f7629dfb777af2dba6ffcb066634d8d2e3a46200266152715e5c6c290834324a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a-article-0008",
+   "short": "W. Va. Code 7A-8",
+   "title": "West Virginia Code, CHAPTER 7A. CONSOLIDATED LOCAL GOVERNMENT. ARTICLE 8. CHARTER AMENDMENT.",
+   "url": "https://code.wvlegislature.gov/7A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/7A-8/",
+     "sha256": "34278dac8136282f8ef2edf554a7fe29765f657ba31d10ba68ae665cd5ab96b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0001",
+   "short": "W. Va. Code 8A-1",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 1. GENERAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/8A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-1/",
+     "sha256": "368ed535845cd3b53c71739dab7443941979ae318839c0f7c054bbb7efc74b98"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0002",
+   "short": "W. Va. Code 8A-2",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 2. PLANNING COMMISSIONS.",
+   "url": "https://code.wvlegislature.gov/8A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-2/",
+     "sha256": "8ebf2c247913fa2e5952d3357af32eb4b2c424577820a69defa6a169eaddba4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0003",
+   "short": "W. Va. Code 8A-3",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 3. COMPREHENSIVE PLAN.",
+   "url": "https://code.wvlegislature.gov/8A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-3/",
+     "sha256": "53d34f260032ad7c8a1af09bb158d072a4c840c80b4f78e4375a4fc901067bcb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0004",
+   "short": "W. Va. Code 8A-4",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 4. SUBDIVISION AND LAND DEVELOPMENT ORDINANCE.",
+   "url": "https://code.wvlegislature.gov/8A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-4/",
+     "sha256": "0631489c95d9fc54b1ba505c3c90ce0ef3955d45f9ca04cea27365f774e5a7b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0005",
+   "short": "W. Va. Code 8A-5",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 5. SUBDIVISION OR LAND DEVELOPMENT PLAN AND PLAT.",
+   "url": "https://code.wvlegislature.gov/8A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-5/",
+     "sha256": "d2a1a5523e607b5972953c31ab60a10f705eb9a1e51e1987d2d5852245e816e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0006",
+   "short": "W. Va. Code 8A-6",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 6. METHODS OF SECURITY.",
+   "url": "https://code.wvlegislature.gov/8A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-6/",
+     "sha256": "8c3f545a819e504ea9a0e90286676fdcd5604174c8578e2a85bd31a0894eafba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0007",
+   "short": "W. Va. Code 8A-7",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 7. ZONING ORDINANCE.",
+   "url": "https://code.wvlegislature.gov/8A-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 14,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-7/",
+     "sha256": "ce2ff2b9a1d2ce62b95f30a49b4d61572d4dc22d9384a9944d5477e815bc1829"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0008",
+   "short": "W. Va. Code 8A-8",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 8. BOARD OF ZONING APPEALS.",
+   "url": "https://code.wvlegislature.gov/8A-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-8/",
+     "sha256": "875447207d84c1ed8caa8ff784fa2dac0091b9aaeebe5dab1cfb0808e3e174be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0009",
+   "short": "W. Va. Code 8A-9",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 9. APPEAL PROCESS.",
+   "url": "https://code.wvlegislature.gov/8A-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 7,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-9/",
+     "sha256": "0217dfb89091e5abee64f10dc1f8728d77661aa42eccbcec0fdeb0560d196721"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0010",
+   "short": "W. Va. Code 8A-10",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 10. ENFORCEMENT PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/8A-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-10/",
+     "sha256": "aea2d0947480b89748f313c5c34b2d0e506a4ebb4775dd1a918b3e5edd943ce3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0011",
+   "short": "W. Va. Code 8A-11",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 11. SPECIAL PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/8A-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-11/",
+     "sha256": "ef08dd0b57c96a8836c34c1859c279736ab04468075d4542f244a71035212ad2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0012",
+   "short": "W. Va. Code 8A-12",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 12. VOLUNTARY FARMLAND PROTECTION PROGRAMS.",
+   "url": "https://code.wvlegislature.gov/8A-12/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-12/",
+     "sha256": "2343de4a165e81af06ad916a402d58d9ad553b501828e4e62744129ca9f4b6e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a-article-0013",
+   "short": "W. Va. Code 8A-13",
+   "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 13. LOCAL PERMITTING DEADLINES.",
+   "url": "https://code.wvlegislature.gov/8A-13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/8A-13/",
+     "sha256": "7227a36357c849db40ee895033ee2fb7c740442fca87d4bfe106c632d78e8261"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0001",
+   "short": "W. Va. Code 9-1",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 1. LEGISLATIVE PURPOSE AND DEFINITIONS.",
+   "url": "https://code.wvlegislature.gov/9-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-1/",
+     "sha256": "5104a74388a3fd30ec66af336956d03133d54d473a5b918ff6db48ae41911a1e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0002",
+   "short": "W. Va. Code 9-2",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 2. COMMISSIONER OF HUMAN SERVICES; POWERS, DUTIES AND RESPONSIBILITIES GENERALLY.",
+   "url": "https://code.wvlegislature.gov/9-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 20,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-2/",
+     "sha256": "73690cdb30833ea0198a7729c0af5db3bb179c49bf068d6013445c07acb62b33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0003",
+   "short": "W. Va. Code 9-3",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 3. APPLICATION FOR AND GRANTING OF ASSISTANCE.",
+   "url": "https://code.wvlegislature.gov/9-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-3/",
+     "sha256": "ea3737cdd8330abe4d39b849bb77ff611bc845b4f625494fc24b4ff0c0c80bea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004",
+   "short": "W. Va. Code 9-4",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4. STATE ADVISORY BOARD; MEDICAL SERVICES FUND; ADVISORY COUNCIL; GENERAL RELIEF FUND.",
+   "url": "https://code.wvlegislature.gov/9-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4/",
+     "sha256": "c29d7aadcc3951aa8c26d741ec117124839bb6f40022bb2e9b1b2b4a144bc5c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004a",
+   "short": "W. Va. Code 9-4A",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4A. MEDICAID UNCOMPENSATED CARE FUND.",
+   "url": "https://code.wvlegislature.gov/9-4A/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4A/",
+     "sha256": "c88a52b84280440be943bccfebf631d84f083ac8ac0344f99b59c0edf5667468"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004b",
+   "short": "W. Va. Code 9-4B",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4B. PHYSICIAN/MEDICAL PRACTITIONER PROVIDER MEDICAID ACT.",
+   "url": "https://code.wvlegislature.gov/9-4B/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4B/",
+     "sha256": "92f8449481553d87f460637ad6febc28839a35bed4050587969f39267c77af7d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004c",
+   "short": "W. Va. Code 9-4C",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4C. HEALTH CARE PROVIDER MEDICAID ENHANCEMENT ACT.",
+   "url": "https://code.wvlegislature.gov/9-4C/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4C/",
+     "sha256": "13c35f7e15322caf3617a35851a32f22227a79e2d811d3dfe9616802dac91548"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004d",
+   "short": "W. Va. Code 9-4D",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4D. MEDICAID BUY-IN PROGRAM.",
+   "url": "https://code.wvlegislature.gov/9-4D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4D/",
+     "sha256": "04f161a1a8e5516610a930fea398ff933ad725caba3eded1680a3e5584d0c51e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0004e",
+   "short": "W. Va. Code 9-4E",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 4E. LONG-TERM CARE PARTNERSHIP PROGRAM.",
+   "url": "https://code.wvlegislature.gov/9-4E/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-4E/",
+     "sha256": "da330a2f065a2b9833f7b5a224a75e53dd655eed95c08a063dda51043fa5de6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0005",
+   "short": "W. Va. Code 9-5",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 5. MISCELLANEOUS PROVISIONS.",
+   "url": "https://code.wvlegislature.gov/9-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 45,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-5/",
+     "sha256": "a522bad7f4162f24a8119650dd517f76f1a30dcc93b4e231f59fb8aec4de5e94"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0006",
+   "short": "W. Va. Code 9-6",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 6. SOCIAL SERVICES FOR ADULTS.",
+   "url": "https://code.wvlegislature.gov/9-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 17,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-6/",
+     "sha256": "1cdf73352ecc9abaaa5868a1129e56037320c14511aa8f3dd5585d14e821e080"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0007",
+   "short": "W. Va. Code 9-7",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 7. FRAUD AND ABUSE IN THE MEDICAID PROGRAM.",
+   "url": "https://code.wvlegislature.gov/9-7/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-7/",
+     "sha256": "dfe915258b5a0ee9de9e45e747043b4b68c277ca596cc8fa9245c1495128a464"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0008",
+   "short": "W. Va. Code 9-8",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 8",
+   "url": "https://code.wvlegislature.gov/9-8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-8/",
+     "sha256": "f86207d841c06546f2c1438a6a0d0beb48cae83feb5bd1578ae65afc819495d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0009",
+   "short": "W. Va. Code 9-9",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 9. WV WORKS ACT.",
+   "url": "https://code.wvlegislature.gov/9-9/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-9/",
+     "sha256": "b7b25a97196f5a47e07c1ce9748643652c55e5564860db6e89afd0a1a8fd23cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0010",
+   "short": "W. Va. Code 9-10",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 10",
+   "url": "https://code.wvlegislature.gov/9-10/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-10/",
+     "sha256": "fa71e7a573f7169ab1bd3207f4ea6638915f6d2f753531ed21218e1835e06a1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9-article-0011",
+   "short": "W. Va. Code 9-11",
+   "title": "West Virginia Code, CHAPTER 9. HUMAN SERVICES. ARTICLE 11. ADDICTION CARE RECOVERY OUTCOMES.",
+   "url": "https://code.wvlegislature.gov/9-11/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/9-11/",
+     "sha256": "bcb38d9d370c0ca6d26a762e4bda83780534a203dedb55ecf8a58eff7a915b73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0001",
+   "short": "W. Va. Code 9A-1",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 1. DEPARTMENT OF VETERANS' ASSISTANCE.",
+   "url": "https://code.wvlegislature.gov/9A-1/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-1/",
+     "sha256": "d2fc9f011ab9f0d74ff577fbc01ed9756d37ab84de3af483ef4699581ce0bd9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0002",
+   "short": "W. Va. Code 9A-2",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 2. STATE HOMES FOR VETERANS.",
+   "url": "https://code.wvlegislature.gov/9A-2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-2/",
+     "sha256": "8722a7b578995dfb5a8d07c7e80748e6fbc4008beaca6d1d4a43423c2f219e7a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0003",
+   "short": "W. Va. Code 9A-3",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 3. STATE CEMETERY FOR VETERANS.",
+   "url": "https://code.wvlegislature.gov/9A-3/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 2,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-3/",
+     "sha256": "5938d47cf2fed5d310f1b3611f46c62d76b3009a7ce909d04a389aaff574aa36"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0004",
+   "short": "W. Va. Code 9A-4",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 4. VETERANS EMPLOYMENT TRAINING PRIORITY.",
+   "url": "https://code.wvlegislature.gov/9A-4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-4/",
+     "sha256": "98b114c1163b25055f9a723f7ad7b3c827d4217ecb12824f0f922ac5ff085e00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0005",
+   "short": "W. Va. Code 9A-5",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 5. AID TO AT-RISK VETERANS.",
+   "url": "https://code.wvlegislature.gov/9A-5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-5/",
+     "sha256": "561ad0a3387183c4a39ec5503655732ace5b38e47d4e5f7114576eab3951c610"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9a-article-0006",
+   "short": "W. Va. Code 9A-6",
+   "title": "West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 6. WEST VIRGINIA MILITARY HALL OF FAME.",
+   "url": "https://code.wvlegislature.gov/9A-6/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://code.wvlegislature.gov/pdf/9A-6/",
+     "sha256": "0fb26e7474d620c3ca3c8c40a82d78192656cd0f3d28acb536fb1136fc5cdb55"
+    }
+   ]
   }
  ]
 }

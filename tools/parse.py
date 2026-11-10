@@ -83,7 +83,7 @@ def main(chapters):
                                          'source': SITE + 'sitemap.xml'},
                'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: West Virginia Code, code.wvlegislature.gov, West Virginia Legislature.'}
     sources = [{'name': 'West Virginia Code (code.wvlegislature.gov)', 'url': SITE, 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site\'s footer reads "Copyright (c) 2026 West Virginia Code" and states no reuse restriction; robots.txt disallows only /wp-admin/.',
+                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site\'s footer reads "Copyright (c) 2026 West Virginia Code" and states no reuse restriction.',
                 'notes': 'Chapters ' + ', '.join(chapters) + '; section text only.'}]
     decisions = [
         'Each act is a single "oldest version available": code.wvlegislature.gov publishes only the current text, with no dated history.',
@@ -91,7 +91,7 @@ def main(chapters):
         'One act per article of a chapter; one unit per section, keyed by the section number the site prints.',
         'Only the section text is taken. The site\'s bill-history and signed-bill widgets are not part of the statute text and are not copied.',
         'Repealed sections keep the lines the site prints for them (heading, "Repealed", and the repealing Act).',
-        'The West Virginia Constitution is not included: the Legislature\'s page for it is under /WVCODE/, which the Legislature\'s robots.txt disallows.']
+        'The West Virginia Constitution is not included: it is not used in this record.']
     write_corpus(HERE, country, sources, out, decisions)
     print(counts)
 

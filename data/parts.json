@@ -1,0 +1,340 @@
+{
+ "parts": {
+  "w4-000-notes.json": {
+   "acts": [],
+   "sha256": "de7e9feea7fa821d4b562643f050db0fec85261144567bf82e25e10581587336"
+  },
+  "w4-ch-0000-constitution.json": {
+   "acts": [
+    "constitution"
+   ],
+   "sha256": "aece5b867faf50812adf48969cedc613aa9355e661b5f84dfbb72a9e809f8c45"
+  },
+  "w4-ch-0001.json": {
+   "acts": [
+    "chapter-1-article-0001",
+    "chapter-1-article-0002",
+    "chapter-1-article-0003",
+    "chapter-1-article-0004",
+    "chapter-1-article-0005",
+    "chapter-1-article-0006",
+    "chapter-1-article-0007",
+    "chapter-1-article-0008"
+   ],
+   "sha256": "363e973c67be1d7f426e2b218dd06283dc32fa81253ba9d444e69fb6c37443a0"
+  },
+  "w4-ch-0002.json": {
+   "acts": [
+    "chapter-2-article-0001",
+    "chapter-2-article-0002",
+    "chapter-2-article-0003"
+   ],
+   "sha256": "d05e333b75a819595be18f8b83b293e7eed819eacc7e5d773c55aae50051f4cb"
+  },
+  "w4-ch-0003.json": {
+   "acts": [
+    "chapter-3-article-0001",
+    "chapter-3-article-0001a",
+    "chapter-3-article-0001b",
+    "chapter-3-article-0001c",
+    "chapter-3-article-0002",
+    "chapter-3-article-0003",
+    "chapter-3-article-0003a",
+    "chapter-3-article-0003b",
+    "chapter-3-article-0004",
+    "chapter-3-article-0004a",
+    "chapter-3-article-0005",
+    "chapter-3-article-0006",
+    "chapter-3-article-0007",
+    "chapter-3-article-0008",
+    "chapter-3-article-0009",
+    "chapter-3-article-0010",
+    "chapter-3-article-0011",
+    "chapter-3-article-0012"
+   ],
+   "sha256": "5c9f131fc6af5403e2f6c404584d6f5986f01795a3a3ef5811530d5a9d3c9ea5"
+  },
+  "w4-ch-0004.json": {
+   "acts": [
+    "chapter-4-article-0001",
+    "chapter-4-article-0001a",
+    "chapter-4-article-0002",
+    "chapter-4-article-0002a",
+    "chapter-4-article-0002b",
+    "chapter-4-article-0002c",
+    "chapter-4-article-0003",
+    "chapter-4-article-0004",
+    "chapter-4-article-0005",
+    "chapter-4-article-0006",
+    "chapter-4-article-0007",
+    "chapter-4-article-0008",
+    "chapter-4-article-0009",
+    "chapter-4-article-0010",
+    "chapter-4-article-0011",
+    "chapter-4-article-0011a",
+    "chapter-4-article-0012",
+    "chapter-4-article-0013",
+    "chapter-4-article-0013a",
+    "chapter-4-article-0014",
+    "chapter-4-article-0015"
+   ],
+   "sha256": "802e80bbe1049d47a50763e2390ae9240a8dbcfa2b77d1c47132ddd46e48cf00"
+  },
+  "w4-ch-0005.json": {
+   "acts": [
+    "chapter-5-article-0001",
+    "chapter-5-article-0001a",
+    "chapter-5-article-0001b",
+    "chapter-5-article-0001c",
+    "chapter-5-article-0001d",
+    "chapter-5-article-0001e",
+    "chapter-5-article-0002",
+    "chapter-5-article-0003",
+    "chapter-5-article-0004",
+    "chapter-5-article-0005",
+    "chapter-5-article-0006",
+    "chapter-5-article-0007",
+    "chapter-5-article-0008",
+    "chapter-5-article-0009",
+    "chapter-5-article-0010",
+    "chapter-5-article-0010a",
+    "chapter-5-article-0010b",
+    "chapter-5-article-0010c",
+    "chapter-5-article-0010d",
+    "chapter-5-article-0011",
+    "chapter-5-article-0011a",
+    "chapter-5-article-0011b",
+    "chapter-5-article-0012",
+    "chapter-5-article-0013",
+    "chapter-5-article-0014",
+    "chapter-5-article-0014a",
+    "chapter-5-article-0015",
+    "chapter-5-article-0016",
+    "chapter-5-article-0016a",
+    "chapter-5-article-0016b",
+    "chapter-5-article-0016c",
+    "chapter-5-article-0016d",
+    "chapter-5-article-0017",
+    "chapter-5-article-0018",
+    "chapter-5-article-0018a",
+    "chapter-5-article-0019",
+    "chapter-5-article-0020",
+    "chapter-5-article-0021",
+    "chapter-5-article-0022",
+    "chapter-5-article-0022a",
+    "chapter-5-article-0022b",
+    "chapter-5-article-0023",
+    "chapter-5-article-0024",
+    "chapter-5-article-0025",
+    "chapter-5-article-0026",
+    "chapter-5-article-0026a",
+    "chapter-5-article-0027",
+    "chapter-5-article-0028",
+    "chapter-5-article-0029",
+    "chapter-5-article-0030",
+    "chapter-5-article-0031",
+    "chapter-5-article-0032",
+    "chapter-5-article-0033"
+   ],
+   "sha256": "0be15c5a41dab23b41caf5a4765fc53ad9d74921446a7023045433c329f5b28a"
+  },
+  "w4-ch-0005b.json": {
+   "acts": [
+    "chapter-5b-article-0001",
+    "chapter-5b-article-0001a",
+    "chapter-5b-article-0001b",
+    "chapter-5b-article-0002",
+    "chapter-5b-article-0002a",
+    "chapter-5b-article-0002b",
+    "chapter-5b-article-0002c",
+    "chapter-5b-article-0002d",
+    "chapter-5b-article-0002e",
+    "chapter-5b-article-0002f",
+    "chapter-5b-article-0002g",
+    "chapter-5b-article-0002h",
+    "chapter-5b-article-0002i",
+    "chapter-5b-article-0002j",
+    "chapter-5b-article-0002k",
+    "chapter-5b-article-0002l",
+    "chapter-5b-article-0002m",
+    "chapter-5b-article-0002n",
+    "chapter-5b-article-0002o",
+    "chapter-5b-article-0002p",
+    "chapter-5b-article-0002q",
+    "chapter-5b-article-0002r",
+    "chapter-5b-article-0003",
+    "chapter-5b-article-0004",
+    "chapter-5b-article-0005",
+    "chapter-5b-article-0006",
+    "chapter-5b-article-0007",
+    "chapter-5b-article-0008",
+    "chapter-5b-article-0009",
+    "chapter-5b-article-0010",
+    "chapter-5b-article-0011",
+    "chapter-5b-article-0012",
+    "chapter-5b-article-0013",
+    "chapter-5b-article-0014"
+   ],
+   "sha256": "43768559843448bcbed4d1fa932d86c0bf62fbe008df70c0c433afbfa83a6ab1"
+  },
+  "w4-ch-0005c.json": {
+   "acts": [
+    "chapter-5c-article-0001",
+    "chapter-5c-article-0002"
+   ],
+   "sha256": "d8f08f9ed042958c0e2191d517e6ed5b360226ff5c9faca96f66fd6a15b43762"
+  },
+  "w4-ch-0005d.json": {
+   "acts": [
+    "chapter-5d-article-0001"
+   ],
+   "sha256": "bed2bb02fc0ee17a664b11989fe620abc7fe7370f837890f22e3bab24d2a65cc"
+  },
+  "w4-ch-0005e.json": {
+   "acts": [
+    "chapter-5e-article-0001",
+    "chapter-5e-article-0002"
+   ],
+   "sha256": "1bec0cd67e550e2c97c6c11782279aba1751ea7e404d24a3b6adc4f08ba78e67"
+  },
+  "w4-ch-0005f.json": {
+   "acts": [
+    "chapter-5f-article-0001",
+    "chapter-5f-article-0002",
+    "chapter-5f-article-0003"
+   ],
+   "sha256": "9f1d5c9629313b991310bd4192d7f20546f1b0c66c7e0eb62cb288226fa9fedf"
+  },
+  "w4-ch-0005g.json": {
+   "acts": [
+    "chapter-5g-article-0001"
+   ],
+   "sha256": "ae055460bc53563f7d2b975fd5ced852301659db602edb4a2bb5cd194a67c32c"
+  },
+  "w4-ch-0005h.json": {
+   "acts": [
+    "chapter-5h-article-0001"
+   ],
+   "sha256": "51682f7fa525c610829bb43f71e3ff4738d77fd34419ed45928f3a132edb8af2"
+  },
+  "w4-ch-0006.json": {
+   "acts": [
+    "chapter-6-article-0001",
+    "chapter-6-article-0002",
+    "chapter-6-article-0003",
+    "chapter-6-article-0004",
+    "chapter-6-article-0005",
+    "chapter-6-article-0006",
+    "chapter-6-article-0007",
+    "chapter-6-article-0008",
+    "chapter-6-article-0009",
+    "chapter-6-article-0009a",
+    "chapter-6-article-0009b",
+    "chapter-6-article-0009c",
+    "chapter-6-article-0009d",
+    "chapter-6-article-0010",
+    "chapter-6-article-0011",
+    "chapter-6-article-0011a",
+    "chapter-6-article-0012",
+    "chapter-6-article-0013",
+    "chapter-6-article-0014"
+   ],
+   "sha256": "8b5ca4a2d649ef018cb208c7eaef0e3085a8f358549be441f3adbbaac1abb159"
+  },
+  "w4-ch-0006a.json": {
+   "acts": [
+    "chapter-6a-article-0001"
+   ],
+   "sha256": "17b01c60c932a9c4c58adc68ce0b407c419ba2868bfca60cbe42119aaab9a957"
+  },
+  "w4-ch-0006b.json": {
+   "acts": [
+    "chapter-6b-article-0001",
+    "chapter-6b-article-0002",
+    "chapter-6b-article-0002a",
+    "chapter-6b-article-0002b",
+    "chapter-6b-article-0003"
+   ],
+   "sha256": "5f53e3ee20f29ddad1497a96c896da048c8bc62da83424d627847ffdea69e533"
+  },
+  "w4-ch-0006c.json": {
+   "acts": [
+    "chapter-6c-article-0001",
+    "chapter-6c-article-0002",
+    "chapter-6c-article-0003",
+    "chapter-6c-article-0004"
+   ],
+   "sha256": "7c4e5e845a1a17e21f9177783eda23061c2a6d62be1af0a12938f4acbbe25401"
+  },
+  "w4-ch-0006d.json": {
+   "acts": [
+    "chapter-6d-article-0001"
+   ],
+   "sha256": "dfc6841ad3795c7114e5162b6b75bdf73fd393654c73b9058216d72662af2eb8"
+  },
+  "w4-ch-0007a.json": {
+   "acts": [
+    "chapter-7a-article-0001",
+    "chapter-7a-article-0002",
+    "chapter-7a-article-0003",
+    "chapter-7a-article-0004",
+    "chapter-7a-article-0005",
+    "chapter-7a-article-0006",
+    "chapter-7a-article-0007",
+    "chapter-7a-article-0008"
+   ],
+   "sha256": "a3bd6931c8f73b2db4d7dc9159b70c18cc3c39bb1743f35a7b28e275c4ed47f7"
+  },
+  "w4-ch-0008a.json": {
+   "acts": [
+    "chapter-8a-article-0001",
+    "chapter-8a-article-0002",
+    "chapter-8a-article-0003",
+    "chapter-8a-article-0004",
+    "chapter-8a-article-0005",
+    "chapter-8a-article-0006",
+    "chapter-8a-article-0007",
+    "chapter-8a-article-0008",
+    "chapter-8a-article-0009",
+    "chapter-8a-article-0010",
+    "chapter-8a-article-0011",
+    "chapter-8a-article-0012",
+    "chapter-8a-article-0013"
+   ],
+   "sha256": "6854a2920cbe2c159b09c615b21a64b252b067e3f588b1e5ef516f667393524d"
+  },
+  "w4-ch-0009.json": {
+   "acts": [
+    "chapter-9-article-0001",
+    "chapter-9-article-0002",
+    "chapter-9-article-0003",
+    "chapter-9-article-0004",
+    "chapter-9-article-0004a",
+    "chapter-9-article-0004b",
+    "chapter-9-article-0004c",
+    "chapter-9-article-0004d",
+    "chapter-9-article-0004e",
+    "chapter-9-article-0005",
+    "chapter-9-article-0006",
+    "chapter-9-article-0007",
+    "chapter-9-article-0008",
+    "chapter-9-article-0009",
+    "chapter-9-article-0010",
+    "chapter-9-article-0011"
+   ],
+   "sha256": "7bcffdcdb95f2318a087e3ebdb0380acd74b717c7c9c8e3a2f74af626a521d05"
+  },
+  "w4-ch-0009a.json": {
+   "acts": [
+    "chapter-9a-article-0001",
+    "chapter-9a-article-0002",
+    "chapter-9a-article-0003",
+    "chapter-9a-article-0004",
+    "chapter-9a-article-0005",
+    "chapter-9a-article-0006"
+   ],
+   "sha256": "7ddb3f22a4cd57debec5d13721c72c75a0c9e29e0b79139836883c666f5845fc"
+  }
+ },
+ "schema": 1
+}
