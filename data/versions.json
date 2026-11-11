@@ -1058,6 +1058,12 @@
    "url": "https://code.wvlegislature.gov/1-8/",
    "versions": [
     {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=972",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
+    {
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://code.wvlegislature.gov/pdf/1-8/",
@@ -2710,6 +2716,12 @@
    "url": "https://code.wvlegislature.gov/5A-13/",
    "versions": [
     {
+     "from": "2025-07-08",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=1018",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
+    {
      "from": "2026-10-13",
      "units": 6,
      "source_url": "https://code.wvlegislature.gov/pdf/5A-13/",
@@ -3157,6 +3169,12 @@
    "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 11. WEST VIRGINIA ADVANCED ENERGY AND ECONOMIC CORRIDOR AUTHORITY.",
    "url": "https://code.wvlegislature.gov/5B-11/",
    "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=711",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
     {
      "from": "2026-10-13",
      "units": 4,
@@ -5132,6 +5150,12 @@
    "url": "https://code.wvlegislature.gov/8-40/",
    "versions": [
     {
+     "from": "2025-07-11",
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=456",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
+    {
      "from": "2026-10-13",
      "units": 5,
      "source_url": "https://code.wvlegislature.gov/pdf/8-40/",
@@ -5145,6 +5169,12 @@
    "title": "West Virginia Code, CHAPTER 8. MUNICIPAL CORPORATIONS. ARTICLE 41. SMALL BUSINESS PROTECTION ACT.",
    "url": "https://code.wvlegislature.gov/8-41/",
    "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 2,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=456",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
     {
      "from": "2026-10-13",
      "units": 2,
@@ -5341,6 +5371,12 @@
    "title": "West Virginia Code, CHAPTER 8A. LAND USE PLANNING. ARTICLE 13. LOCAL PERMITTING DEADLINES.",
    "url": "https://code.wvlegislature.gov/8A-13/",
    "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 4,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=596",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
     {
      "from": "2026-10-13",
      "units": 4,
@@ -6097,6 +6133,12 @@
    "title": "West Virginia Code, CHAPTER 11. TAXATION. ARTICLE 6N. SPECIAL METHOD FOR VALUATION OF CERTAIN HIGH-TECHNOLOGY PROPERTY.",
    "url": "https://code.wvlegislature.gov/11-6N/",
    "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=952",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
     {
      "from": "2026-10-13",
      "units": 5,
@@ -7610,6 +7652,12 @@
    "url": "https://code.wvlegislature.gov/12-10/",
    "versions": [
     {
+     "from": "2025-07-08",
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=111",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
+    {
      "from": "2026-10-13",
      "units": 3,
      "source_url": "https://code.wvlegislature.gov/pdf/12-10/",
@@ -8211,6 +8259,12 @@
    "title": "West Virginia Code, CHAPTER 15. PUBLIC SAFETY. ARTICLE 3F. PURPLE ALERT PLAN.",
    "url": "https://code.wvlegislature.gov/15-3F/",
    "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=639",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 7,
@@ -11180,6 +11234,12 @@
    "url": "https://code.wvlegislature.gov/16B-1/",
    "versions": [
     {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
+    {
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://code.wvlegislature.gov/pdf/16B-1/",
@@ -11278,6 +11338,12 @@
    "url": "https://code.wvlegislature.gov/16B-8/",
    "versions": [
     {
+     "from": "2024-02-08",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
+    {
      "from": "2026-10-13",
      "units": 6,
      "source_url": "https://code.wvlegislature.gov/pdf/16B-8/",
@@ -11320,6 +11386,12 @@
    "url": "https://code.wvlegislature.gov/16B-11/",
    "versions": [
     {
+     "from": "2024-02-08",
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
+    {
      "from": "2026-10-13",
      "units": 7,
      "source_url": "https://code.wvlegislature.gov/pdf/16B-11/",
@@ -11333,6 +11405,12 @@
    "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 12. REGULATION OF BEHAVIORAL HEALTH.",
    "url": "https://code.wvlegislature.gov/16B-12/",
    "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 3,
@@ -11375,6 +11453,12 @@
    "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 15. WEST VIRGINIA CLEARANCE FOR ACCESS: REGISTRY AND EMPLOYMENT SCREENING ACT.",
    "url": "https://code.wvlegislature.gov/16B-15/",
    "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 9,
@@ -11459,6 +11543,12 @@
    "title": "West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 21. NEONATAL ABSTINENCE SYNDRONE CENTER.",
    "url": "https://code.wvlegislature.gov/16B-21/",
    "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=120",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 3,
@@ -11697,6 +11787,12 @@
    "title": "West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 9. GENERAL PROVISIONS APPLICABLE TO STATE ROADS, COUNTY-DISTRICT ROADS, STREETS AND ALLEYS, STATE ROAD COMMISSION, COUNTY COURTS AND MUNICIPAL AUTHORITIES.",
    "url": "https://code.wvlegislature.gov/17-9/",
    "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=980",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
     {
      "from": "2026-10-13",
      "units": 34,
@@ -12131,6 +12227,12 @@
    "title": "West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 30. ELECTRIC VEHICLE ECONOMIC DEVELOPMENT PLAN.",
    "url": "https://code.wvlegislature.gov/17-30/",
    "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=319",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
     {
      "from": "2026-10-13",
      "units": 1,
@@ -13854,6 +13956,12 @@
    "url": "https://code.wvlegislature.gov/18-9H/",
    "versions": [
     {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=765",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
+    {
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://code.wvlegislature.gov/pdf/18-9H/",
@@ -14386,6 +14494,12 @@
    "url": "https://code.wvlegislature.gov/18-21A/",
    "versions": [
     {
+     "from": "2024-06-04",
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=769",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
+    {
      "from": "2026-10-13",
      "units": 3,
      "source_url": "https://code.wvlegislature.gov/pdf/18-21A/",
@@ -14707,6 +14821,12 @@
    "title": "West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 34. LAKEN'S LAW.",
    "url": "https://code.wvlegislature.gov/18-34/",
    "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=879",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
     {
      "from": "2026-10-13",
      "units": 3,
@@ -15365,6 +15485,12 @@
    "title": "West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 14. MISCELLANEOUS.",
    "url": "https://code.wvlegislature.gov/18B-14/",
    "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=765",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
     {
      "from": "2026-10-13",
      "units": 13,
@@ -16695,6 +16821,12 @@
    "title": "West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 39. TRUTH IN FOOD PRODUCT LABELING ACT.",
    "url": "https://code.wvlegislature.gov/19-39/",
    "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=82",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
     {
      "from": "2026-10-13",
      "units": 3,
@@ -22352,6 +22484,12 @@
    "url": "https://code.wvlegislature.gov/30-8B/",
    "versions": [
     {
+     "from": "2025-07-09",
+     "units": 8,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=638",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
+    {
      "from": "2026-10-13",
      "units": 8,
      "source_url": "https://code.wvlegislature.gov/pdf/30-8B/",
@@ -22968,6 +23106,12 @@
    "url": "https://code.wvlegislature.gov/30-38B/",
    "versions": [
     {
+     "from": "2024-06-06",
+     "units": 8,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=68",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
+    {
      "from": "2026-10-13",
      "units": 8,
      "source_url": "https://code.wvlegislature.gov/pdf/30-38B/",
@@ -23555,6 +23699,12 @@
    "title": "West Virginia Code, CHAPTER 31. CORPORATIONS. ARTICLE 18F. THE WEST VIRGINIA VETERANS' HOME LOAN MORTGAGE PROGRAM OF 2024.",
    "url": "https://code.wvlegislature.gov/31-18F/",
    "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=830",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 6,
@@ -24619,6 +24769,12 @@
    "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 6. PRE-EMPTION OF CONFLICTING LOCAL ORDINANCES AND PRIVATE RESTRICTIONS",
    "url": "https://code.wvlegislature.gov/31G-6/",
    "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 2,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf#page=597",
+     "sha256": "da8154869eb152b66a761a6a9d3d5f6ff15ada3ff53d7f40c4bb2c3fa429a3d4"
+    },
     {
      "from": "2026-10-13",
      "units": 2,
@@ -26566,6 +26722,12 @@
    "url": "https://code.wvlegislature.gov/35-1B/",
    "versions": [
     {
+     "from": "2024-05-26",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_2.pdf#page=829",
+     "sha256": "2d85c50286a52f60e1a795561e53c5ae1ca3b20dbed07ddd2f79fd88187c0954"
+    },
+    {
      "from": "2026-10-13",
      "units": 6,
      "source_url": "https://code.wvlegislature.gov/pdf/35-1B/",
@@ -26915,6 +27077,12 @@
    "title": "West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 3A. PREVENTING FOREIGN ADVERSARIES FROM OWNING REAL ESTATE IN WEST VIRGINIA.",
    "url": "https://code.wvlegislature.gov/37-3A/",
    "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=1024",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
     {
      "from": "2026-10-13",
      "units": 5,
@@ -30556,6 +30724,12 @@
    "url": "https://code.wvlegislature.gov/48-28B/",
    "versions": [
     {
+     "from": "2024-04-30",
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=704",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
+    {
      "from": "2026-10-13",
      "units": 5,
      "source_url": "https://code.wvlegislature.gov/pdf/48-28B/",
@@ -30765,6 +30939,12 @@
    "title": "West Virginia Code, CHAPTER 49. CHILD WELFARE. ARTICLE 12. PARENT'S BILL OF RIGHTS.",
    "url": "https://code.wvlegislature.gov/49-12/",
    "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=509",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
     {
      "from": "2026-10-13",
      "units": 5,
@@ -33075,6 +33255,12 @@
    "title": "West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5B. AUTHORIZATION FOR OFFICE OF INSPECTOR GENERAL TO PROMULGATE LEGISLATIVE RULES.",
    "url": "https://code.wvlegislature.gov/64-5B/",
    "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=333",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
     {
      "from": "2026-10-13",
      "units": 1,
