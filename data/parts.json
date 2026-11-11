@@ -3132,6 +3132,130 @@
     "chapter-64-article-0005b"
    ],
    "sha256": "d6a40fe93c80d4cc590abf1e834b3e238a8f31e194a344b44afb7d76056fb2e7"
+  },
+  "zz-q1609-history-w4-ch-0005b.json": {
+   "acts": [
+    "chapter-5b-article-0002n",
+    "chapter-5b-article-0010"
+   ],
+   "sha256": "ec51cb8b60727c8fbc7101d5d8df8a2a453fc1e8009a021539b40481ee206434"
+  },
+  "zz-q1609-history-w4-ch-0010.json": {
+   "acts": [
+    "chapter-10-article-0003a"
+   ],
+   "sha256": "f16f097c071d040ddd3c5abb64b59aca950c7c1929082e1898203d321259c8c6"
+  },
+  "zz-q1609-history-w4-ch-0011.json": {
+   "acts": [
+    "chapter-11-article-0013kk"
+   ],
+   "sha256": "6ee95bfe22505bf61bfd8c1076a6ac434258070c79925bee3500e9fa4626192a"
+  },
+  "zz-q1609-history-w4-ch-0012.json": {
+   "acts": [
+    "chapter-12-article-0001b",
+    "chapter-12-article-0001c"
+   ],
+   "sha256": "7f9c32a6ff62d2d6c4aadcedab6c21095a02a547171c9acfe9231977c4c2bc05"
+  },
+  "zz-q1609-history-w4-ch-0016.json": {
+   "acts": [
+    "chapter-16-article-0027b"
+   ],
+   "sha256": "bdca611c0b843bdddbbb1ec87e8208e7c9f5bbb55e2819258f0d16a3307dd908"
+  },
+  "zz-q1609-history-w4-ch-0017.json": {
+   "acts": [
+    "chapter-17-article-0016f"
+   ],
+   "sha256": "a2120a9eeedddcd3a8fb5fcca7ad4a6bb7d503cecbc7e9a69fcbb04d475ebf71"
+  },
+  "zz-q1609-history-w4-ch-0017c.json": {
+   "acts": [
+    "chapter-17c-article-0025"
+   ],
+   "sha256": "79fa52d17c0e8746068b92aec98a32fe4a6405e579607d0814f91fa31068edb7"
+  },
+  "zz-q1609-history-w4-ch-0017h.json": {
+   "acts": [
+    "chapter-17h-article-0001"
+   ],
+   "sha256": "82d67823e409a3826d0f3bf7252f46f9368731ee288c040042e63f9ac6bfe5de"
+  },
+  "zz-q1609-history-w4-ch-0018a.json": {
+   "acts": [
+    "chapter-18a-article-0002a"
+   ],
+   "sha256": "3d921bb590e5254f56de17952411b95fb4ed42cc5b713cf26e8c9a7708f93e52"
+  },
+  "zz-q1609-history-w4-ch-0021.json": {
+   "acts": [
+    "chapter-21-article-0005i",
+    "chapter-21-article-0017"
+   ],
+   "sha256": "740f8d1475ba1c52848c006e8ef16cb7c6109c22665cae0d34dd624ca0115ada"
+  },
+  "zz-q1609-history-w4-ch-0021a.json": {
+   "acts": [
+    "chapter-21a-article-0006b"
+   ],
+   "sha256": "6893f27c0c72212a3c8f39c202d33282640db4d8eca6f972354874971dd640fd"
+  },
+  "zz-q1609-history-w4-ch-0022.json": {
+   "acts": [
+    "chapter-22-article-0011b",
+    "chapter-22-article-0032"
+   ],
+   "sha256": "20b9a55ab29008d38ddc017022319351c18f58df982f2e50a46a9e78719c4c5f"
+  },
+  "zz-q1609-history-w4-ch-0029.json": {
+   "acts": [
+    "chapter-29-article-0033"
+   ],
+   "sha256": "85391fdcc25c33f8315e5d9c92d0759039e39daf6c795eb99e81cff04b83ee10"
+  },
+  "zz-q1609-history-w4-ch-0030.json": {
+   "acts": [
+    "chapter-30-article-0021a"
+   ],
+   "sha256": "56468fd530f35ef743702532f7f31eb594ae8b5bbdff8f46141e8dc97e1601ed"
+  },
+  "zz-q1609-history-w4-ch-0031a.json": {
+   "acts": [
+    "chapter-31a-article-0009"
+   ],
+   "sha256": "fdc4973f02914933aa9c65699e4633546d3087f3a8fd927cb2bec0be1e84fc55"
+  },
+  "zz-q1609-history-w4-ch-0031g.json": {
+   "acts": [
+    "chapter-31g-article-0001a"
+   ],
+   "sha256": "4d5c793b83a128695a68331c3f19910562b685e1f160ea46aa3d8ec611949f1b"
+  },
+  "zz-q1609-history-w4-ch-0033.json": {
+   "acts": [
+    "chapter-33-article-0060"
+   ],
+   "sha256": "d74c901fe634e4be3e9fe73b39a7e5847358740e64c0fbe6e97a21053c3c06bc"
+  },
+  "zz-q1609-history-w4-ch-0047.json": {
+   "acts": [
+    "chapter-47-article-0021a"
+   ],
+   "sha256": "badd0b653e52a24c82da055863167ddd9274d45a87706323106c12356acc35f8"
+  },
+  "zz-q1609-history-w4-ch-0060.json": {
+   "acts": [
+    "chapter-60-article-0008a"
+   ],
+   "sha256": "afc5f3fe0f48dd492012c7b690b2e9dc843f3491be878885bbf4785feda6e4f2"
+  },
+  "zz-q1609-history-zz-q1539-history-w4-ch-0005a.json": {
+   "acts": [
+    "chapter-5a-article-0013"
+   ],
+   "sha256": "fba4d4f2488c00f4498c09f4c79d4e32d15b5f33e4a7509bc9c651d8525f05e7"
   }
  },
  "schema": 1

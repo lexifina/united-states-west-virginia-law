@@ -2716,6 +2716,12 @@
    "url": "https://code.wvlegislature.gov/5A-13/",
    "versions": [
     {
+     "from": "2025-04-09",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=30",
+     "sha256": "ec1fbce8b965cbd1fdecc996c82ebca2ebffe82f0b577356552dd604722b025f"
+    },
+    {
      "from": "2025-07-08",
      "units": 6,
      "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf#page=1018",
@@ -2988,6 +2994,12 @@
    "url": "https://code.wvlegislature.gov/5B-2N/",
    "versions": [
     {
+     "from": "2023-06-04",
+     "units": 4,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2023_Vol_1.pdf#page=842",
+     "sha256": "af3c050312442461f901f2ed381ca5b78e2e09edecf3e29303496662d23f25c0"
+    },
+    {
      "from": "2026-10-13",
      "units": 10,
      "source_url": "https://code.wvlegislature.gov/pdf/5B-2N/",
@@ -3155,6 +3167,12 @@
    "title": "West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 10. WEST VIRGINIA DEVELOPMENT ACHIEVEMENTS TRANSPARENCY ACT.",
    "url": "https://code.wvlegislature.gov/5B-10/",
    "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=796",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
     {
      "from": "2026-10-13",
      "units": 9,
@@ -5770,6 +5788,12 @@
    "url": "https://code.wvlegislature.gov/10-3A/",
    "versions": [
     {
+     "from": "2022-05-18",
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=36",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
+    {
      "from": "2026-10-13",
      "units": 7,
      "source_url": "https://code.wvlegislature.gov/pdf/10-3A/",
@@ -6924,6 +6948,12 @@
    "url": "https://code.wvlegislature.gov/11-13KK/",
    "versions": [
     {
+     "from": "2021-06-30",
+     "units": 17,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=1036",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
+    {
      "from": "2026-10-13",
      "units": 17,
      "source_url": "https://code.wvlegislature.gov/pdf/11-13KK/",
@@ -7400,6 +7430,12 @@
    "url": "https://code.wvlegislature.gov/12-1B/",
    "versions": [
     {
+     "from": "2022-06-10",
+     "units": 14,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=686",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
+    {
      "from": "2026-10-13",
      "units": 14,
      "source_url": "https://code.wvlegislature.gov/pdf/12-1B/",
@@ -7413,6 +7449,12 @@
    "title": "West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 1C. FINANCIAL INSTITUTIONS ENGAGED IN BOYCOTTS OF ENERGY COMPANIES.",
    "url": "https://code.wvlegislature.gov/12-1C/",
    "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=680",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
     {
      "from": "2026-10-13",
      "units": 7,
@@ -10254,6 +10296,12 @@
    "url": "https://code.wvlegislature.gov/16-27B/",
    "versions": [
     {
+     "from": "2024-10-08",
+     "units": 16,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=1022",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
+    {
      "from": "2026-10-13",
      "units": 16,
      "source_url": "https://code.wvlegislature.gov/pdf/16-27B/",
@@ -11976,6 +12024,12 @@
    "url": "https://code.wvlegislature.gov/17-16F/",
    "versions": [
     {
+     "from": "2022-03-12",
+     "units": 34,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf#page=1229",
+     "sha256": "9689fccfa91fb0728fe81e63d015f4011596bc873605da96592376932862dd05"
+    },
+    {
      "from": "2026-10-13",
      "units": 37,
      "source_url": "https://code.wvlegislature.gov/pdf/17-16F/",
@@ -13228,6 +13282,12 @@
    "url": "https://code.wvlegislature.gov/17C-25/",
    "versions": [
     {
+     "from": "2022-04-25",
+     "units": 11,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_3.pdf#page=56",
+     "sha256": "b5d5fb5288ae1ae8bc05f7a03525bf7582ad17fbe5bcfa6266d2633a936da540"
+    },
+    {
      "from": "2026-10-13",
      "units": 11,
      "source_url": "https://code.wvlegislature.gov/pdf/17C-25/",
@@ -13395,6 +13455,12 @@
    "title": "West Virginia Code, CHAPTER 17H. FULLY AUTONOMOUS VEHICLE ACT. ARTICLE 1. FULLY AUTONOMOUS VEHICLES.",
    "url": "https://code.wvlegislature.gov/17H-1/",
    "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=310",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
     {
      "from": "2026-10-13",
      "units": 15,
@@ -14883,6 +14949,12 @@
    "title": "West Virginia Code, CHAPTER 18A. SCHOOL PERSONNEL. ARTICLE 2A. TEACHERS BILL OF RIGHTS.",
    "url": "https://code.wvlegislature.gov/18A-2A/",
    "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf#page=704",
+     "sha256": "3669878cee726ae5f3dd4d4559f2928fb961f3d338a17283f3baaed1287eae9c"
+    },
     {
      "from": "2026-10-13",
      "units": 1,
@@ -17850,6 +17922,12 @@
    "url": "https://code.wvlegislature.gov/21-5I/",
    "versions": [
     {
+     "from": "2021-06-09",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=307",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
+    {
      "from": "2026-10-13",
      "units": 6,
      "source_url": "https://code.wvlegislature.gov/pdf/21-5I/",
@@ -18031,6 +18109,12 @@
    "title": "West Virginia Code, CHAPTER 21. LABOR ARTICLE 17. REVIEW AND CREDENTIAL ACKNOWLEDGEMENT PROCEDURES ACT.",
    "url": "https://code.wvlegislature.gov/21-17/",
    "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 12,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=481",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
     {
      "from": "2026-10-13",
      "units": 12,
@@ -18241,6 +18325,12 @@
    "title": "West Virginia Code, CHAPTER 21A. UNEMPLOYMENT COMPENSATION. ARTICLE 6B. SHORT TIME COMPENSATION PROGRAM.",
    "url": "https://code.wvlegislature.gov/21A-6B/",
    "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=1156",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
     {
      "from": "2026-10-13",
      "units": 7,
@@ -18563,6 +18653,12 @@
    "title": "West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 11B. UNDERGROUND CARBON DIOXIDE SEQUESTRATION AND STORAGE.",
    "url": "https://code.wvlegislature.gov/22-11B/",
    "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 21,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf#page=1093",
+     "sha256": "9689fccfa91fb0728fe81e63d015f4011596bc873605da96592376932862dd05"
+    },
     {
      "from": "2026-10-13",
      "units": 21,
@@ -18927,6 +19023,12 @@
    "title": "West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 32. THE WEST VIRGINIA WIND AND SOLAR ENERGY FACILITY RECLAMATION ACT.",
    "url": "https://code.wvlegislature.gov/22-32/",
    "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 8,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf#page=1229",
+     "sha256": "da8154869eb152b66a761a6a9d3d5f6ff15ada3ff53d7f40c4bb2c3fa429a3d4"
+    },
     {
      "from": "2026-10-13",
      "units": 8,
@@ -21728,6 +21830,12 @@
    "url": "https://code.wvlegislature.gov/29-33/",
    "versions": [
     {
+     "from": "2022-06-09",
+     "units": 12,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf#page=481",
+     "sha256": "8270dc277a8e3a1ee1bf1b56a2a65b063d92ba8faca4277ff3d22fd8cda87235"
+    },
+    {
      "from": "2026-10-13",
      "units": 12,
      "source_url": "https://code.wvlegislature.gov/pdf/29-33/",
@@ -22741,6 +22849,12 @@
    "title": "West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 21A. PSYCHOLOGISTS; SCHOOL PSYCHOLOGISTS.",
    "url": "https://code.wvlegislature.gov/30-21A/",
    "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 13,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=540",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
     {
      "from": "2026-10-13",
      "units": 13,
@@ -24028,6 +24142,12 @@
    "url": "https://code.wvlegislature.gov/31A-9/",
    "versions": [
     {
+     "from": "2025-07-10",
+     "units": 16,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf#page=427",
+     "sha256": "d9f371749e0ae8828574c3de447cb2ab7ee81fdcf38e047115d3332694028936"
+    },
+    {
      "from": "2026-10-13",
      "units": 16,
      "source_url": "https://code.wvlegislature.gov/pdf/31A-9/",
@@ -24699,6 +24819,12 @@
    "title": "West Virginia Code, CHAPTER 31G. BROADBAND ENHANCEMENT AND EXPANSION POLICIES. ARTICLE 1A. OFFICE OF BROADBAND.",
    "url": "https://code.wvlegislature.gov/31G-1A/",
    "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf#page=597",
+     "sha256": "da8154869eb152b66a761a6a9d3d5f6ff15ada3ff53d7f40c4bb2c3fa429a3d4"
+    },
     {
      "from": "2026-10-13",
      "units": 7,
@@ -26595,6 +26721,12 @@
    "title": "West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 60. INSURANCE INNOVATION.",
    "url": "https://code.wvlegislature.gov/33-60/",
    "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 10,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf#page=253",
+     "sha256": "3ebb7f2d7a7661229261763496b8dfb99ff8ebad7c17388e8cff341ee0c7890c"
+    },
     {
      "from": "2026-10-13",
      "units": 10,
@@ -29996,6 +30128,12 @@
    "url": "https://code.wvlegislature.gov/47-21A/",
    "versions": [
     {
+     "from": "2024-06-06",
+     "units": 29,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf#page=1041",
+     "sha256": "ba93b8f749df6391df4f8d54ee05a1ddb11956b125f028fac74a82828224e206"
+    },
+    {
      "from": "2026-10-13",
      "units": 29,
      "source_url": "https://code.wvlegislature.gov/pdf/47-21A/",
@@ -32471,6 +32609,12 @@
    "title": "West Virginia Code, CHAPTER 60. STATE CONTROL OF ALCOHOLIC LIQUORS. ARTICLE 8A. MANUFACTURE AND SALE OF HARD CIDER.",
    "url": "https://code.wvlegislature.gov/60-8A/",
    "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf#page=142",
+     "sha256": "da8154869eb152b66a761a6a9d3d5f6ff15ada3ff53d7f40c4bb2c3fa429a3d4"
+    },
     {
      "from": "2026-10-13",
      "units": 6,
