@@ -1,9 +1,9 @@
 # West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 34. LAKEN'S LAW.
 
-W. Va. Code 18-34 · 1 versions, from 2026-10-13 (latest in force: 2026-10-13) · <https://code.wvlegislature.gov/18-34/>
+W. Va. Code 18-34 · 2 versions, from 2024-05-30 (latest in force: 2026-10-13) · <https://code.wvlegislature.gov/18-34/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| § 18-34-1 | [sec-0018-0034-0001.md](sec-0018-0034-0001.md) | 0 |  |
-| § 18-34-2 | [sec-0018-0034-0002.md](sec-0018-0034-0002.md) | 0 |  |
-| § 18-34-3 | [sec-0018-0034-0003.md](sec-0018-0034-0003.md) | 0 |  |
+| § 18-34-1 | [sec-0018-0034-0001.md](sec-0018-0034-0001.md) | 1 | 2026-10-13 |
+| § 18-34-2 | [sec-0018-0034-0002.md](sec-0018-0034-0002.md) | 1 | 2026-10-13 |
+| § 18-34-3 | [sec-0018-0034-0003.md](sec-0018-0034-0003.md) | 1 | 2026-10-13 |

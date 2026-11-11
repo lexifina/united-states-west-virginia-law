@@ -2996,6 +2996,142 @@
     "chapter-64-article-0012"
    ],
    "sha256": "5274c2c374dda88e04da235f71b747c0877c691c22c9f4c21da9080a16106737"
+  },
+  "zz-q1539-history-w4-ch-0001.json": {
+   "acts": [
+    "chapter-1-article-0008"
+   ],
+   "sha256": "ca20440d45b2aaa9964e9be04dea3ac08399fa4ae6e9272b5f44c3523e8f3cb5"
+  },
+  "zz-q1539-history-w4-ch-0005a.json": {
+   "acts": [
+    "chapter-5a-article-0013"
+   ],
+   "sha256": "981c5ab1d28f8b3cda3e6ad1536dac4e940583708469c7fe4e95221f0acde8d4"
+  },
+  "zz-q1539-history-w4-ch-0005b.json": {
+   "acts": [
+    "chapter-5b-article-0011"
+   ],
+   "sha256": "c99c28376def4044043611a87bbaedade4b1e454d406b63b4b3d819e1d6ee948"
+  },
+  "zz-q1539-history-w4-ch-0008.json": {
+   "acts": [
+    "chapter-8-article-0040",
+    "chapter-8-article-0041"
+   ],
+   "sha256": "4d73508d0aa20e65fabe209ba13c8744624ff4a1b66868d0563ba14374266634"
+  },
+  "zz-q1539-history-w4-ch-0008a.json": {
+   "acts": [
+    "chapter-8a-article-0013"
+   ],
+   "sha256": "fe0ff1167920b11991e2277413947bf0926b3c93c55522aad092b557f3e1fbc8"
+  },
+  "zz-q1539-history-w4-ch-0011.json": {
+   "acts": [
+    "chapter-11-article-0006n"
+   ],
+   "sha256": "982413fdabb24dcd1ca20d992d0c0293fb827de61bd3b63d8f5a2e7f2eb9c94f"
+  },
+  "zz-q1539-history-w4-ch-0012.json": {
+   "acts": [
+    "chapter-12-article-0010"
+   ],
+   "sha256": "0d02244aa254d505ca28b51075fe194e046728307e69293b7a1d911961ca2488"
+  },
+  "zz-q1539-history-w4-ch-0015.json": {
+   "acts": [
+    "chapter-15-article-0003f"
+   ],
+   "sha256": "b71b1ff022521171f31c181536df103f14b6f2ced7512f7b6768ac7423246119"
+  },
+  "zz-q1539-history-w4-ch-0016b.json": {
+   "acts": [
+    "chapter-16b-article-0001",
+    "chapter-16b-article-0008",
+    "chapter-16b-article-0011",
+    "chapter-16b-article-0012",
+    "chapter-16b-article-0015",
+    "chapter-16b-article-0021"
+   ],
+   "sha256": "3bda376ad5258cdb71e538a195e04b0404bdbfd78c85aaa4af799dfca81a3532"
+  },
+  "zz-q1539-history-w4-ch-0017.json": {
+   "acts": [
+    "chapter-17-article-0009",
+    "chapter-17-article-0030"
+   ],
+   "sha256": "c74983f2abac0e410be9728c5dfd54d90fb776b430a0b353f4f1d87404e3c46f"
+  },
+  "zz-q1539-history-w4-ch-0018.json": {
+   "acts": [
+    "chapter-18-article-0009h",
+    "chapter-18-article-0021a",
+    "chapter-18-article-0034"
+   ],
+   "sha256": "12eb13f38f0108f3ccc436c9427d12fe264b47d9a3f652ac87e3267ebb25d347"
+  },
+  "zz-q1539-history-w4-ch-0018b.json": {
+   "acts": [
+    "chapter-18b-article-0014"
+   ],
+   "sha256": "5c846009c6b7f1997c25e53b8d6f6ce4295e37606222f9508163400be76af3d3"
+  },
+  "zz-q1539-history-w4-ch-0019.json": {
+   "acts": [
+    "chapter-19-article-0039"
+   ],
+   "sha256": "b19180a6260af49e482ebf91030b6f66349591663c9a952862508dc45167c912"
+  },
+  "zz-q1539-history-w4-ch-0030.json": {
+   "acts": [
+    "chapter-30-article-0008b",
+    "chapter-30-article-0038b"
+   ],
+   "sha256": "9127ca747c273481ccbb08bf8f52b0ea5a5dec63077db9fde8ce81626821053c"
+  },
+  "zz-q1539-history-w4-ch-0031.json": {
+   "acts": [
+    "chapter-31-article-0018f"
+   ],
+   "sha256": "406157680e83a34c7106c6b2356034f4ea0394fc51bfba6d030b6e078f0d02c4"
+  },
+  "zz-q1539-history-w4-ch-0031g.json": {
+   "acts": [
+    "chapter-31g-article-0006"
+   ],
+   "sha256": "5f9973d0dd612834b388bba98edc2e462afa8201eebdad5fb69746039654e9f0"
+  },
+  "zz-q1539-history-w4-ch-0035.json": {
+   "acts": [
+    "chapter-35-article-0001b"
+   ],
+   "sha256": "1dac75d5c1182a80c91b31e0b9b3817f99fd30b25e902695a9a4b657232f6c81"
+  },
+  "zz-q1539-history-w4-ch-0037.json": {
+   "acts": [
+    "chapter-37-article-0003a"
+   ],
+   "sha256": "0a0e31543e85b9fc3d3a3fbe0f8927468c73795cf381c9fcaddeebd83e9ab793"
+  },
+  "zz-q1539-history-w4-ch-0048.json": {
+   "acts": [
+    "chapter-48-article-0028b"
+   ],
+   "sha256": "eaf2b0017513901d5be5066b65cfa7ea06b36fddcdaf8ef098a8e38cc160620b"
+  },
+  "zz-q1539-history-w4-ch-0049.json": {
+   "acts": [
+    "chapter-49-article-0012"
+   ],
+   "sha256": "e24363bfeb67cfde4f47386ef7bb0fb18171338cf0b563671cdef355aad87863"
+  },
+  "zz-q1539-history-w4-ch-0064.json": {
+   "acts": [
+    "chapter-64-article-0005b"
+   ],
+   "sha256": "d6a40fe93c80d4cc590abf1e834b3e238a8f31e194a344b44afb7d76056fb2e7"
   }
  },
  "schema": 1
