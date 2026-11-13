@@ -888,6 +888,7 @@ def public_readme(text: str, keep: frozenset[str]) -> str:
     defences) are dropped, table cells keeping a dash; scripts the repository does not ship are named as Lexifina's
     code; and the "How it is built" section opens with the standard paragraph (BUILT), the rest of its method kept.
     Code blocks are left as they are."""
+    text = re.sub(r'\n?<\!-- private -->.*?<\!-- /private -->', '', text, flags=re.S)
     out, fenced = [], False
     # Hard-wrapped prose is joined into one line per paragraph or list item first, so a sentence is judged whole.
     lines: list[str] = []
@@ -1149,7 +1150,7 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
     for name in ('on.py', 'check.py', 'build.py', 'corpus_standard.py', 'corpus_paths.py', 'corpus_tables.py', 'provision_index.py', 'corpus_images.py', 'corpus_jurisdiction.py', 'current_text.py', 'publish_marker.py', 'published_parts.py', 'SCHEMA.md', 'REPRODUCE.template.md'):
         text = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
         # Passages for Lexifina's agents only (how sources are fetched, internal paths) stay out of the published copy.
-        text = re.sub(r'\n?', '', text, flags=re.S)
+        text = re.sub(r'\n?<\!-- private -->.*?<\!-- /private -->', '', text, flags=re.S)
         files[f'tools/{"check_repo.py" if name == "check.py" else name}'] = text
     # Every script and data file the country's fetch and parse use, so the repository alone can rebuild itself.
     # Subfolders (a helper agent's codes/ scripts) keep their relative path under tools/.
