@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | West Virginia Code (code.wvlegislature.gov) | <https://code.wvlegislature.gov/> | 2026-10-30 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site's footer reads "Copyright (c) 2026 West Virginia Code" and states no reuse restriction. |
+| Acts of the Legislature of West Virginia: Acts_2025_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -14,16 +15,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `chapter-20-article-0002d` | West Virginia Code, CHAPTER 20. NATURAL RESOURCES. ARTICLE 2D. WILDLIFE REHABILITATION. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-20-article-0002d` | West Virginia Code, CHAPTER 20. NATURAL RESOURCES. ARTICLE 2D. WILDLIFE REHABILITATION. | 1 | 2025-07-10 to 2025-07-10 |
 
-The build made 1 commits:
+The build made 3 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 1 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 0 | corrections to the existing record |
+| 2 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -42,7 +43,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `35754c3865c66751b77f45bfd768a5579460340eee7652e9861456f9703c18bf` (15801 bytes).
+- Corpus: sha256 `c28b5cc8d7992770409d0da5324697dc2352a3ac4785869d449944cac9b21549` (16474 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

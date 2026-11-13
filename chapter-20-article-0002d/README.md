@@ -1,6 +1,6 @@
 # West Virginia Code, CHAPTER 20. NATURAL RESOURCES. ARTICLE 2D. WILDLIFE REHABILITATION.
 
-W. Va. Code 20-2D · 1 versions, from 2026-10-13 (latest in force: 2026-10-13) · <https://code.wvlegislature.gov/20-2D/>
+W. Va. Code 20-2D · 1 versions, from 2025-07-10 (latest in force: 2025-07-10) · <https://code.wvlegislature.gov/20-2D/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
