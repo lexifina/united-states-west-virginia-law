@@ -11070,6 +11070,15 @@
    "url": "https://code.wvlegislature.gov/16-2L/",
    "versions": [
     {
+     "from": "2012-06-08",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf#page=895",
+     "sha256": "40afd67ddb444d53e713e709f5852c79fcf0ee94cff691506870b9e03df631d8"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -17845,6 +17854,15 @@
    "url": "https://code.wvlegislature.gov/18-13/",
    "versions": [
     {
+     "from": "2012-03-10",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf#page=665",
+     "sha256": "40afd67ddb444d53e713e709f5852c79fcf0ee94cff691506870b9e03df631d8"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -18874,6 +18892,15 @@
    "title": "West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3B. COLLABORATIVE DEGREE COMPLETION PROGRAM.",
    "url": "https://code.wvlegislature.gov/18B-3B/",
    "versions": [
+    {
+     "from": "2012-03-10",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf#page=665",
+     "sha256": "40afd67ddb444d53e713e709f5852c79fcf0ee94cff691506870b9e03df631d8"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -34460,6 +34487,15 @@
    "url": "https://code.wvlegislature.gov/39B-2/",
    "versions": [
     {
+     "from": "2012-06-08",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_2.pdf#page=643",
+     "sha256": "6616b9bc7078cd457ecd6e2b49ca24d1475e4dfe21a2eab6c13b77906f3ae453"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -34477,6 +34513,15 @@
    "url": "https://code.wvlegislature.gov/39B-3/",
    "versions": [
     {
+     "from": "2012-06-08",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_2.pdf#page=643",
+     "sha256": "6616b9bc7078cd457ecd6e2b49ca24d1475e4dfe21a2eab6c13b77906f3ae453"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -34493,6 +34538,15 @@
    "title": "West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 4. MISCELLANEOUS PROVISIONS.",
    "url": "https://code.wvlegislature.gov/39B-4/",
    "versions": [
+    {
+     "from": "2012-06-08",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_2.pdf#page=643",
+     "sha256": "6616b9bc7078cd457ecd6e2b49ca24d1475e4dfe21a2eab6c13b77906f3ae453"
+    },
     {
      "from": "2026-10-13",
      "to": null,

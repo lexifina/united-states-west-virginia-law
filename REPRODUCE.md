@@ -81,6 +81,10 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | Acts of the Legislature of West Virginia: Acts_2024_Vol_3.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf> | 2026-11-13 | Legislative text; government edicts. |
 | Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
 | Acts of the Legislature of West Virginia: Acts_2024_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2012_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2012_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2012_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2012_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2012_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -726,7 +730,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16-article-0002i` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2I. WOMEN'S RIGHT TO KNOW ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002j` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2J. PREVENTIVE CARE PILOT PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002k` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2K. PROGRAMS OF ALL-INCLUSIVE CARE FOR THE ELDERLY, "PACE". | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0002l` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2L. PROVIDER SPONSORED NETWORKS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0002l` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2L. PROVIDER SPONSORED NETWORKS. | 2 | 2012-06-08 to 2026-10-13 |
 | `chapter-16-article-0002m` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2M. THE PAIN-CAPABLE UNBORN CHILD PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002n` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2N. NEONATAL ABSTINENCE CENTERS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002o` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2O. UNBORN CHILD PROTECTION FROM DISMEMBERMENT ABORTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1106,7 +1110,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-18-article-0012` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 12. STATE TEACHERS' COLLEGES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0012a` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 12A. REVENUE BONDS FOR MARSHALL UNIVERSITY CAPITAL IMPROVEMENTS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0012b` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 12B. REVENUE BONDS FOR STATE INSTITUTIONS OF HIGHER EDUCATION -- CAPITAL IMPROVEMENTS ON SYSTEM BASIS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-18-article-0013` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 13. WEST VIRGINIA EDGE. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-18-article-0013` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 13. WEST VIRGINIA EDGE. | 2 | 2012-03-10 to 2026-10-13 |
 | `chapter-18-article-0014` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 14. BLUEFIELD STATE COLLEGE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0015` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 15. WEST VIRGINIA INSTITUTE OF TECHNOLOGY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0016` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 16. ANTIHAZING LAW. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1165,7 +1169,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-18b-article-0002c` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 2C. WEST VIRGINIA COMMUNITY AND TECHNICAL COLLEGE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0003` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3. ADDITIONAL POWERS AND DUTIES OF RESEARCH DOCTORAL-GRANTING PUBLIC UNIVERSITIES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0003a` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3A. WEST VIRGINIA JOINT COMMISSION FOR VOCATIONAL-TECHNICAL-OCCUPATIONAL EDUCATION. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-18b-article-0003b` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3B. COLLABORATIVE DEGREE COMPLETION PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-18b-article-0003b` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3B. COLLABORATIVE DEGREE COMPLETION PROGRAM. | 2 | 2012-03-10 to 2026-10-13 |
 | `chapter-18b-article-0003c` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3C. COMMUNITY AND TECHNICAL COLLEGE SYSTEM. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0003d` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3D. WORKFORCE DEVELOPMENT INITIATIVE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0003e` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3E. EASTERN WEST VIRGINIA COMMUNITY AND TECHNICAL COLLEGE. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2068,9 +2072,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-39a-article-0003` | West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 3. DIGITAL SIGNATURES; STATE ELECTRONIC RECORDS AND TRANSACTIONS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-39a-article-0004` | West Virginia Code, CHAPTER 39A. ELECTRONIC COMMERCE. ARTICLE 4. UNIFORM REAL PROPERTY ELECTRONIC RECORDING ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-39b-article-0001` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 1. GENERAL PROVISIONS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-39b-article-0002` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 2. AUTHORITY. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-39b-article-0003` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 3. STATUTORY FORMS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-39b-article-0004` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 4. MISCELLANEOUS PROVISIONS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-39b-article-0002` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 2. AUTHORITY. | 2 | 2012-06-08 to 2026-10-13 |
+| `chapter-39b-article-0003` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 3. STATUTORY FORMS. | 2 | 2012-06-08 to 2026-10-13 |
+| `chapter-39b-article-0004` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 4. MISCELLANEOUS PROVISIONS. | 2 | 2012-06-08 to 2026-10-13 |
 | `chapter-40-article-0001` | West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 1. ACTS GENERALLY VOID AS TO CREDITORS AND PURCHASERS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-40-article-0001a` | West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 1A. UNIFORM FRAUDULENT TRANSFERS ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-40-article-0002` | West Virginia Code, CHAPTER 40. ACTS VOID AS TO CREDITORS AND PURCHASERS. ARTICLE 2. SALE OF MERCHANDISE OR FIXTURES IN BULK. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2460,14 +2464,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-64-article-0011` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 11. TECHNICAL CORRECTIONS TO THE CODE OF STATE RULES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-64-article-0012` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 12 | 1 | 2026-10-13 to 2026-10-13 |
 
-The build made 2565 commits:
+The build made 2577 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 2371 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 194 | corrections to the existing record |
+| 206 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -2486,7 +2490,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `42b54021d1766facb1128255ea4933cdd769f03079647f9e12acc21d4a070bfd` (60247647 bytes).
+- Corpus: sha256 `b455f5732f20d577796df22d31fb1053802357b18b7b8ac43882220c45059e52` (60386589 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2572,6 +2576,10 @@ No second build of this corpus has been compared yet.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 
 ## What AI did and did not do
 
@@ -2583,6 +2591,10 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.

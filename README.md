@@ -1,10 +1,5 @@
 # West Virginia law
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="West Virginia law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
-</picture>
-
 The West Virginia Code and Constitution, with earlier complete Code articles as enacted in the Legislature’s Acts volumes.
 
 | Question | Command |
@@ -14,7 +9,7 @@ The West Virginia Code and Constitution, with earlier complete Code articles as 
 
 ## Earlier history
 
-97 as-enacted article snapshots are recorded without replacing published commits. Correction trailers identify each historical date, source and affected files. These are source snapshots; intervening amendments and full earlier Code editions are not reconstructed.
+103 as-enacted article snapshots are recorded without replacing published commits. Correction trailers identify each historical date, source and affected files. These are source snapshots; intervening amendments and full earlier Code editions are not reconstructed.
 
 | Article | Title | Recorded versions |
 |---|---|---:|
@@ -28,6 +23,7 @@ The West Virginia Code and Constitution, with earlier complete Code articles as 
 | `chapter-12-article-0010` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 10. PROMPT PAYMENT ACT OF 2025. | 2 |
 | `chapter-15-article-0003f` | West Virginia Code, CHAPTER 15. PUBLIC SAFETY. ARTICLE 3F. PURPLE ALERT PLAN. | 2 |
 | `chapter-15a-article-0004a` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4A. EXPANDED WORK RELEASE PILOT PROGRAM. | 2 |
+| `chapter-16-article-0002l` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2L. PROVIDER SPONSORED NETWORKS. | 2 |
 | `chapter-16-article-0002q` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2Q. UNBORN CHILD WITH A DISABILITY PROTECTION AND EDUCATION ACT. | 2 |
 | `chapter-16-article-0005dd` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5DD. COLLECTION OF DATA RELATING TO PARKINSON'S DISEASE. | 2 |
 | `chapter-16-article-0027b` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 27B. RADIATION CONTROL ACT. | 2 |
@@ -63,9 +59,11 @@ The West Virginia Code and Constitution, with earlier complete Code articles as 
 | `chapter-17h-article-0001` | West Virginia Code, CHAPTER 17H. FULLY AUTONOMOUS VEHICLE ACT. ARTICLE 1. FULLY AUTONOMOUS VEHICLES. | 2 |
 | `chapter-18-article-0009g` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9G. WATER BOTTLE FILLING STATIONS. | 2 |
 | `chapter-18-article-0009h` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9H. DISPLAY OF NATIONAL MOTTO. | 2 |
+| `chapter-18-article-0013` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 13. WEST VIRGINIA EDGE. | 2 |
 | `chapter-18-article-0021a` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 21A. CAREER AND TECHNICAL EDUCATION PILOT PROGRAM FOR MIDDLE SCHOOL STUDENT. | 2 |
 | `chapter-18-article-0034` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 34. LAKEN'S LAW. | 2 |
 | `chapter-18a-article-0002a` | West Virginia Code, CHAPTER 18A. SCHOOL PERSONNEL. ARTICLE 2A. TEACHERS BILL OF RIGHTS. | 2 |
+| `chapter-18b-article-0003b` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 3B. COLLABORATIVE DEGREE COMPLETION PROGRAM. | 2 |
 | `chapter-18b-article-0014` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 14. MISCELLANEOUS. | 2 |
 | `chapter-18b-article-0022` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 22. NAME, IMAGE, OR LIKENESS IN INTERCOLLEGIATE ATHLETICS. | 2 |
 | `chapter-19-article-0038` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 38. AGRICULTURE INVESTMENT PROGRAM. | 2 |
@@ -92,6 +90,9 @@ The West Virginia Code and Constitution, with earlier complete Code articles as 
 | `chapter-33-article-0061` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 61. MINING MUTUAL INSURANCE COMPANY. | 2 |
 | `chapter-35-article-0001b` | West Virginia Code, CHAPTER 35. PROPERTY OF RELIGIOUS, EDUCATIONAL AND CHARITABLE ORGANIZATIONS. ARTICLE 1B. HEALTH CARE SHARING MINISTRIES FREEDOM TO SHARE ACT. | 2 |
 | `chapter-37-article-0003a` | West Virginia Code, CHAPTER 37. REAL PROPERTY. ARTICLE 3A. PREVENTING FOREIGN ADVERSARIES FROM OWNING REAL ESTATE IN WEST VIRGINIA. | 2 |
+| `chapter-39b-article-0002` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 2. AUTHORITY. | 2 |
+| `chapter-39b-article-0003` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 3. STATUTORY FORMS. | 2 |
+| `chapter-39b-article-0004` | West Virginia Code, CHAPTER 39B. UNIFORM POWER OF ATTORNEY ACT. ARTICLE 4. MISCELLANEOUS PROVISIONS. | 2 |
 | `chapter-4-article-0013a` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13A. WEST VIRGINIA SEMIQUINCENTENNIAL COMMISSION AND FUND. | 2 |
 | `chapter-47-article-0021a` | West Virginia Code, CHAPTER 47. REGULATION OF TRADE. ARTICLE 21A. ONLINE CHARITABLE RAFFLES. | 2 |
 | `chapter-48-article-0028b` | West Virginia Code, CHAPTER 48. DOMESTIC RELATIONS. ARTICLE 28B. UNIFORM RECOGNITION AND ENFORCEMENT OF CANADIAN DOMESTIC VIOLENCE PROTECTIVE ORDERS ACT | 2 |
