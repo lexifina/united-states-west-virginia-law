@@ -1,0 +1,17 @@
+{
+ "corpus": "us/west-virginia/acts",
+ "path": "united-states/west-virginia/acts",
+ "scope": "selected-acts",
+ "acts": 1,
+ "future_branch": "future",
+ "publisher": "West Virginia Code (West Virginia Legislature)",
+ "name": "United States (West Virginia)",
+ "language": "en",
+ "coverage": "1 acts of United States (West Virginia), the current text of each as of 2026-10-30",
+ "history": "current-only",
+ "history_from": "2026-10-13",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from West Virginia Code (West Virginia Legislature).",
+ "in_force_trailer": "In-force"
+}

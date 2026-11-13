@@ -1,0 +1,22 @@
+{
+ "country": "US-WV",
+ "acts": [
+  {
+   "slug": "chapter-20-article-0002d",
+   "short": "W. Va. Code 20-2D",
+   "title": "West Virginia Code, CHAPTER 20. NATURAL RESOURCES. ARTICLE 2D. WILDLIFE REHABILITATION.",
+   "url": "https://code.wvlegislature.gov/20-2D/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://code.wvlegislature.gov/pdf/20-2D/",
+     "sha256": "acc6e6b82b57610e4c7361860795137916f9f9feaae2ad0b4116b833311e3744"
+    }
+   ]
+  }
+ ]
+}
