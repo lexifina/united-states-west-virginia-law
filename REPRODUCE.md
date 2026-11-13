@@ -1,6 +1,6 @@
 # How this repository was made (United States (West Virginia))
 
-This file is written by the build on 2026-11-11, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -56,6 +56,31 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Acts of the Legislature of West Virginia: Acts_2024_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_1.pdf> | 2026-11-11 | Legislative text; government edicts. |
 | Acts of the Legislature of West Virginia: Acts_2021_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf> | 2026-11-11 | Legislative text; government edicts. |
 | Acts of the Legislature of West Virginia: Acts_2025_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf> | 2026-11-11 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2021_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2025_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2021_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2025_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2021_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2021_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2024_Vol_3.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2025_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2021_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2021_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2024_Vol_3.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2025_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2025_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2024_Vol_3.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_3.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2022_Vol_1.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2022_Vol_1.pdf> | 2026-11-13 | Legislative text; government edicts. |
+| Acts of the Legislature of West Virginia: Acts_2024_Vol_2.pdf | <https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2024_Vol_2.pdf> | 2026-11-13 | Legislative text; government edicts. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -178,7 +203,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-4-article-0011a` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 11A. LEGISLATIVE APPROPRIATION OF TOBACCO SETTLEMENT FUNDS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-4-article-0012` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 12. ESTABLISHMENT OF A WEST VIRGINIA LAW INSTITUTE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-4-article-0013` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13. WEST VIRGINIA SESQUICENTENNIAL OF THE AMERICAN CIVIL WAR COMMISSION AND FUND. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-4-article-0013a` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13A. WEST VIRGINIA SEMIQUINCENTENNIAL COMMISSION AND FUND. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-4-article-0013a` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 13A. WEST VIRGINIA SEMIQUINCENTENNIAL COMMISSION AND FUND. | 2 | 2021-04-07 to 2026-10-13 |
 | `chapter-4-article-0014` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 14. LEGISLATIVE OVERSIGHT COMMISSION ON DEPARTMENT OF TRANSPORTATION ACCOUNTABILITY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-4-article-0015` | West Virginia Code, CHAPTER 4. THE LEGISLATURE. ARTICLE 15. JOINT LEGISLATIVE COMMITTEE ON FLOODING. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5-article-0001` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 1. THE GOVERNOR. | 1 | 2026-10-13 to 2026-10-13 |
@@ -232,7 +257,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-5-article-0029` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 29. EXPEDITIOUS ISSUANCE OF LICENSES BY REGULATORY AGENCIES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5-article-0030` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 30. ROSTERS OF INDIVIDUALS AUTHORIZED TO PRACTICE PROFESSIONS, OCCUPATIONS, AND TRADES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5-article-0031` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 31. THE WEST VIRGINIA FIRST FOUNDATION. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-5-article-0032` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 32. SEX DEFINITIONS AND PRESERVATION OF SINGLE-SEX SPACES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-5-article-0032` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 32. SEX DEFINITIONS AND PRESERVATION OF SINGLE-SEX SPACES. | 2 | 2025-06-09 to 2026-10-13 |
 | `chapter-5-article-0033` | West Virginia Code, CHAPTER 5. GENERAL POWERS AND AUTHORITY OF THE GOVERNOR, SECRETARY OF STATE AND ATTORNEY GENERAL; BOARD OF PUBLIC WORKS; MISCELLANEOUS AGENCIES, COMMISSIONS, OFFICES, PROGRAMS, ETC. ARTICLE 33. EQUAL TREATMENT BY EXECUTIVE BRANCH ACT OF 2025. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0001` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 1. DEPARTMENT OF ADMINISTRATION. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0001a` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 1A. EMPLOYEE SUGGESTION AWARD BOARD. | 1 | 2026-10-13 to 2026-10-13 |
@@ -249,7 +274,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-5a-article-0006` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 6. OFFICE OF TECHNOLOGY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0006a` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 6A. PERMITTING AND LICENSING INFORMATION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0006b` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 6B. CYBER SECURITY PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-5a-article-0006c` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 6C. WEST VIRGINIA CYBER INCIDENT REPORTING. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-5a-article-0006c` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 6C. WEST VIRGINIA CYBER INCIDENT REPORTING. | 2 | 2021-07-05 to 2026-10-13 |
 | `chapter-5a-article-0007` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 7. INFORMATION SERVICES AND COMMUNICATIONS DIVISION. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0008` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 8. PUBLIC RECORDS MANAGEMENT AND PRESERVATION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5a-article-0009` | West Virginia Code, CHAPTER 5A. DEPARTMENT OF ADMINISTRATION. ARTICLE 9. VOLUNTARY GILDING THE DOME CHECK-OFF PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
@@ -272,7 +297,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-5b-article-0002h` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2H. MARCELLUS GAS AND MANUFACTURING DEVELOPMENT ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5b-article-0002i` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2I. DEPARTMENT OF TOURISM. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5b-article-0002j` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2J. NATURAL GAS LIQUIDS ECONOMIC DEVELOPMENT ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-5b-article-0002k` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2K. COALFIELD COMMUNITIES GRANT FACILITATION COMMISSION. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-5b-article-0002k` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2K. COALFIELD COMMUNITIES GRANT FACILITATION COMMISSION. | 2 | 2022-06-08 to 2026-10-13 |
 | `chapter-5b-article-0002l` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2L. BUILD WV ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5b-article-0002m` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2M. PROMOTING PUBLIC-USE VERTIPORTS ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-5b-article-0002n` | West Virginia Code, CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985. ARTICLE 2N. COMPREHENSIVE GRID STABILIZATION AND ENERGY SECURITY ACT OF 2026. | 2 | 2023-06-04 to 2026-10-13 |
@@ -314,7 +339,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-6-article-0009a` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9A. OPEN GOVERNMENTAL PROCEEDINGS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-6-article-0009b` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9B | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-6-article-0009c` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9C. UNIFORM PUBLIC MEETINGS DURING EMERGENCIES ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-6-article-0009d` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9D. LOCAL FISCAL EMERGENCIES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-6-article-0009d` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 9D. LOCAL FISCAL EMERGENCIES. | 2 | 2025-07-11 to 2026-10-13 |
 | `chapter-6-article-0010` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 10. EMPLOYMENT OF WIFE BY STATE OFFICIAL OR EMPLOYEE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-6-article-0011` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 11. LEAVE OF ABSENCE FOR PUBLIC OFFICERS ENTERING MILITARY SERVICE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-6-article-0011a` | West Virginia Code, CHAPTER 6. GENERAL PROVISIONS RESPECTING OFFICERS. ARTICLE 11A. PREFERENCE RATING OF VETERANS ON WRITTEN EXAMINATIONS ON NONPARTISAN MERIT BASIS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -465,7 +490,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-9a-article-0002` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 2. STATE HOMES FOR VETERANS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-9a-article-0003` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 3. STATE CEMETERY FOR VETERANS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-9a-article-0004` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 4. VETERANS EMPLOYMENT TRAINING PRIORITY. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-9a-article-0005` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 5. AID TO AT-RISK VETERANS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-9a-article-0005` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 5. AID TO AT-RISK VETERANS. | 2 | 2022-06-02 to 2026-10-13 |
 | `chapter-9a-article-0006` | West Virginia Code, CHAPTER 9A. VETERANS' AFFAIRS. ARTICLE 6. WEST VIRGINIA MILITARY HALL OF FAME. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-10-article-0001` | West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 1. PUBLIC LIBRARIES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-10-article-0001a` | West Virginia Code, CHAPTER 10. PUBLIC LIBRARIES; PUBLIC RECREATION; ATHLETIC ESTABLISHMENTS; MONUMENTS AND MEMORIALS; ROSTER OF SERVICEMEN; EDUCATIONAL BROADCASTING AUTHORITY. ARTICLE 1A. INTERSTATE LIBRARY COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
@@ -605,7 +630,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-12-article-0006e` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 6E. WEST VIRGINIA IMPACT FUND. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-12-article-0007` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 7. JOBS INVESTMENT TRUST FUND. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-12-article-0008` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 8. PENSION LIABILITY REDEMPTION. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-12-article-0009` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 9. SAVINGS AND INVESTMENT PROGRAM FULFILLMENT FUND. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-12-article-0009` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 9. SAVINGS AND INVESTMENT PROGRAM FULFILLMENT FUND. | 2 | 2022-01-24 to 2026-10-13 |
 | `chapter-12-article-0010` | West Virginia Code, CHAPTER 12. PUBLIC MONEYS AND SECURITIES. ARTICLE 10. PROMPT PAYMENT ACT OF 2025. | 2 | 2025-07-08 to 2026-10-13 |
 | `chapter-13-article-0001` | West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 1. BOND ISSUES FOR ORIGINAL INDEBTEDNESS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-13-article-0002` | West Virginia Code, CHAPTER 13. PUBLIC BONDED INDEBTEDNESS. ARTICLE 2. REFUNDING BONDS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -675,7 +700,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-15a-article-0002` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 2 | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-15a-article-0003` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 3 | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-15a-article-0004` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4. CORRECTIONS MANAGEMENT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-15a-article-0004a` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4A. EXPANDED WORK RELEASE PILOT PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-15a-article-0004a` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4A. EXPANDED WORK RELEASE PILOT PROGRAM. | 2 | 2021-04-10 to 2026-10-13 |
 | `chapter-15a-article-0005` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 5 | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-15a-article-0006` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 6 | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-15a-article-0007` | West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 7 | 1 | 2026-10-13 to 2026-10-13 |
@@ -706,7 +731,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16-article-0002n` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2N. NEONATAL ABSTINENCE CENTERS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002o` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2O. UNBORN CHILD PROTECTION FROM DISMEMBERMENT ABORTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0002p` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2P. BORN-ALIVE ABORTION SURVIVORS PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0002q` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2Q. UNBORN CHILD WITH A DISABILITY PROTECTION AND EDUCATION ACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0002q` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2Q. UNBORN CHILD WITH A DISABILITY PROTECTION AND EDUCATION ACT. | 2 | 2022-06-10 to 2026-10-13 |
 | `chapter-16-article-0002r` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 2R. UNBORN CHILD PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0003` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3. PREVENTION AND CONTROL OF COMMUNICABLE AND OTHER INFECTIOUS DISEASES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0003a` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 3A. REPOSITORY OF INFORMATION ON MEDICAL TREATMENT FOR CERTAIN HAZARDOUS MATERIALS; REQUEST FOR INFORMATION; PENALTIES; ENFORCEMENT. | 1 | 2026-10-13 to 2026-10-13 |
@@ -750,7 +775,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16-article-0005aa` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5AA. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL IN NURSING HOMES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0005bb` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5BB. SCREENING PROTOCOLS FOR ADVERSE CHILDHOOD EXPERIENCES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0005cc` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5CC. WEST VIRGINIA ADVISORY COUNCIL ON RARE DISEASES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0005dd` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5DD. COLLECTION OF DATA RELATING TO PARKINSON'S DISEASE. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0005dd` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 5DD. COLLECTION OF DATA RELATING TO PARKINSON'S DISEASE. | 2 | 2022-02-15 to 2026-10-13 |
 | `chapter-16-article-0006` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 6. HOTELS AND RESTAURANTS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0007` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 7. PURE FOOD AND DRUGS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0008` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 8. ELECTROLOGISTS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -818,7 +843,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16-article-0039` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 39. PATIENT SAFETY ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0040` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 40. STATEWIDE BIRTH DEFECTS INFORMATION SYSTEM. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0041` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 41. ORAL HEALTH IMPROVEMENT ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0042` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 42. CORE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEM. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0042` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 42. CORE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEM. | 2 | 2022-03-08 to 2026-10-13 |
 | `chapter-16-article-0043` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 43. ENGINE COOLANT AND ANTIFREEZE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0044` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 44. THE PULSE OXIMETRY NEWBORN TESTING ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0045` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 45. TANNING FACILITIES. | 1 | 2026-10-13 to 2026-10-13 |
@@ -839,9 +864,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16-article-0060` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 60. RECOGNITION OF EMERGENCY MEDICAL SERVICES PERSONNEL LICENSURE INTERSTATE COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0061` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 61. PALLIATIVE CARE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0062` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 62. THE PATIENT BROKERING ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0063` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 63. STATEWIDE UNIFORMITY FOR AUXILIARY CONTAINER REGULATIONS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0063` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 63. STATEWIDE UNIFORMITY FOR AUXILIARY CONTAINER REGULATIONS. | 2 | 2021-04-10 to 2026-10-13 |
 | `chapter-16-article-0064` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 64. SYRINGE SERVICES PROGRAMS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16-article-0065` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 65. NONDISCRIMINATION RELATING TO ACCESS TO ORGAN TRANSPLANTATION. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16-article-0065` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 65. NONDISCRIMINATION RELATING TO ACCESS TO ORGAN TRANSPLANTATION. | 2 | 2022-06-09 to 2026-10-13 |
 | `chapter-16-article-0066` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 66. SUPPORT FOR MOTHERS AND BABIES ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0067` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 67. MAKE WEST VIRGINIA HEALTHY ACT OF 2026. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16-article-0068` | West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 68. LICENSURE AND CERTIFICATION OF ALCOHOL AND DRUG COUNSELORS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -862,28 +887,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-16a-article-0015` | West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 15. MISCELLANEOUS PROVISIONS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16a-article-0016` | West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 16. EFFECTIVE DATE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-16b-article-0001` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 1. OFFICE OF THE INSPECTOR GENERAL, LEGISLATIVE FINDINGS. | 2 | 2024-02-08 to 2026-10-13 |
-| `chapter-16b-article-0002` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 2. OFFICE OF THE INSPECTOR GENERAL, DUTIES, AND POWERS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0003` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 3. HOSPITALS AND SIMILAR INSTITUTIONS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0004` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 4. NURSING HOMES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0005` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 5. ASSISTED LIVING RESIDENCES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0006` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 6. REGISTRATION AND INSPECTION OF SERVICE PROVIDERS IN LEGALLY UNLICENSED HEALTH CARE HOMES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0007` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 7. CHRONIC PAIN CLINIC LICENSING ACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16b-article-0002` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 2. OFFICE OF THE INSPECTOR GENERAL, DUTIES, AND POWERS. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0003` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 3. HOSPITALS AND SIMILAR INSTITUTIONS. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0004` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 4. NURSING HOMES. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0005` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 5. ASSISTED LIVING RESIDENCES. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0006` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 6. REGISTRATION AND INSPECTION OF SERVICE PROVIDERS IN LEGALLY UNLICENSED HEALTH CARE HOMES. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0007` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 7. CHRONIC PAIN CLINIC LICENSING ACT. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0008` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 8. HOSPICE LICENSURE ACT. | 2 | 2024-02-08 to 2026-10-13 |
-| `chapter-16b-article-0009` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 9. RESIDENTIAL CARE COMMUNITIES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0010` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 10. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16b-article-0009` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 9. RESIDENTIAL CARE COMMUNITIES. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0010` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 10. MEDICATION ADMINISTRATION BY UNLICENSED PERSONNEL. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0011` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 11. THE ALZHEIMER'S SPECIAL CARE STANDARDS ACT. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0012` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 12. REGULATION OF BEHAVIORAL HEALTH. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0013` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 13. MEDICATION-ASSISTED TREATMENT PROGRAM LICENSING ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0014` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 14. MEDICATION ADMINISTERD BY UNLICENSED PERSONNEL IN NURSING HOMES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16b-article-0014` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 14. MEDICATION ADMINISTERD BY UNLICENSED PERSONNEL IN NURSING HOMES. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0015` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 15. WEST VIRGINIA CLEARANCE FOR ACCESS: REGISTRY AND EMPLOYMENT SCREENING ACT. | 2 | 2024-02-08 to 2026-10-13 |
-| `chapter-16b-article-0016` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 16. FOSTER CARE OMBUDSMAN PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0017` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 17. HUMAN RIGHTS COMMISSION. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0018` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 18. WEST VIRGINIA FAIR HOUSING ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0019` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 19. PREGNANCY WORKERS' FAIRNESS ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-16b-article-0020` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 20. BIRTHING CENTERS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-16b-article-0016` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 16. FOSTER CARE OMBUDSMAN PROGRAM. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0017` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 17. HUMAN RIGHTS COMMISSION. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0018` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 18. WEST VIRGINIA FAIR HOUSING ACT. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0019` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 19. PREGNANCY WORKERS' FAIRNESS ACT. | 2 | 2024-02-08 to 2026-10-13 |
+| `chapter-16b-article-0020` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 20. BIRTHING CENTERS. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-16b-article-0021` | West Virginia Code, CHAPTER 16B. INSPECTOR GENERAL. ARTICLE 21. NEONATAL ABSTINENCE SYNDRONE CENTER. | 2 | 2024-02-08 to 2026-10-13 |
 | `chapter-17-article-0001` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 1. DEFINITIONS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-17-article-0002` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 2. DEPARTMENT OF TRANSPORTATION. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-17-article-0002` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 2. DEPARTMENT OF TRANSPORTATION. | 2 | 2022-06-10 to 2026-10-13 |
 | `chapter-17-article-0002a` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 2A. WEST VIRGINIA COMMISSIONER OF HIGHWAYS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-17-article-0002b` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 2B. TOLL ROAD STUDY COMMISSION. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-17-article-0002c` | West Virginia Code, CHAPTER 17. ROADS AND HIGHWAYS. ARTICLE 2C. ORPHAN ROAD AND BRIDGE ACQUISITION PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
@@ -999,7 +1024,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-17c-article-0021` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 21. EFFECT OF CHAPTER. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-17c-article-0022` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 22. RIDESHARING. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-17c-article-0023` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 23. FUNERAL PROCESSIONS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-17c-article-0024` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 24. AUTONOMOUS VEHICLES AND DEVICES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-17c-article-0024` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 24. AUTONOMOUS VEHICLES AND DEVICES. | 2 | 2022-06-06 to 2026-10-13 |
 | `chapter-17c-article-0025` | West Virginia Code, CHAPTER 17C. TRAFFIC REGULATIONS AND LAWS OF THE ROAD. ARTICLE 25. AVIATION RELATED OFFENSES. | 2 | 2022-04-25 to 2026-10-13 |
 | `chapter-17d-article-0001` | West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 1. WORDS AND PHRASES DEFINED. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-17d-article-0002` | West Virginia Code, CHAPTER 17D. MOTOR VEHICLE SAFETY RESPONSIBILITY LAW. ARTICLE 2. ADMINISTRATION OF LAW. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1051,7 +1076,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-18-article-0009d` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9D. SCHOOL BUILDING AUTHORITY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0009e` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9E. AIR QUALITY IN NEW SCHOOLS ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0009f` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9F. SCHOOL ACCESS SAFETY ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-18-article-0009g` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9G. WATER BOTTLE FILLING STATIONS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-18-article-0009g` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9G. WATER BOTTLE FILLING STATIONS. | 2 | 2022-06-10 to 2026-10-13 |
 | `chapter-18-article-0009h` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 9H. DISPLAY OF NATIONAL MOTTO. | 2 | 2025-07-11 to 2026-10-13 |
 | `chapter-18-article-0010` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 10. FEDERAL AID AND GIFTS FOR EDUCATIONAL PURPOSES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18-article-0010a` | West Virginia Code, CHAPTER 18. EDUCATION. ARTICLE 10A. REHABILITATION SERVICES. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1170,7 +1195,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-18b-article-0019` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 19. CAPITAL PROJECTS AND FACILITIES NEEDS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0020` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 20. FREE EXPRESSION ON CAMPUS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18b-article-0021` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 21. STUDENT JOURNALIST PRESS FREEDOM PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-18b-article-0022` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 22. NAME, IMAGE, OR LIKENESS IN INTERCOLLEGIATE ATHLETICS. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-18b-article-0022` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 22. NAME, IMAGE, OR LIKENESS IN INTERCOLLEGIATE ATHLETICS. | 2 | 2025-04-10 to 2026-10-13 |
 | `chapter-18b-article-0023` | West Virginia Code, CHAPTER 18B. HIGHER EDUCATION. ARTICLE 23. WOMEN'S COLLEGIATE SPORTS PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18c-article-0001` | West Virginia Code, CHAPTER 18C. STUDENT LOANS; SCHOLARSHIPS AND STATE AID. ARTICLE 1. FINANCIAL ASSISTANCE GENERALLY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-18c-article-0002` | West Virginia Code, CHAPTER 18C. STUDENT LOANS; SCHOLARSHIPS AND STATE AID. ARTICLE 2. GUARANTEED STUDENT LOAN PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1254,7 +1279,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-19-article-0035` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 35. FARMERS MARKETS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-19-article-0036` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 36 | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-19-article-0037` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 37 | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-19-article-0038` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 38. AGRICULTURE INVESTMENT PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-19-article-0038` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 38. AGRICULTURE INVESTMENT PROGRAM. | 2 | 2021-07-05 to 2026-10-13 |
 | `chapter-19-article-0039` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 39. TRUTH IN FOOD PRODUCT LABELING ACT. | 2 | 2024-06-07 to 2026-10-13 |
 | `chapter-19-article-0040` | West Virginia Code, CHAPTER 19. AGRICULTURE. ARTICLE 40. COTTAGE FOODS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-20-article-0001` | West Virginia Code, CHAPTER 20. NATURAL RESOURCES. ARTICLE 1. ORGANIZATION AND ADMINISTRATION. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1406,7 +1431,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-22-article-0030` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 30. THE ABOVEGROUND STORAGE TANK ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-22-article-0031` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 31. THE PUBLIC WATER SUPPLY PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-22-article-0032` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 32. THE WEST VIRGINIA WIND AND SOLAR ENERGY FACILITY RECLAMATION ACT. | 2 | 2021-07-09 to 2026-10-13 |
-| `chapter-22-article-0033` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 33. GEOTHERMAL ENERGY DEVELOPMENT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-22-article-0033` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 33. GEOTHERMAL ENERGY DEVELOPMENT. | 2 | 2022-06-10 to 2026-10-13 |
 | `chapter-22-article-0034` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 34. DEPARTMENT OF ENVIRONMENTAL PROTECTION DESIGN-BUILD PILOT PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-22-article-0036` | West Virginia Code, CHAPTER 22. ENVIRONMENTAL RESOURCES. ARTICLE 36. ADMINISTRATION OF THE WEST VIRGINIA DRINKING WATER TREATMENT REVOLVING FUND. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-22a-article-0001` | West Virginia Code, CHAPTER 22A. MINERS' HEALTH, SAFETY AND TRAINING. ARTICLE 1. OFFICE OF MINERS' HEALTH, SAFETY AND TRAINING; ADMINISTRATION; ENFORCEMENT. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1643,7 +1668,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-30-article-0003d` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3D. PHYSICIAN HEALTH PROGRAMS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0003e` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3E. PHYSICIAN ASSISTANTS PRACTICE ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0003f` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3F. DIRECT PRIMARY CARE PRACTICE. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-30-article-0003g` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3G. PHYSICIAN ASSISTANT LICENSURE COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-30-article-0003g` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3G. PHYSICIAN ASSISTANT LICENSURE COMPACT. | 2 | 2024-06-06 to 2026-10-13 |
 | `chapter-30-article-0003h` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 3H. GENETIC COUNSELORS PRACTICE ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0004` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 4. WEST VIRGINIA DENTAL PRACTICE ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0004a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 4A. ADMINISTRATION OF ANESTHESIA BY DENTISTS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1686,13 +1711,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-30-article-0027` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 27. BOARD OF BARBERS AND COSMETOLOGISTS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0027a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 27A. INTERSTATE COSMETOLOGY LICENSURE COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0028` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 28. WEST VIRGINIA OCCUPATIONAL THERAPY PRACTICE ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-30-article-0028a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 28A. WEST VIRGINIA OCCUPATIONAL THERAPY COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-30-article-0028a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 28A. WEST VIRGINIA OCCUPATIONAL THERAPY COMPACT. | 2 | 2022-05-26 to 2026-10-13 |
 | `chapter-30-article-0029` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 29. LAW-ENFORCEMENT TRAINING AND CERTIFICATION. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0029a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 29A. STANDARDS FOR PROFESSIONAL FIRE FIGHTERS TRAINING; REGISTERED APPRENTICESHIP AND CERTIFICATION. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0030` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 30. SOCIAL WORKERS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0030a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 30A. SOCIAL WORK LICENSURE COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0031` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 31. LICENSED PROFESSIONAL COUNSELORS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-30-article-0031a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 31A. LICENSED PROFESSIONAL COUNSELING COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-30-article-0031a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 31A. LICENSED PROFESSIONAL COUNSELING COMPACT. | 2 | 2022-06-06 to 2026-10-13 |
 | `chapter-30-article-0032` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 32. SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0032a` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 32A. SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS COMPACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-30-article-0033` | West Virginia Code, CHAPTER 30. PROFESSIONS AND OCCUPATIONS. ARTICLE 33. TATTOO STUDIO BUSINESS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1825,7 +1850,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-31h-article-0001` | West Virginia Code, CHAPTER 31H. SMALL WIRELESS FACILITIES DEPLOYMENT ACT. ARTICLE 1. WEST VIRGINIA SMALL WIRELESS FACILITIES DEPLOYMENT ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-31h-article-0002` | West Virginia Code, CHAPTER 31H. SMALL WIRELESS FACILITIES DEPLOYMENT ACT. ARTICLE 2. ACCESS TO PUBLIC RIGHTS-OF-WAY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-31i-article-0001` | West Virginia Code, CHAPTER 31I. TRUST COMPANIES. ARTICLE 1. PRIVATE TRUST COMPANIES AND PRIVATE TRUST BUSINESS. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-31j-article-0001` | West Virginia Code, CHAPTER 31J. WIRELESS TOWER FACILITIES. ARTICLE 1. WIRELESS TOWER FACILITIES SITING AND COLOCATION. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-31j-article-0001` | West Virginia Code, CHAPTER 31J. WIRELESS TOWER FACILITIES. ARTICLE 1. WIRELESS TOWER FACILITIES SITING AND COLOCATION. | 2 | 2025-07-09 to 2026-10-13 |
 | `chapter-32-article-0001` | West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 1. FRAUDULENT AND OTHER PROHIBITED PRACTICES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-32-article-0002` | West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 2. REGISTRATION OF BROKER-DEALERS AND AGENTS; REGISTRATION AND NOTICE FILING FOR INVESTMENT ADVISERS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-32-article-0003` | West Virginia Code, CHAPTER 32. UNIFORM SECURITIES ACT. ARTICLE 3. REGISTRATION OF SECURITIES. | 1 | 2026-10-13 to 2026-10-13 |
@@ -1952,7 +1977,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-33-article-0058` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 58. REQUIRED COVERAGE FOR HEALTH INSURANCE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-33-article-0059` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 59. REQUIRED COVERAGE FOR HEALTH INSURANCE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-33-article-0060` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 60. INSURANCE INNOVATION. | 2 | 2021-07-09 to 2026-10-13 |
-| `chapter-33-article-0061` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 61. MINING MUTUAL INSURANCE COMPANY. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-33-article-0061` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 61. MINING MUTUAL INSURANCE COMPANY. | 2 | 2022-03-12 to 2026-10-13 |
 | `chapter-33-article-0062` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 62. TRAVEL INSURANCE MODEL ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-33-article-0063` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 63. DELIVERY NETWORK COMPANY INSURANCE ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-33-article-0064` | West Virginia Code, CHAPTER 33. INSURANCE. ARTICLE 64. WELLNESS REIMBURSEMENT PLANS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2304,7 +2329,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-55-article-0003` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 3. UNLAWFUL ENTRY OR DETAINER. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0003a` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 3A. REMEDIES FOR WRONGFUL OCCUPATION OF RESIDENTIAL RENTAL PROPERTY. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0003b` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 3B. REMEDIES FOR WRONGFUL OCCUPATION OF FACTORY-BUILT HOME SITE. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-55-article-0003c` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 3C. STOP SQUATTERS ACT. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-55-article-0003c` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 3C. STOP SQUATTERS ACT. | 2 | 2024-06-04 to 2026-10-13 |
 | `chapter-55-article-0004` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 4. EJECTMENT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0005` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 5. ALLOWANCE FOR IMPROVEMENTS. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0006` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 6. RECOVERY OF PERSONAL PROPERTY. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2333,7 +2358,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-55-article-0017` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 17. PROCEDURES FOR CERTAIN ACTIONS AGAINST THE STATE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0018` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 18. LIMITATIONS OF ACTIONS REGARDING FIREARMS MANUFACTURE AND SALE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-55-article-0019` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 19. COVID-19 JOBS PROTECTION ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-55-article-0020` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 20. CIVIL REMEDIES FOR UNAUTHORIZED DISCLOSURE OF INTIMATE IMAGES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-55-article-0020` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 20. CIVIL REMEDIES FOR UNAUTHORIZED DISCLOSURE OF INTIMATE IMAGES. | 2 | 2022-05-26 to 2026-10-13 |
 | `chapter-55-article-0021` | West Virginia Code, CHAPTER 55. ACTIONS, SUITS AND ARBITRATION; JUDICIAL SALE. ARTICLE 21. UNIFORM COMMERCIAL REAL ESTATE RECEIVERSHIP ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-56-article-0001` | West Virginia Code, CHAPTER 56. PLEADING AND PRACTICE. ARTICLE 1. VENUE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-56-article-0002` | West Virginia Code, CHAPTER 56. PLEADING AND PRACTICE. ARTICLE 2. NOTICES AND MOTIONS. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2383,7 +2408,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-60a-article-0009` | West Virginia Code, CHAPTER 60A. UNIFORM CONTROLLED SUBSTANCES ACT. ARTICLE 9. CONTROLLED SUBSTANCES MONITORING. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-60a-article-0010` | West Virginia Code, CHAPTER 60A. UNIFORM CONTROLLED SUBSTANCES ACT. ARTICLE 10. METHAMPHETAMINE LABORATORY ERADICATION ACT. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-60a-article-0011` | West Virginia Code, CHAPTER 60A. UNIFORM CONTROLLED SUBSTANCES ACT. ARTICLE 11. CLANDESTINE DRUG LABORATORY REMEDIATION ACT. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-60b-article-0001` | West Virginia Code, CHAPTER 60B. DONATED DRUG REPOSITORY PROGRAM. ARTICLE 1. DONATED DRUG REPOSITORY PROGRAM. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-60b-article-0001` | West Virginia Code, CHAPTER 60B. DONATED DRUG REPOSITORY PROGRAM. ARTICLE 1. DONATED DRUG REPOSITORY PROGRAM. | 2 | 2022-06-09 to 2026-10-13 |
 | `chapter-62-article-0001` | West Virginia Code, CHAPTER 62. CRIMINAL PROCEDURE. ARTICLE 1. PRELIMINARY PROCEDURE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-62-article-0001a` | West Virginia Code, CHAPTER 62. CRIMINAL PROCEDURE. ARTICLE 1A. SEARCH AND SEIZURE. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-62-article-0001b` | West Virginia Code, CHAPTER 62. CRIMINAL PROCEDURE. ARTICLE 1B. DISCOVERY. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2424,7 +2449,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-64-article-0003` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 3. AUTHORIZATION FOR DEPARTMENT OF ENVIRONMENTAL PROTECTION TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-64-article-0004` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 4. AUTHORIZATION FOR DEPARTMENT OF EDUCATION AND THE ARTS TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-64-article-0005` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5. AUTHORIZATION FOR DEPARTMENT OF HEALTH TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
-| `chapter-64-article-0005a` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5A. AUTHORIZATION FOR DEPARTMENT OF HUMAN SERVICES TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-64-article-0005a` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5A. AUTHORIZATION FOR DEPARTMENT OF HUMAN SERVICES TO PROMULGATE LEGISLATIVE RULES. | 2 | 2024-02-05 to 2026-10-13 |
 | `chapter-64-article-0005b` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5B. AUTHORIZATION FOR OFFICE OF INSPECTOR GENERAL TO PROMULGATE LEGISLATIVE RULES. | 2 | 2025-04-11 to 2026-10-13 |
 | `chapter-64-article-0005c` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 5C. AUTHORIZATION FOR THE DEPARTMENT OF HEALTH FACILITIES TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-64-article-0006` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 6. AUTHORIZATION FOR DEPARTMENT OF HOMELAND SECURITY TO PROMULGATE LEGISLATIVE RULES. | 1 | 2026-10-13 to 2026-10-13 |
@@ -2435,16 +2460,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-64-article-0011` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 11. TECHNICAL CORRECTIONS TO THE CODE OF STATE RULES. | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-64-article-0012` | West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 12 | 1 | 2026-10-13 to 2026-10-13 |
 
-The build made 2481 commits:
+The build made 2565 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2371 | first version of an act |
-| 0 | one law on its in-force day |
+| 2371 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 194 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 2371 tags.
@@ -2459,8 +2486,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d88c434eb8441e5999b2df73162cf85a6117b10ddb9c44f4ef8d2354e305b565` (58475768 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `42b54021d1766facb1128255ea4933cdd769f03079647f9e12acc21d4a070bfd` (60247647 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -2523,10 +2550,32 @@ No second build of this corpus has been compared yet.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 - Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
+- Earlier entries are complete Code articles as enacted in the cited Acts volumes. Dates use the printed commencement statement, including its stated number of days after passage. Current published wording is retained; intervening consolidations are not reconstructed.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -2534,6 +2583,28 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
+- A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.
 - A model wrote extraction and verification code; no model-generated legal wording was used.
