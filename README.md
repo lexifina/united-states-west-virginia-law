@@ -1,5 +1,10 @@
 # West Virginia law
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="West Virginia law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 The West Virginia Code and Constitution, with earlier complete Code articles as enacted in the Legislature’s Acts volumes.
 
 | Question | Command |
