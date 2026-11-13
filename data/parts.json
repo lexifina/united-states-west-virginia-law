@@ -3434,6 +3434,204 @@
     "chapter-39b-article-0004"
    ],
    "sha256": "a6380a69542268f15aa54483f27e7ad407770f975ace86faefa5c38a9b1d975c"
+  },
+  "zz-q1932-history-w4-ch-0005a.json": {
+   "acts": [
+    "chapter-5a-article-0012"
+   ],
+   "sha256": "a2214e82d0c7b2f63612dc78c5d6cd82210eab15e35476873334b5587f7b2f5b"
+  },
+  "zz-q1932-history-w4-ch-0009.json": {
+   "acts": [
+    "chapter-9-article-0010"
+   ],
+   "sha256": "2a95abb9a95f0076bc43558ad8fb082778a5ac8f231e710e074eda7c98497afa"
+  },
+  "zz-q1932-history-w4-ch-0011.json": {
+   "acts": [
+    "chapter-11-article-0006l",
+    "chapter-11-article-0021a"
+   ],
+   "sha256": "b651db36fa9a1d0b63268106b18b2ba712f7ef777a7d1a70cf0df313f196a378"
+  },
+  "zz-q1932-history-w4-ch-0015a.json": {
+   "acts": [
+    "chapter-15a-article-0001",
+    "chapter-15a-article-0002",
+    "chapter-15a-article-0003",
+    "chapter-15a-article-0004",
+    "chapter-15a-article-0005",
+    "chapter-15a-article-0006",
+    "chapter-15a-article-0007",
+    "chapter-15a-article-0008"
+   ],
+   "sha256": "085fd248a7baffba98de2992f4edb603b1c2c0192a2057d60c5a66f36a60dfe5"
+  },
+  "zz-q1932-history-w4-ch-0016.json": {
+   "acts": [
+    "chapter-16-article-0054",
+    "chapter-16-article-0058"
+   ],
+   "sha256": "527ade4a0dd7b79f0d3d564848c2c097d33cda2b005f9a3fa68c085c92ae8e49"
+  },
+  "zz-q1932-history-w4-ch-0016a.json": {
+   "acts": [
+    "chapter-16a-article-0001"
+   ],
+   "sha256": "178c812c72ffc39daf780a78160d47fdb4d6f3fa46aa69bde8304299a33d4d80"
+  },
+  "zz-q1932-history-w4-ch-0019.json": {
+   "acts": [
+    "chapter-19-article-0036"
+   ],
+   "sha256": "c0fdbd8156f50f0fdb463bd55e5104b26497604b7accf04d19a683aa97414874"
+  },
+  "zz-q1932-history-w4-ch-0020.json": {
+   "acts": [
+    "chapter-20-article-0017"
+   ],
+   "sha256": "55bd45b66bbb99d0ba92c4cf7da07ae23d2da99b45f36a5f15f23e839df16cf6"
+  },
+  "zz-q1932-history-w4-ch-0021.json": {
+   "acts": [
+    "chapter-21-article-0001e"
+   ],
+   "sha256": "967559b330aad468c32402b4063fb84305b94424c35170945156668ed966ea2c"
+  },
+  "zz-q1932-history-w4-ch-0031h.json": {
+   "acts": [
+    "chapter-31h-article-0001"
+   ],
+   "sha256": "7f093420f2b9618784eee38d66892b2971f580139c0c7bc0eb285c389316713b"
+  },
+  "zz-q1932-history-w4-ch-0033.json": {
+   "acts": [
+    "chapter-33-article-0052"
+   ],
+   "sha256": "c0895f80ac0cddf87dbc05a8a6f82bc6ad5189ef831e7ab516ffeb6487101937"
+  },
+  "zz-q1932-history-w4-ch-0037b.json": {
+   "acts": [
+    "chapter-37b-article-0001"
+   ],
+   "sha256": "7c1083eff83741ad15a3c4a4897feeaa909e6dc7c659303ef6fd9a1ba93f7ea9"
+  },
+  "zz-q1932-history-w4-ch-0039.json": {
+   "acts": [
+    "chapter-39-article-0004a"
+   ],
+   "sha256": "fc8f7c4d118e733ee393ca734b261db5d00b84966944794ee3c0b19326fa0ff1"
+  },
+  "zz-q1932-history-w4-ch-0062.json": {
+   "acts": [
+    "chapter-62-article-0014a"
+   ],
+   "sha256": "e181510449faabc6d1ec6e19f1dea8c75fbbaf5e025c10bb32e735d71d41f3f5"
+  },
+  "zz-q1932-history-w4-ch-0064.json": {
+   "acts": [
+    "chapter-64-article-0012"
+   ],
+   "sha256": "10eabd2201835e23596081b210ded3d4e9c6f4dd772ae9532affdc71cf4cb6a4"
+  },
+  "zz-q1932r1-history-w4-ch-0005a.json": {
+   "acts": [
+    "chapter-5a-article-0012"
+   ],
+   "sha256": "d19f15cfd02c5ddc9c366acf0ac0b1110221a13479ee1b75ff38a56f5793b4da"
+  },
+  "zz-q1932r1-history-w4-ch-0009.json": {
+   "acts": [
+    "chapter-9-article-0010"
+   ],
+   "sha256": "b4f725aa0418deed325bfc83254c14a19d643d5a999d834af3f51be64d9a8e2f"
+  },
+  "zz-q1932r1-history-w4-ch-0011.json": {
+   "acts": [
+    "chapter-11-article-0006l",
+    "chapter-11-article-0021a"
+   ],
+   "sha256": "178a6c7afa361b6d4a10528d450f617353998bc13122d40ee27b275400978575"
+  },
+  "zz-q1932r1-history-w4-ch-0015a.json": {
+   "acts": [
+    "chapter-15a-article-0001",
+    "chapter-15a-article-0002",
+    "chapter-15a-article-0003",
+    "chapter-15a-article-0004",
+    "chapter-15a-article-0005",
+    "chapter-15a-article-0006",
+    "chapter-15a-article-0007",
+    "chapter-15a-article-0008"
+   ],
+   "sha256": "13230e72262df956d8e0cf2d1ad919b24d9178958b0c1be37c313cd21eec62b4"
+  },
+  "zz-q1932r1-history-w4-ch-0016.json": {
+   "acts": [
+    "chapter-16-article-0054",
+    "chapter-16-article-0058"
+   ],
+   "sha256": "a5c86ec7f30538f1fdfdce377537775186610b23fa129d4f9b32c47862b444b8"
+  },
+  "zz-q1932r1-history-w4-ch-0016a.json": {
+   "acts": [
+    "chapter-16a-article-0001"
+   ],
+   "sha256": "8ed600c7eaf389a1a30a1ec68467b95329370685ee63363fa3bb950bdc1bdb97"
+  },
+  "zz-q1932r1-history-w4-ch-0019.json": {
+   "acts": [
+    "chapter-19-article-0036"
+   ],
+   "sha256": "9d4d728c4e7d4d4350fa84cecd36eec4ffe4a4a4faa917686be94afbaa1f0685"
+  },
+  "zz-q1932r1-history-w4-ch-0020.json": {
+   "acts": [
+    "chapter-20-article-0017"
+   ],
+   "sha256": "40baae48c9168b02c175dec8c7e3dfde47ae1e18d5d782a6dd150d351d6a6d7c"
+  },
+  "zz-q1932r1-history-w4-ch-0021.json": {
+   "acts": [
+    "chapter-21-article-0001e"
+   ],
+   "sha256": "7dccbe41e5517cc59cacbae2eee7e6bff93c1d1450e1c5b6f3ee74dd125f2e3e"
+  },
+  "zz-q1932r1-history-w4-ch-0031h.json": {
+   "acts": [
+    "chapter-31h-article-0001"
+   ],
+   "sha256": "e41c4c65a8570ba0faeac12fd7e3e8f15fa90f6a5ce7ddd4a71759bbbcb14a47"
+  },
+  "zz-q1932r1-history-w4-ch-0033.json": {
+   "acts": [
+    "chapter-33-article-0052"
+   ],
+   "sha256": "c7086f2a76e7ba19e14ffafd28579100797694ede0f96ba0a5fb4fd61deb4c1e"
+  },
+  "zz-q1932r1-history-w4-ch-0037b.json": {
+   "acts": [
+    "chapter-37b-article-0001"
+   ],
+   "sha256": "e595e6ef517e4f78168d9bc2810ff7acd743b4d2f5b99ea628c206b65fef5afd"
+  },
+  "zz-q1932r1-history-w4-ch-0039.json": {
+   "acts": [
+    "chapter-39-article-0004a"
+   ],
+   "sha256": "91425b38c09565fbee07c05eae0ebe6aca952ac37c5eb0ae101a1a025006cdf2"
+  },
+  "zz-q1932r1-history-w4-ch-0062.json": {
+   "acts": [
+    "chapter-62-article-0014a"
+   ],
+   "sha256": "14f2a52b64ad7efd2040e1dd170bc3e33095a3a1509d3ef54d767d0dd43687dc"
+  },
+  "zz-q1932r1-history-w4-ch-0064.json": {
+   "acts": [
+    "chapter-64-article-0012"
+   ],
+   "sha256": "4da32796c16139035f5826787eb05ef0d3f4771dd651f581b610b50fe0dd01ab"
   }
  },
  "schema": 1
