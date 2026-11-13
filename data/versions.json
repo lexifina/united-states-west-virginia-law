@@ -3308,6 +3308,15 @@
    "url": "https://code.wvlegislature.gov/5A-12/",
    "versions": [
     {
+     "from": "2018-06-05",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1015",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -6866,6 +6875,15 @@
    "url": "https://code.wvlegislature.gov/9-10/",
    "versions": [
     {
+     "from": "2018-05-31",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_2.pdf#page=38",
+     "sha256": "0234e0b1032b4ca0eab0d13627dce7608388f3583071e45d07b4079699a2342e"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -7512,6 +7530,15 @@
    "title": "West Virginia Code, CHAPTER 11. TAXATION. ARTICLE 6L. SPECIAL METHOD FOR VALUATION OF CERTAIN WIRELESS TECHNOLOGY PROPERTY.",
    "url": "https://code.wvlegislature.gov/11-6L/",
    "versions": [
+    {
+     "from": "2019-03-05",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_1.pdf#page=498",
+     "sha256": "3a1db7b641f8bc9007afa1b41fdf60dc3b31c63da34c6390199062fc41779d56"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -8822,6 +8849,15 @@
    "title": "West Virginia Code, CHAPTER 11. TAXATION. ARTICLE 21A. ADDITIONAL INCOME TAXES DUE TO FEDERAL PARTNERSHIP ADJUSTMENTS.",
    "url": "https://code.wvlegislature.gov/11-21A/",
    "versions": [
+    {
+     "from": "2019-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=764",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -10551,6 +10587,15 @@
    "url": "https://code.wvlegislature.gov/15A-1/",
    "versions": [
     {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -10567,6 +10612,15 @@
    "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 2",
    "url": "https://code.wvlegislature.gov/15A-2/",
    "versions": [
+    {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -10585,6 +10639,15 @@
    "url": "https://code.wvlegislature.gov/15A-3/",
    "versions": [
     {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -10601,6 +10664,15 @@
    "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 4. CORRECTIONS MANAGEMENT.",
    "url": "https://code.wvlegislature.gov/15A-4/",
    "versions": [
+    {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -10645,6 +10717,15 @@
    "url": "https://code.wvlegislature.gov/15A-5/",
    "versions": [
     {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -10661,6 +10742,15 @@
    "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 6",
    "url": "https://code.wvlegislature.gov/15A-6/",
    "versions": [
+    {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -10679,6 +10769,15 @@
    "url": "https://code.wvlegislature.gov/15A-7/",
    "versions": [
     {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -10695,6 +10794,15 @@
    "title": "West Virginia Code, CHAPTER 15A. DEPARTMENT OF HOMELAND SECURITY. ARTICLE 8",
    "url": "https://code.wvlegislature.gov/15A-8/",
    "versions": [
+    {
+     "from": "2018-07-01",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=1045",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -13308,6 +13416,15 @@
    "url": "https://code.wvlegislature.gov/16-54/",
    "versions": [
     {
+     "from": "2018-06-07",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=486",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -13375,6 +13492,15 @@
    "title": "West Virginia Code, CHAPTER 16. PUBLIC HEALTH. ARTICLE 58. FAMILY PLANNING ACCESS ACT.",
    "url": "https://code.wvlegislature.gov/16-58/",
    "versions": [
+    {
+     "from": "2019-06-07",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=561",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -13580,6 +13706,15 @@
    "title": "West Virginia Code, CHAPTER 16A. MEDICAL CANNABIS ACT. ARTICLE 1. SHORT TITLE.",
    "url": "https://code.wvlegislature.gov/16A-1/",
    "versions": [
+    {
+     "from": "2017-07-05",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2017_Vol_2.pdf#page=595",
+     "sha256": "4bf7b9f80e8adfc1a55c66d57b10eff180f2a7e931429a2e0bffad126d3bd7c8"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -20824,6 +20959,15 @@
    "url": "https://code.wvlegislature.gov/19-36/",
    "versions": [
     {
+     "from": "2018-06-08",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_1.pdf#page=82",
+     "sha256": "a622d1c436f1118da14f06e9781f86335df52498b8d6d47714c8784f3bac9000"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -21658,6 +21802,15 @@
    "url": "https://code.wvlegislature.gov/20-17/",
    "versions": [
     {
+     "from": "2019-06-07",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=354",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -21827,6 +21980,15 @@
    "title": "West Virginia Code, CHAPTER 21. LABOR ARTICLE 1E. CAREER TRAINING EDUCATION AND APPRENTICESHIPS.",
    "url": "https://code.wvlegislature.gov/21-1E/",
    "versions": [
+    {
+     "from": "2019-06-06",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_1.pdf#page=856",
+     "sha256": "3a1db7b641f8bc9007afa1b41fdf60dc3b31c63da34c6390199062fc41779d56"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -30685,6 +30847,15 @@
    "url": "https://code.wvlegislature.gov/31H-1/",
    "versions": [
     {
+     "from": "2019-03-05",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_1.pdf#page=498",
+     "sha256": "3a1db7b641f8bc9007afa1b41fdf60dc3b31c63da34c6390199062fc41779d56"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -32751,6 +32922,15 @@
    "url": "https://code.wvlegislature.gov/33-52/",
    "versions": [
     {
+     "from": "2019-06-07",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=137",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -33773,6 +33953,15 @@
    "url": "https://code.wvlegislature.gov/37B-1/",
    "versions": [
     {
+     "from": "2018-06-03",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2018_Vol_2.pdf#page=301",
+     "sha256": "0234e0b1032b4ca0eab0d13627dce7608388f3583071e45d07b4079699a2342e"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -34350,6 +34539,15 @@
    "title": "West Virginia Code, CHAPTER 39. RECORDS AND PAPERS. ARTICLE 4A. OUT-OF-STATE COMMISSIONERS.",
    "url": "https://code.wvlegislature.gov/39-4A/",
    "versions": [
+    {
+     "from": "2019-06-07",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=713",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
     {
      "from": "2026-10-13",
      "to": null,
@@ -40867,6 +41065,15 @@
    "url": "https://code.wvlegislature.gov/62-14A/",
    "versions": [
     {
+     "from": "2019-05-22",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_1.pdf#page=773",
+     "sha256": "3a1db7b641f8bc9007afa1b41fdf60dc3b31c63da34c6390199062fc41779d56"
+    },
+    {
      "from": "2026-10-13",
      "to": null,
      "status": "as captured",
@@ -41224,6 +41431,15 @@
    "title": "West Virginia Code, CHAPTER 64. LEGISLATIVE RULES. ARTICLE 12",
    "url": "https://code.wvlegislature.gov/64-12/",
    "versions": [
+    {
+     "from": "2019-02-11",
+     "to": "2026-10-12",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.wvlegislature.gov/legisdocs/publications/acts/Acts_2019_Vol_2.pdf#page=237",
+     "sha256": "e1640d14d8cce0f6e99f11578a833d3f9613757af471642b1e4f3e58a7aaa5be"
+    },
     {
      "from": "2026-10-13",
      "to": null,
